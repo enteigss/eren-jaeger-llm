@@ -1,0 +1,1028 @@
+{
+  "title": "Attack on Titan S.1 E.17",
+  "episode_info": {
+    "title": "Female Titan: The 57th Exterior Scouting Mission, Part 1"
+  },
+  "scenes": [
+    {
+      "description": "In the past, on the day of the plan to reclaim humanity’s territory with Eren’s Attack Titan.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Go, Eren!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Attack.Titan",
+          "line": "Uraaaa!"
+        },
+        {
+          "type": "action",
+          "description": "Eren’s Attack Titan uses a boulder to fill the hole in the gate."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "(Narration) In the year 850, for the first time, humanity recovered part of its territory from the Titans. Though at great cost."
+        }
+      ]
+    },
+    {
+      "description": "In the past, on the night of faction selection.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Erwin",
+          "line": "Then I welcome everyone here to the Survey Corps! This is a true salute! Offer up your hearts!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Cadets",
+          "line": "Yes, sir!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Erwin",
+          "line": "You have done well to endure your fear. You are brave soldiers. You have my heartfelt respect."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "(Narration) A month later, led by Erwin Smith, the Survey Corps left Karanes to find a route to Shiganshina, where it’s believed the secrets of the Titans are held."
+        }
+      ]
+    },
+    {
+      "description": "On the day the Survey Corps leaves Karanes.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Erwin",
+          "line": "We will now begin the 57th expedition beyond the walls! Onward!"
+        }
+      ]
+    },
+    {
+      "description": "On the way out of Karanes. Erwin, Hange, and Miche lead the group. Miche notices a smell, and Hange notices the Titan to their left.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Hange",
+          "line": "Ah…! Ahead to the left, a 10-meter class!"
+        },
+        {
+          "type": "action",
+          "description": "Two soldiers head forward to attack the Titan."
+        },
+        {
+          "type": "dialogue",
+          "character": "Hange",
+          "line": "I am interested in seeing what’s inside its stomach… but I’ll leave it to the support team!"
+        },
+        {
+          "type": "action",
+          "description": "One of the soldiers shallowly cuts the Titan’s neck."
+        },
+        {
+          "type": "dialogue",
+          "character": "Sup.Soldier",
+          "line": "Damn! Not deep enough! Defend the formation!"
+        },
+        {
+          "type": "action",
+          "description": "The support soldiers continue to distract the Titan as the Survey Corps continues on."
+        },
+        {
+          "type": "dialogue",
+          "character": "Sasha",
+          "line": "Eek!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldier 1",
+          "line": "Stay strong! Leave it to the support team, and keep going! Onward! Onward!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Gunther",
+          "line": "(Flashback) The support teams will only accompany us to the old city area. (Flashback) Once we’re past that, it’s completely Titan territory. (Flashback) The long-range scouting formation devised by Commander Erwin is our only hope. (Flashback) We, the Special Ops Squad, are here."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Oluo, can they… Can my classmates beat the Titans?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Oluo",
+          "line": "Huh? What have you been doing the past month?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Huh?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Listen, brat…",
+          "line": "The most crucial part of an expedition is in how you avoid fighting Titans --"
+        },
+        {
+          "type": "action",
+          "description": "Oluo bites his tongue. The soldiers continue forward, outside the city and into open fields."
+        },
+        {
+          "type": "dialogue",
+          "character": "Erwin",
+          "line": "Go into long-range scouting formation!"
+        },
+        {
+          "type": "action",
+          "description": "Soldiers begin to split off."
+        },
+        {
+          "type": "dialogue",
+          "character": "Reiner",
+          "line": "See ya, Armin."
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "If you run into a Titan, don’t piss your pants!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Right! Same to you, Jean!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Erwin",
+          "line": "The vanguard is to spread out in a semicircle. Stay within visual range of one another. Position yourselves at fixed intervals. Extend the recon and message relay range as far as possible."
+        },
+        {
+          "type": "action",
+          "description": "The soldiers continue forward. Armin watches his surroundings carefully."
+        },
+        {
+          "type": "action",
+          "description": "Some birds fly out from nearby trees."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Ah…! (Thoughts) We’ll be fine… Calm down!"
+        },
+        {
+          "type": "action",
+          "description": "A red signal flare is fired."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Ah…!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Ness",
+          "line": "(Flashback) It’s primarily the forward recon squad that will encounter Titans. (Flashback) As soon as one is sighted, they’ll fire a red smoke round. (Flashback) Anyone who sees the flare should fire the same round to relay the signal."
+        },
+        {
+          "type": "action",
+          "description": "Another red signal flare is fired."
+        },
+        {
+          "type": "dialogue",
+          "character": "Ness",
+          "line": "(Flashback) When the Commander sees it, he’ll fire a green smoke round and show the formation where to go."
+        },
+        {
+          "type": "action",
+          "description": "Erwin fires a green signal flare."
+        },
+        {
+          "type": "dialogue",
+          "character": "Ness",
+          "line": "(Flashback) Thus, the entire formation can advance toward the goal while avoiding Titans."
+        },
+        {
+          "type": "action",
+          "description": "Sasha arrives at a small rundown house."
+        },
+        {
+          "type": "dialogue",
+          "character": "Ness",
+          "line": "(Flashback) But sometimes, due to terrain or obstacles, a Titan won’t be sighted until it’s within the formation."
+        },
+        {
+          "type": "action",
+          "description": "A Titan appears from behind the house and into Sasha’s view."
+        },
+        {
+          "type": "dialogue",
+          "character": "Sasha",
+          "line": "Ahh!! Ahh!"
+        },
+        {
+          "type": "action",
+          "description": "Sasha veers off-course. The Titan follows as she prepares a signal flare."
+        },
+        {
+          "type": "dialogue",
+          "character": "Sasha",
+          "line": "Red… Red… Red smoke round."
+        },
+        {
+          "type": "action",
+          "description": "Sasha drops the signal flare."
+        },
+        {
+          "type": "dialogue",
+          "character": "Sasha",
+          "line": "Ahh!"
+        },
+        {
+          "type": "action",
+          "description": "The Titan stomps on the signal flare."
+        },
+        {
+          "type": "dialogue",
+          "character": "Sasha",
+          "line": "Ah!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldier 1",
+          "line": "Braus! Over here!"
+        },
+        {
+          "type": "action",
+          "description": "Two soldiers call to Sasha. One fires a red signal flare."
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldier 2",
+          "line": "Damn it! Did we let one through?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldier 1",
+          "line": "We’ll draw it this way. Braus, get over here!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Sasha",
+          "line": "Ah… Ah… Ahh!!"
+        },
+        {
+          "type": "action",
+          "description": "Sasha turns her horse toward the other soldiers. The Titan changes its focus to the two other soldiers and chases them."
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldier 1",
+          "line": "Ah… I’ll handle it! Split off!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldier 2",
+          "line": "Yes, sir!"
+        },
+        {
+          "type": "action",
+          "description": "The soldiers split off. The Titan follows one soldier as he makes his way to a small rundown house."
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldier 1",
+          "line": "Ngh… Ahhh!!"
+        },
+        {
+          "type": "action",
+          "description": "The soldier rides past a tree, and the Titan slams into it."
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldier 1",
+          "line": "Ngh…!"
+        },
+        {
+          "type": "action",
+          "description": "Sasha and the two other soldiers regroup."
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldier 1",
+          "line": "Back into position! He ran out of gas."
+        }
+      ]
+    },
+    {
+      "description": "At Armin’s position. Armin rides alone as he surveys the surroundings.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "(Thoughts) Something’s wrong. It’s been a while since we saw the red smoke round, but they still haven’t reformed."
+        },
+        {
+          "type": "dialogue",
+          "character": "Ness",
+          "line": "(Flashback) Note that this strategy only works on normal Titans, whose behavior can be easily predicted."
+        },
+        {
+          "type": "action",
+          "description": "A black signal flare is fired."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Ah…! (Thoughts) A black smoke round? (Thoughts) Is a Titan ignoring the nearby humans and heading for the formation’s center?"
+        },
+        {
+          "type": "action",
+          "description": "Armin fires a black signal flare."
+        },
+        {
+          "type": "action",
+          "description": "An Aberrant bounds out of the forest to chase two soldiers."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "(Thoughts) … an Aberrant!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Ness",
+          "line": "(Flashback) It’s only necessary to fight Aberrants, whose behavior is unpredictable."
+        },
+        {
+          "type": "dialogue",
+          "character": "Damn, we’ll have to fight it…",
+          "line": "Cis, go for the neck! I’ll stop it!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Cis",
+          "line": "Roger!"
+        },
+        {
+          "type": "action",
+          "description": "Ness draws his weapons."
+        },
+        {
+          "type": "dialogue",
+          "character": "Ness",
+          "line": "(Thoughts) Using Maneuver Gear on flat terrain is a huge disadvantage. (Thoughts) It almost never works, but I can’t let it disrupt the formation. (Thoughts) I think that’s Arlert over there. (Thoughts) I don’t want one of the new guys to run into it. (Thoughts) We’ll kill it here!"
+        },
+        {
+          "type": "action",
+          "description": "Ness shoots the anchor into the Titan’s ankle and cuts it."
+        },
+        {
+          "type": "dialogue",
+          "character": "Ness",
+          "line": "Ngh… Hya!"
+        },
+        {
+          "type": "action",
+          "description": "The Titan falls to the ground."
+        },
+        {
+          "type": "dialogue",
+          "character": "Ness",
+          "line": "Now, Cis!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Cis",
+          "line": "Uraaa!!"
+        },
+        {
+          "type": "action",
+          "description": "Cis cuts into the neck of the Titan, and it falls to the ground, dead."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "You did it, Squad Leader Ness! Huh…?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Ness",
+          "line": "Did I get him?"
+        },
+        {
+          "type": "action",
+          "description": "Ness’s horse Charrette comes back."
+        },
+        {
+          "type": "dialogue",
+          "character": "You came for me? That’s my partner…",
+          "line": "I love you, Charrette!"
+        },
+        {
+          "type": "action",
+          "description": "Ness and Cis regroup. Behind them, a large Titan is sprinting forward."
+        },
+        {
+          "type": "dialogue",
+          "character": "Cis",
+          "line": "Huh?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Ness",
+          "line": "Again? What is the right flank recon squad doing?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Cis",
+          "line": "If it ignored them and came this way, it must be another Aberrant."
+        },
+        {
+          "type": "dialogue",
+          "character": "Tsk! Oh, fine…",
+          "line": "Cis, we do it again."
+        },
+        {
+          "type": "dialogue",
+          "character": "Cis",
+          "line": "Right."
+        },
+        {
+          "type": "dialogue",
+          "character": "Ness",
+          "line": "But we’ve got the worst luck, doing this twice in a row… And I think it’s at least a 14-meter class. This one will be tough. Ah…!"
+        },
+        {
+          "type": "action",
+          "description": "The Female Titan sprints forward, now right behind Ness and Cis."
+        },
+        {
+          "type": "dialogue",
+          "character": "Cis",
+          "line": "Ah…!"
+        },
+        {
+          "type": "action",
+          "description": "Ness and Cis move their horses just in time to avoid being trampled by the Female Titan. Armin fires a black signal flare."
+        },
+        {
+          "type": "dialogue",
+          "character": "Ness",
+          "line": "Ngh!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Cis",
+          "line": "Gah!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Ness",
+          "line": "Ngh…!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "What’s that? It’s too fast!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Ness",
+          "line": "Don’t let it reach Arlert! Cis!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Cis",
+          "line": "Right!"
+        },
+        {
+          "type": "action",
+          "description": "Cis shoots his anchor into the Female Titan’s neck."
+        },
+        {
+          "type": "dialogue",
+          "character": "Cis",
+          "line": "Uraaa!!"
+        },
+        {
+          "type": "action",
+          "description": "Before Cis can slice the Female Titan’s neck, it catches him in the air and crushes him."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Ah…!"
+        },
+        {
+          "type": "action",
+          "description": "Ness also moves to attack the Female Titan, but it catches the wire of his 3DMG."
+        },
+        {
+          "type": "dialogue",
+          "character": "Ness",
+          "line": "Ugh… Ah…!"
+        },
+        {
+          "type": "action",
+          "description": "The Female Titan whips Ness into the ground with the wire. It stops in its tracks."
+        },
+        {
+          "type": "action",
+          "description": "The Female Titan continues forward."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Ngh…! Agh…!"
+        },
+        {
+          "type": "action",
+          "description": "Armin turns his horses around as the Female Titan continues."
+        },
+        {
+          "type": "dialogue",
+          "character": "No… No…",
+          "line": "That’s no Aberrant. It’s intelligent! Like the Armored or Colossal Titans, or Eren… A human in the body of a Titan! B-But who? Why?! This is bad! What should I do? I’m going to die, too! I’ll be killed! Go! Run!"
+        },
+        {
+          "type": "action",
+          "description": "Armin lets go of one of his horses, which is trampled by the Female Titan."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Ah…! (Thoughts) What does it… No, what do they… What do they want?"
+        }
+      ]
+    },
+    {
+      "description": "In the field, elsewhere. Many soldiers lay dead or dying, surrounded by Titans.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Soldier",
+          "line": "Someone tell them… that the right flank recon squad has been wiped out… A Female Titan brought a huge Titan army!"
+        },
+        {
+          "type": "action",
+          "description": "A Titan picks up the soldier."
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldier",
+          "line": "Is anyone there?"
+        }
+      ]
+    },
+    {
+      "description": "In the field, at Armin’s position. The Female Titan is coming down from its jump.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Ah…!"
+        },
+        {
+          "type": "action",
+          "description": "The Female Titan lands just slightly away from Armin’s horse, sending Armin flying. He lands on the ground."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Ngh…! Urk…!"
+        },
+        {
+          "type": "action",
+          "description": "The Female Titan gets on its knees. Armin remains crouched down in fear."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Ah…!"
+        },
+        {
+          "type": "action",
+          "description": "The Female Titan picks the hood off Armin’s head. Armin and the Female Titan watch each other for a moment. Eventually, it gets back up."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Huh? Huh…?"
+        },
+        {
+          "type": "action",
+          "description": "The Female Titan continues on."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "It’s not going to kill me? What was that just now…? It removed my hood… to… to look at my face?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Reiner",
+          "line": "Armin!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Ah…! Reiner!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Reiner",
+          "line": "Hey, can you stand? You won’t last outside the walls unless you’re on horseback. Hurry!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Right!"
+        },
+        {
+          "type": "action",
+          "description": "Armin gets on a horse, and he and Reiner follow the Female Titan."
+        },
+        {
+          "type": "dialogue",
+          "character": "Reiner",
+          "line": "I saw the smoke round signalling an Aberrant. Was it that one there with the nice ass?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "That’s no Aberrant. It’s a human in a Titan body!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Reiner",
+          "line": "What was that?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Ah… Wait a second. We need to fire a smoke round first. H-Hurry… There’s an emergency over there. With a smoke round, I’ll…"
+        },
+        {
+          "type": "action",
+          "description": "Behind Reiner and Armin, a yellow signal flare is fired."
+        },
+        {
+          "type": "dialogue",
+          "character": "Reiner",
+          "line": "Wait… I think Jean fired it."
+        },
+        {
+          "type": "action",
+          "description": "More yellow signal flares are fired."
+        },
+        {
+          "type": "dialogue",
+          "character": "Reiner",
+          "line": "It came from the right flank. Does that mean we’re so compromised that we can’t continue the mission?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "Looks like the right flank recon squad was partially wiped out. Titans, tons of them. I don’t know why, but there are lots of fast ones. For now, we’re holding them back, but recon is no longer possible. We’ve taken heavy losses, and if we aren’t careful, we’ll be destroyed!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "That Titan came from the same direction. No way… Was it leading the Titans?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "It? Why is a Titan over there? An Aberrant?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "No, it’s a human in a Titan body… Someone with the same ability as Eren."
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "What?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Reiner",
+          "line": "Why do you think that, Armin?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "The Titans only eat us. We’re just killed in the process. Killing us isn’t ever specifically their goal. But when Cis aimed for its weak spot, it crushed him and smashed him into the ground. It killed him to kill, rather than to eat him. Its nature is different from the others. When the Colossal and Armored Titans destroyed the walls, it must’ve been the one that brought that army of Titans. Their goal has consistently been to attack all humanity! No, maybe not. It felt like it was looking for someone… If that is the case, could it be looking for… Could it be looking for Eren?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Reiner",
+          "line": "Eren? Eren’s with Squad Levi, which is in charge of the right flank."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Huh?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "The right flank? The plans I got had them to the rear of the left flank."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Mine said they were near the front of the right. Wait, there’s no way they’d be on the front lines."
+        },
+        {
+          "type": "dialogue",
+          "character": "Reiner",
+          "line": "So where are they?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Probably the safest place in the formation. Which means in the center, and toward the rear."
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "Armin! There’s no time to think. Smoke rounds can’t possibly indicate how much of a threat it poses! At this rate, it’ll wipe out the command. Then the formation will fall apart, and that’ll be the end."
+        },
+        {
+          "type": "dialogue",
+          "character": "Reiner",
+          "line": "What are you trying to say?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "In other words, at this range, we may still be able to draw its attention. We may be able to buy time to withdraw."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "But it really is intelligent. To it, we are nothing but insignificant insects. It’ll just crush us…"
+        },
+        {
+          "type": "dialogue",
+          "character": "Reiner",
+          "line": "Hey, are you really Jean? The Jean I know never thinks of anyone but himself."
+        },
+        {
+          "type": "dialogue",
+          "character": "Don’t be an ass…",
+          "line": "I just don’t want those charred bones I saw to be disappointed in me. I… I know what I have to do now! And this is the job we chose. Help me!"
+        },
+        {
+          "type": "action",
+          "description": "Armin pulls his hood on."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Put on your hood, as far forward as you can… so that your face is hidden from it. I don’t think it will kill us until it knows who we are!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Reiner",
+          "line": "I see. You believe if it thinks we might be Eren, it won’t kill us? If nothing else, it’ll make me feel better. Let’s just hope it has poor eyesight!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "Armin, I thought it was creepy how you always clung to Eren, but I’ve always thought you had it in you."
+        },
+        {
+          "type": "action",
+          "description": "Armin, Reiner, and Jean continue forward. They catch up with the Female Titan."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "(Thoughts) It’s going much more slowly than when I first saw it. Is it tired? (Thoughts) If it runs at that speed again, we’ll be too late! (Thoughts) Now’s our chance… We have to do it now!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "(Thoughts) Listen up… Remember what I said. (Thoughts) Try to draw its attention for as long as possible to give the formation time to withdraw! (Thoughts) Keep it here as long as you can. (Thoughts) If we could cut its Achilles tendon, that’d be more than enough. (Thoughts) But don’t do anything stupid… Don’t try to kill it!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "(Thoughts) It’s aware of the weak spot on its neck. (Thoughts) It’s totally different from other Titans… It is impossible to kill. (Thoughts) At least, not by any normal human being."
+        },
+        {
+          "type": "action",
+          "description": "Jean draws his weapons and stands on his horse. The Female Titan looks back."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Ah…!"
+        },
+        {
+          "type": "action",
+          "description": "Jean shoots the anchors toward the Female Titan’s ankle, but it moves so that the anchor bounces off."
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "Ah…!"
+        },
+        {
+          "type": "action",
+          "description": "The Female Titan moves to attack Jean, but he avoids the attack. It charges for Armin and whacks him off his horse."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Agh!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "Ah!"
+        },
+        {
+          "type": "action",
+          "description": "Jean runs for Armin. Reiner continues on his horse. The Female Titan kneels over Armin as he lies on the ground."
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "Ngh… Armin!"
+        },
+        {
+          "type": "action",
+          "description": "Jean shoots his anchors into the Female Titan’s back. It turns to Jean."
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "Ah! This one…! (Thoughts) Its movements are much more precise than the others’ are! (Thoughts) Damn it. I… I underestimated it!"
+        },
+        {
+          "type": "action",
+          "description": "Jean withdraws his anchors, just in time so he can avoid the Female Titan’s attack. As he revolves around so he’s behind the Titan, it covers its nape with its hand."
+        },
+        {
+          "type": "dialogue",
+          "character": "Reiner",
+          "line": "Jean!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "(Thoughts) Damn it! I can’t get away! I’m going to die! (Thoughts) Once it grasps my wire, it’s over!"
+        },
+        {
+          "type": "action",
+          "description": "The Female Titan prepares to attack Jean."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Jean! Avenge the suicidal bastard!"
+        },
+        {
+          "type": "action",
+          "description": "The Female Titan stops."
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "Ah…! (Thoughts) Armin? (Thoughts) It stopped?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "That’s the one… That’s the one that killed him! He rushed to his death on the right flank! Avenge him!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "(Thoughts) What happened? (Thoughts) Did Armin hit his head and go insane? This isn’t the time…"
+        },
+        {
+          "type": "dialogue",
+          "character": "Ah…",
+          "line": "(Thoughts) Reiner?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "It crushed my best friend! I saw his body under its foot!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Reiner",
+          "line": "Ngh!"
+        },
+        {
+          "type": "action",
+          "description": "Reiner shoots his hook into the Female Titan’s back."
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "(Thoughts) He’s going straight for the neck? (Thoughts) No, it’s working! While it’s distracted by Armin!"
+        },
+        {
+          "type": "action",
+          "description": "The Female Titan turns to face Reiner."
+        },
+        {
+          "type": "dialogue",
+          "character": "Reiner",
+          "line": "Ngh!"
+        },
+        {
+          "type": "action",
+          "description": "The Female Titan catches Reiner."
+        },
+        {
+          "type": "dialogue",
+          "character": "Reiner",
+          "line": "Urk!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Reiner",
+          "line": "Ngh… Argh… Ngh…!"
+        },
+        {
+          "type": "action",
+          "description": "The Female Titan pushes its thumb onto Reiner’s head, and an explosion of blood occurs."
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "Ah…!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Huh…?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Reiner",
+          "line": "Uraaa!!"
+        },
+        {
+          "type": "action",
+          "description": "Reiner cuts his way out of the Female Titan’s hand."
+        },
+        {
+          "type": "action",
+          "description": "Reiner whips around with his 3DMG to get Armin."
+        },
+        {
+          "type": "dialogue",
+          "character": "Reiner",
+          "line": "Ngh!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Ah!"
+        },
+        {
+          "type": "action",
+          "description": "The Female Titan looks at its steaming hand."
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "(Thoughts) Reiner did it! (Thoughts) Mikasa was so strong, I forgot. But he’s really strong and reliable, too…"
+        },
+        {
+          "type": "dialogue",
+          "character": "Reiner",
+          "line": "We've brought enough time, right?! Let’s get the hell away from it! If it isn’t a man-eater, it won’t follow us!"
+        },
+        {
+          "type": "action",
+          "description": "The Female Titan gets up and runs off."
+        },
+        {
+          "type": "dialogue",
+          "character": "Reiner",
+          "line": "Look! That big bitch got scared and decided to go home!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "(Thoughts) Huh…? No… Why? (Thoughts) That’s toward the center rear. (Thoughts) Is it… heading toward Eren?"
+        }
+      ]
+    }
+  ]
+}

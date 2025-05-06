@@ -1,0 +1,1277 @@
+{
+  "title": "Attack on Titan S.1 E.24",
+  "episode_info": {
+    "title": "Mercy: Assault on Stohess, Part 2"
+  },
+  "scenes": [
+    {
+      "description": "In Stohess. Annie speaks with Eren, Armin, and Mikasa, who are trying to lead her down into an underground tunnel.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Annie",
+          "line": "Armin, I’m glad I could be a good person to you. You’ve won your bet. But… this is where my bet begins!"
+        },
+        {
+          "type": "action",
+          "description": "Annie prepares to bite her finger."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Ah… Ngh!"
+        },
+        {
+          "type": "action",
+          "description": "Armin fires a shot from a flare gun. Undercover soldiers emerge and tackle Annie."
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldiers",
+          "line": "Ngh! Urgh! Urahhh!"
+        },
+        {
+          "type": "action",
+          "description": "Annie uses a ring to cut her finger, transforming into the Female Titan."
+        },
+        {
+          "type": "dialogue",
+          "character": "Erwin",
+          "line": "(Flashback) We have identified a person of interest who may be the Female Titan."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Annie!"
+        },
+        {
+          "type": "action",
+          "description": "Eren runs deeper into the underground tunnel."
+        }
+      ]
+    },
+    {
+      "description": "Several days earlier, at night, at the Survey Corps experimental compound. Eren and Levi are waiting for Erwin.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Levi",
+          "line": "They’re late. Erwin and his men are keeping me waiting. The MP escorts will come before they do. He’s probably constipated and having a rough day."
+        },
+        {
+          "type": "dialogue",
+          "character": "Hahaha…",
+          "line": "You’re talking a lot today, Lance Corporal."
+        },
+        {
+          "type": "dialogue",
+          "character": "Levi",
+          "line": "Don’t be stupid. I always talk a lot."
+        },
+        {
+          "type": "action",
+          "description": "Levi grabs his left leg."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "I’m sorry. Back then, if I hadn’t made the wrong choice… this never would’ve happened."
+        },
+        {
+          "type": "dialogue",
+          "character": "Levi",
+          "line": "I told you… No one ever knows how things will turn out."
+        },
+        {
+          "type": "action",
+          "description": "Erwin enters the room."
+        },
+        {
+          "type": "dialogue",
+          "character": "Erwin",
+          "line": "Sorry to keep you waiting."
+        },
+        {
+          "type": "action",
+          "description": "Armin, Mikasa, Jean, and some other soldiers enter with Erwin."
+        },
+        {
+          "type": "dialogue",
+          "character": "Erwin",
+          "line": "We have identified a person of interest who may be the Female Titan."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Huh?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Erwin",
+          "line": "This time, we won’t let her escape. The operation will be in two days. It will take place in Stohess District, on our way to the capital. This is our first and last chance. Once we pass that point, Eren will be remanded to the capital. Our pursuit of those who seek to destroy the walls will become fraught with difficulty. Ultimately, humanity stands to go extinct. We will stake everything on this plan."
+        },
+        {
+          "type": "dialogue",
+          "character": "Erwin",
+          "line": "The plan will be as follows. When we pass through Stohess, Eren will act as a decoy and lead the target into this underground tunnel. If we can get her to the lowest level, given the tunnel’s size and structural integrity, even if the target transforms, we can immobilize her. But if she transforms before then, Eren, we’ll need your help."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Yes, sir. As for the target, are we sure she is in Stohess?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Erwin",
+          "line": "Yes, our target is a member of the Military Police."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "The Military Police?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Erwin",
+          "line": "It was Armin who arrived at that conclusion."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Huh?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Erwin",
+          "line": "He believes the target also killed the two captured Titans. She may be a former trainee from the 104th, the same as you."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Huh? W-Wait a second… The 104th?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Erwin",
+          "line": "The name of the girl we believe to be the person of interest is…"
+        }
+      ]
+    },
+    {
+      "description": "In the present. Annie transforms into the Female Titan in Stohess.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Erwin",
+          "line": "(Flashback) … Annie Leonhart."
+        },
+        {
+          "type": "action",
+          "description": "Annie’s Female Titan reaches its arm into the tunnel."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren, Armin",
+          "line": "Ngh!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Urgh!"
+        },
+        {
+          "type": "action",
+          "description": "Eren, Armin, and Mikasa run further into the tunnel."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Damn it… That ring! She knew I was bluffing from the start! She knew we would ambush her! We must have had another way!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "Save it for later. What do we need to do right now?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "For now, let’s meet up with Squad 3 and get above ground. We’ll follow Plan B. We fight Annie… the Female Titan! Eren transforms as planned and assists in her capture!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "You’ll do it, right?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Yeah!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldier",
+          "line": "Hey!"
+        },
+        {
+          "type": "action",
+          "description": "Two Survey Corps members are waiting further down the tunnel."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "There’s Squad 3!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldier",
+          "line": "Did the first capture attempt fail?!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "It did! Switch to Plan B! Ah!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldiers",
+          "line": "Ah!"
+        },
+        {
+          "type": "action",
+          "description": "Annie’s Female Titan’s foot crashes through the top of the tunnel, killing the two soldiers."
+        },
+        {
+          "type": "dialogue",
+          "character": "Group",
+          "line": "Ngh!"
+        },
+        {
+          "type": "action",
+          "description": "The dust from the crash clears."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Ah! She stomped right through the ground!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Ah… We have to help them!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "Eren! Get back!"
+        },
+        {
+          "type": "action",
+          "description": "Mikasa pulls Eren back, away from the fallen soldiers."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Hey, Mikasa…! Ngh… Ugh!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "The Female Titan is willing to let Eren die?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "When she created that hole, she bet that Eren wouldn’t die. It’s crazy, but it also means she’ll be tough to beat!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren, Mikasa",
+          "line": "Ngh!"
+        },
+        {
+          "type": "action",
+          "description": "Armin runs further back. Mikasa and Eren follow."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "To take Eren, Annie’s willing to assume any risk!"
+        }
+      ]
+    },
+    {
+      "description": "Sometime later, further back in the tunnel. Eren, Armin, and Mikasa regroup.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "What should we do? Our exit is gone. Even if we use our 3D Maneuver Gear to make a quick exit, she’ll be right there waiting for us."
+        },
+        {
+          "type": "action",
+          "description": "Annie’s Female Titan’s foot comes crashing through the tunnel again, some distance away."
+        },
+        {
+          "type": "dialogue",
+          "character": "Ngh! Ngh…",
+          "line": "If we stay here, who knows when she’ll crush us?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "I’ll do something! Like when I blocked that cannon shell! Come this way!"
+        },
+        {
+          "type": "action",
+          "description": "Eren pulls Armin and Mikasa close to him."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Wait…!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Let’s go! Stay close!"
+        },
+        {
+          "type": "action",
+          "description": "Eren bites into his hand."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Gahh! Ahhh!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Huh?"
+        },
+        {
+          "type": "action",
+          "description": "Eren falls to his knees."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Ngh… Ugh! Now, of all times! Shit… It hurts!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "You can’t transform without a specific goal, right? Picture it in your mind again… clearly!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "I am! But… Urgh!"
+        },
+        {
+          "type": "action",
+          "description": "Eren bites into his hand again."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Ngh… Grr… Ahh!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Ah!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "… still have reservations about fighting Annie?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Eren?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "After everything you’ve seen, do you still think it might be all a mistake that Annie is the Female Titan?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "What did you just see? She’s the one who killed our fellow soldiers. How can you still think that?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Ngh… Shut up! I’m trying, aren’t I?!"
+        },
+        {
+          "type": "action",
+          "description": "Eren bites into his hand again."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Ugh… Ngh! Urgh!"
+        }
+      ]
+    },
+    {
+      "description": "In a flashback, to the night the plans are discussed. Eren questions the plan.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Annie’s the Female Titan? Why? Why do you think that, Armin?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "From the start, the Female Titan knew what you looked like. And she reacted to your nickname, “suicidal bastard”, which only the 104th trainees would know. And the biggest reason is that I believe Annie killed the test subjects, Sawney and Bean."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "How can you tell?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Only someone very skilled could have done it, and they’d have used their own 3D Maneuver Gear, which they’re accustomed to."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Yeah, wasn’t that why they inspected our 3D Maneuver Gear? But they didn’t find anything on Annie…"
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Annie brought Marco’s 3D Maneuver Gear to the inspection. That’s why she managed to avoid getting caught."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Huh? What are you talking about? What does Marco have to do with this?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "I don’t know."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Are you sure it was his?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Levi",
+          "line": "Hey, kid. We get it. Do you have any other evidence?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "No, I don’t."
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "I think Annie’s face resembles the Female Titan’s."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Huh? What are you talking about?! That isn’t evidence --"
+        },
+        {
+          "type": "dialogue",
+          "character": "Levi",
+          "line": "So, you have no proof, but you’ll do it anyway."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "You have no proof? What? Then why do it? What if it isn’t her?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "Then we’ll know she’s innocent. That’s all."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "And then I’ll feel bad for Annie. However, if we don’t do something, you’ll end up being sacrificed to the people in the capital!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "You’re crazy to think Annie’s a Titan."
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "Eren, now that you know we suspect her, isn’t it ringing any bells?"
+        },
+        {
+          "type": "action",
+          "description": "Eren remembers the fighting stance the Female Titan took when they fought in the forest."
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "You fought the Female Titan. Didn’t anything remind you of Annie’s distinctive combat style?"
+        }
+      ]
+    },
+    {
+      "description": "In the present. Eren stares at his bloodied hand.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "You do know, don’t you? You know Annie is the Female Titan."
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "Then we should fight her, shouldn’t we? Or do you have certain feelings for her? Is that what’s stopping you?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Huh?"
+        },
+        {
+          "type": "action",
+          "description": "Armin draws his blade."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "I have a plan!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Mikasa and I will exit at the same time, using the original entrance and that opening. Annie will attack one of us. Use that opportunity to get out from the other exit!"
+        },
+        {
+          "type": "action",
+          "description": "Armin begins to run off."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Wait! Then one of you will die!"
+        },
+        {
+          "type": "action",
+          "description": "Mikasa puts her Survey Corps cloak on."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "If we stay here, we all die, anyway!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Mikasa, take your position!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "Right. I’ll take the front!"
+        },
+        {
+          "type": "action",
+          "description": "Mikasa draws her blades and runs off."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Mikasa!"
+        },
+        {
+          "type": "action",
+          "description": "Armin runs off in the other direction."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Armin! How? How can you fight her?! How?!"
+        },
+        {
+          "type": "action",
+          "description": "Mikasa stops and looks back."
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "We don’t have a choice. The world is cruel."
+        },
+        {
+          "type": "action",
+          "description": "Mikasa pulls her hood up more and runs off."
+        },
+        {
+          "type": "action",
+          "description": "The ground begins to shake."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Ah!"
+        },
+        {
+          "type": "action",
+          "description": "The ceiling crumbles down on Eren."
+        }
+      ]
+    },
+    {
+      "description": "In Stohess. The ceiling of the underground tunnel has come down on Eren.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Eren! Ngh! Urgh!"
+        },
+        {
+          "type": "action",
+          "description": "Armin shoots into the sky. Mikasa shoots into the air from the other side and flies toward Annie’ Female Titan. Annie’s Female Titan grabs her, but Mikasa cuts through its fingers."
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "Annie, I won’t let you have Eren!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Eren!"
+        },
+        {
+          "type": "action",
+          "description": "Armin lands in the rubble of the tunnel."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Eren! I’ll get you out! Ngh… Urgh!"
+        },
+        {
+          "type": "action",
+          "description": "Armin begins removing the rubble on Eren’s unconscious body."
+        },
+        {
+          "type": "action",
+          "description": "Annie’s Female Titan turns and starts running toward Eren and Armin. Mikasa flies toward Annie’s Female Titan and prepares to attack."
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "Urahhh!"
+        },
+        {
+          "type": "action",
+          "description": "Annie’s Female Titan tries to hit Mikasa, but she dodges. A nearby building is destroyed."
+        },
+        {
+          "type": "action",
+          "description": "Mikasa falls to the ground. Annie’s Female Titan turns back toward Eren and Armin. Other Survey Corps soldiers arrive."
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldiers",
+          "line": "Don’t let the Female Titan escape! Don’t let her get out!"
+        }
+      ]
+    },
+    {
+      "description": "Elsewhere in Stohess. The Military Police stop their escort.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Nile",
+          "line": "What happened? Escort team, we don’t need you here!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Marlo",
+          "line": "Roger!"
+        },
+        {
+          "type": "action",
+          "description": "Marlo, Hitch, and Boris fly off."
+        },
+        {
+          "type": "dialogue",
+          "character": "Erwin",
+          "line": "Nile."
+        },
+        {
+          "type": "dialogue",
+          "character": "Erwin",
+          "line": "Deploy all of your troops. We should assume a Titan has appeared."
+        },
+        {
+          "type": "dialogue",
+          "character": "Nile",
+          "line": "Wh-What?! This is Wall Sina! There’s no way a Titan could be here!"
+        },
+        {
+          "type": "action",
+          "description": "Jean jumps out of the carriage. A soldier grabs him."
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldier",
+          "line": "Woah… Wait! Don’t move, Jaeger!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "I’m done with this disguise!"
+        },
+        {
+          "type": "action",
+          "description": "Jean rips the wig off and throws it on the ground."
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldier",
+          "line": "Ahh!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "Never call me by that name again, moron!"
+        },
+        {
+          "type": "action",
+          "description": "Jean approaches Erwin."
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "Commander, I’m going, too!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Erwin",
+          "line": "Get your equipment from Squad 4."
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "Roger!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Levi",
+          "line": "It’s good to see that someone has the balls to go, but don’t forget to do your damnedest to stay alive."
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "Yes, sir."
+        },
+        {
+          "type": "action",
+          "description": "Jean runs off."
+        },
+        {
+          "type": "dialogue",
+          "character": "Nile",
+          "line": "Ahh! Erwin, what is this?!"
+        },
+        {
+          "type": "action",
+          "description": "A soldier arrives."
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldier",
+          "line": "Commander, here!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Nile",
+          "line": "Huh?"
+        },
+        {
+          "type": "action",
+          "description": "The soldier provides Erwin with a case of 3D Maneuver Gear."
+        },
+        {
+          "type": "dialogue",
+          "character": "Erwin",
+          "line": "Good work."
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldier",
+          "line": "Yes, sir."
+        },
+        {
+          "type": "action",
+          "description": "Erwin gets geared up."
+        },
+        {
+          "type": "dialogue",
+          "character": "Nile",
+          "line": "Hey, Erwin!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Erwin",
+          "line": "Anyone who can move, follow me! We’ll rendezvous with the capture teams!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Nile",
+          "line": "Erwin, wait!"
+        },
+        {
+          "type": "action",
+          "description": "Nile points his rifle at Erwin. Other Military Police soldiers follow."
+        },
+        {
+          "type": "dialogue",
+          "character": "Nile",
+          "line": "What you’re doing is clearly treason against the crown!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Levi",
+          "line": "Nile, I’m starting to wonder if your brains don’t even live up to that sorry excuse of a beard. Seems to me that you don’t even have a clue about what’s going on."
+        },
+        {
+          "type": "dialogue",
+          "character": "Nile",
+          "line": "Remove your equipment, Erwin!"
+        }
+      ]
+    },
+    {
+      "description": "Elsewhere in Stohess. Citizens are running throughout the streets.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Citizens",
+          "line": "A Titan! A Titan is here! What’s it doing here?! The wall wasn’t plugged!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldiers",
+          "line": "Hey, isn’t that a Titan? Yeah… But how?"
+        },
+        {
+          "type": "action",
+          "description": "Jean runs toward Annie’s Female Titan as the Military Police soldiers stare in shock."
+        },
+        {
+          "type": "dialogue",
+          "character": "Get out of the way! Ngh…",
+          "line": "(Thoughts) Damn those slackers! (Thoughts) I could’ve been one of them. What the hell happened? Damn it!"
+        },
+        {
+          "type": "action",
+          "description": "More Survey Corps soldiers come to fight Annie’s Female Titan."
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldier",
+          "line": "Don’t attempt to kill it. Just try to slow it down!"
+        },
+        {
+          "type": "action",
+          "description": "Two soldiers work together to get close to Annie’s Female Titan. One goes in to attack."
+        },
+        {
+          "type": "dialogue",
+          "character": "Ngh…",
+          "line": "Urgh!"
+        },
+        {
+          "type": "action",
+          "description": "Annie’s Female Titan grabs the soldier’s wire, flinging him into a building. It grabs another soldier and kills him."
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldier",
+          "line": "It’s no use… It knows how 3D Maneuver Gear works!"
+        },
+        {
+          "type": "action",
+          "description": "Mikasa races toward Annie’s Attack Titan."
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "I’m not going to make this easy on you! Ngh… Ugh!"
+        },
+        {
+          "type": "action",
+          "description": "Mikasa slices through Annie’s Female Titan’s ankles. Armin removes a piece of rubble on Eren."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Eren! Answer me, Eren!"
+        },
+        {
+          "type": "action",
+          "description": "Jean lands near the rubble."
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "Hey! What are you doing?!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Jean! Eren’s trapped!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "Huh? The plan was for him to become a Titan!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "He couldn’t… I think the fact that it’s Annie is stopping him."
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "What?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Anyway, we have to save him! Jean, help me!"
+        },
+        {
+          "type": "action",
+          "description": "Armin begins moving another piece of rubble."
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "He couldn’t transform? Ngh… Eren, what the hell is wrong with you?! Didn’t I once tell you that I’m counting on you?! We have to entrust the world, humanity, and our lives to you, and this is how you repay us?! Marco… You know, Marco… Damn it!"
+        },
+        {
+          "type": "action",
+          "description": "A boulder is flung into a building and ricochets toward Armin and Jean."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Ah… Ugh!"
+        },
+        {
+          "type": "action",
+          "description": "Armin and Jean jump out of the way."
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "It’s no use… We have to do something about her first!"
+        },
+        {
+          "type": "action",
+          "description": "Jean moves toward Annie’s Female Titan."
+        },
+        {
+          "type": "dialogue",
+          "character": "Ah…",
+          "line": "Eren, I said this once to Jean. Someone who can’t sacrifice anything can never change anything. To defeat monsters, you have to be willing to throw aside your humanity. Annie is certainly capable of doing that… although I don’t know what her reasons are. But whoever can do it will win!"
+        },
+        {
+          "type": "action",
+          "description": "Armin gets up to leave."
+        },
+        {
+          "type": "action",
+          "description": "A soldier charges toward Annie’s Female Titan."
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldier",
+          "line": "Urahhh! Ugh!"
+        },
+        {
+          "type": "action",
+          "description": "Annie’s Female Titan grabs the soldier and flings him into a building."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Ngh… Annie! If you can’t kill me this time, you can’t make the same bullshit excuse that your bet’s just beginning anymore!"
+        },
+        {
+          "type": "action",
+          "description": "Annie’s Female Titan turns to Armin. Jean comes to attack its neck from behind."
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "Urahhh!"
+        },
+        {
+          "type": "action",
+          "description": "Jean’s blades break against Annie’s Female Titan’s crystallized hand. Jean retreats."
+        },
+        {
+          "type": "dialogue",
+          "character": "Ngh…",
+          "line": "Armin, this way!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Roger!"
+        },
+        {
+          "type": "action",
+          "description": "Armin follows after Jean. Annie’s Female Titan follows after them. Hange and Moblit hide behind the side of a building, Hange with a switch in their hand."
+        },
+        {
+          "type": "dialogue",
+          "character": "Hange",
+          "line": "Fufufufu… It’s coming… It’s coming!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Moblit",
+          "line": "Squad Leader… You have a crazy look in your eyes."
+        },
+        {
+          "type": "action",
+          "description": "Armin and Jean pass Hange and Moblit. Annie’s Female Titan turns to see Hange."
+        },
+        {
+          "type": "dialogue",
+          "character": "Fufufu…",
+          "line": "Ngh!"
+        },
+        {
+          "type": "action",
+          "description": "Hange pulls a wire, sending a bunch of wires wrapping around Annie’s Female Titan’s legs."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin, Jean",
+          "line": "Ah… Ugh!"
+        },
+        {
+          "type": "action",
+          "description": "Armin and Jean dodge out of Annie’s Female Titan’s grasp. Annie’s Female Titan is bound and unable to move. It falls backward."
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldiers",
+          "line": "Ngh… Urgh!"
+        },
+        {
+          "type": "action",
+          "description": "Two soldiers throw a spiked net over Annie’s Female Titan. Armin lands."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Ngh!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Hange",
+          "line": "Okay! I thought there’d be no need for a Plan C, but nope. That’s Commander Erwin for you, I guess."
+        },
+        {
+          "type": "action",
+          "description": "Hange drops down to Annie’s Female Titan."
+        },
+        {
+          "type": "dialogue",
+          "character": "Hange",
+          "line": "… be a good girl. Stay put."
+        },
+        {
+          "type": "action",
+          "description": "Hange points a blade at Annie’s Female Titan’s eye."
+        },
+        {
+          "type": "dialogue",
+          "character": "Hange",
+          "line": "Here, you’re too far in to get Titans to devour you like before. But don’t worry… I’ll be the one devouring you instead. I’ll devour all the information that we can drag out of you."
+        },
+        {
+          "type": "action",
+          "description": "Annie’s Female Titan swings its leg, destroying some of the barrels holding the trap down."
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldiers",
+          "line": "Ahh!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Hange",
+          "line": "Ahh!"
+        },
+        {
+          "type": "action",
+          "description": "Hange and some other soldiers retreat."
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "She broke free?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Hange",
+          "line": "Tsk… We needed more traps!"
+        },
+        {
+          "type": "action",
+          "description": "Annie’s Female Titan gets up and runs away."
+        },
+        {
+          "type": "dialogue",
+          "character": "Hange",
+          "line": "Don’t let her escape! Follow her!"
+        },
+        {
+          "type": "action",
+          "description": "Armin and Jean follow after Annie’s Female Titan."
+        }
+      ]
+    },
+    {
+      "description": "At Eren’s location. Eren remains buried under the rubble.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "(Flashback) Someone who can’t sacrifice anything… can never change anything!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "(Thoughts) I know that… That’s why I failed. (Thoughts) I clung to my companions and my ties to them and I failed."
+        },
+        {
+          "type": "action",
+          "description": "Eren remembers the deaths of the members of Levi’s squad and his own mother."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Grr… Grr… Urgh!"
+        },
+        {
+          "type": "action",
+          "description": "Eren begins pushing his torso up along a wooden pole that’s pierced through his chest."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Ngh… Urgh!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Thoughts) I’ll wipe you out…",
+          "line": "(Thoughts) No… I’ll kill you!"
+        },
+        {
+          "type": "action",
+          "description": "Mikasa continues after Annie’s Female Titan elsewhere in the city."
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "Ngh!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "(Thoughts) There’s no time to figure out if this is the right thing to do!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "Ah… Ahh!"
+        },
+        {
+          "type": "action",
+          "description": "Mikasa is hit away by Annie’s Female Titan."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "(Thoughts) Just move… Don’t try to keep your hands clean!"
+        },
+        {
+          "type": "action",
+          "description": "Mikasa lands hard on the ground."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Mikasa!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "(Thoughts) The world is cruel! Urahhh!"
+        },
+        {
+          "type": "action",
+          "description": "Eren pushes himself further on the wooden pole. An explosion occurs. Nile and Erwin see the explosion from their location."
+        },
+        {
+          "type": "dialogue",
+          "character": "Nile",
+          "line": "Ah! Now what?!"
+        },
+        {
+          "type": "action",
+          "description": "Eren’s Attack Titan runs toward Annie’s Female Titan."
+        },
+        {
+          "type": "dialogue",
+          "character": "Attack Titan",
+          "line": "Urahhh!!"
+        },
+        {
+          "type": "action",
+          "description": "Eren’s Attack Titan punches Annie’s Female Titan in the face, sending it crashing into a building."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Eren!"
+        },
+        {
+          "type": "action",
+          "description": "Eren’s Attack Titan sprints forward toward Annie’s Female Titan."
+        },
+        {
+          "type": "dialogue",
+          "character": "Attack Titan",
+          "line": "Urahhh!!"
+        }
+      ]
+    }
+  ]
+}

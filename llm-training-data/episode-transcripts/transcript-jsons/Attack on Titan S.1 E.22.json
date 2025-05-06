@@ -1,0 +1,925 @@
+{
+  "title": "Attack on Titan S.1 E.22",
+  "episode_info": {
+    "title": "The Defeated: The 57th Exterior Scouting Mission, Part 6"
+  },
+  "scenes": [
+    {
+      "description": "In the forest of giant trees. An explosion occurs as the cloaked soldier transforms into the Female Titan.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Eld",
+          "line": "It’s coming! The Female Titan!"
+        },
+        {
+          "type": "action",
+          "description": "The Female Titan chases after Levi’s squad."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "(Narration) The Female Titan emerged once more, defeating the elite Squad Levi members, one after the next."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "I will kill it!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "(Narration) Having decided it was his fault for believing in his companions, Eren transforms and engages the Female Titan… but Eren suffers defeat, and the Female Titan takes him."
+        },
+        {
+          "type": "action",
+          "description": "The Female Titan rips Eren out of his Titan’s body as Mikasa arrives on the scene. Mikasa gives chase to the Female Titan as it flees."
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "Give… Eren back!"
+        },
+        {
+          "type": "action",
+          "description": "Mikasa attacks the Female Titan."
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "Ngh… Urgh! Urah!"
+        },
+        {
+          "type": "action",
+          "description": "Mikasa cuts the Female Titan’s leg, sending it stumbling to the ground."
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "No matter where she goes, I’ll kill her, rip her apart, and get you out of that filth. I’m sorry, Eren… Just wait a little longer!"
+        },
+        {
+          "type": "action",
+          "description": "The Female Titan attacks Mikasa, but she dodges. The Female Titan flees, and Mikasa gives chase."
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "Wait!"
+        },
+        {
+          "type": "action",
+          "description": "Levi arrives and drags Mikasa away."
+        },
+        {
+          "type": "dialogue",
+          "character": "Levi",
+          "line": "Fall back for now."
+        }
+      ]
+    },
+    {
+      "description": "In the forest of giant trees. Levi and Mikasa follow the Female Titan at a distance.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Levi",
+          "line": "Maintain this distance! It may be tired. It does not appear to be going very fast. He seems to have been bitten right out of the neck. Is Eren dead?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "Ngh… He’s alive. The target appears intelligent, and its goal seems to be capturing Eren. If it wanted him dead, it would’ve crushed him. The target is fighting to escape after going through the trouble of putting him in its mouth."
+        },
+        {
+          "type": "dialogue",
+          "character": "Levi",
+          "line": "Its goal may have been to eat Eren. If that’s the case, he’s in its stomach. It’s more than reasonable to assume that he’s dead."
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "He’s alive!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Levi",
+          "line": "I hope you’re right."
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "Ngh… If you’d only protected Eren, this wouldn’t have happened!"
+        },
+        {
+          "type": "action",
+          "description": "Levi turns to Mikasa."
+        },
+        {
+          "type": "dialogue",
+          "character": "Levi",
+          "line": "I see… You’re the one from back then. Eren’s close friend?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Levi",
+          "line": "We’ll limit ourselves to a single goal. First, give up on killing the Female Titan."
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "It killed many of our comrades!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Levi",
+          "line": "As long as it can harden its skin, we can’t kill it. Do as I say. We’ll pin our hopes on Eren still being alive and rescue him before it leaves the forest. I will tear away at it. You draw its attention!"
+        },
+        {
+          "type": "action",
+          "description": "Mikasa flies forward in front of the Female Titan. Levi draws closer behind it. The Female Titan turns suddenly and punches toward Levi. Levi dodges and cuts along the Female Titan’s arm."
+        },
+        {
+          "type": "dialogue",
+          "character": "Levi",
+          "line": "Ugh! Ngh… Urgh!"
+        },
+        {
+          "type": "action",
+          "description": "Levi slashes into the Female Titan’s face and leaves his blades inside, blinding it."
+        },
+        {
+          "type": "action",
+          "description": "Levi launches off from the Female Titan, refits his blades, and cuts along the Female Titan’s legs."
+        },
+        {
+          "type": "dialogue",
+          "character": "Levi",
+          "line": "Ngh! Ugh… Urahh! Ngh!"
+        },
+        {
+          "type": "action",
+          "description": "Levi cuts the back of the Female Titan’s neck. The Female Titan falls to the ground."
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "(Thoughts) He’s fast! So fast that it has no time to harden its skin!"
+        },
+        {
+          "type": "action",
+          "description": "Levi continues cutting into the Female Titan. He cuts its arms, and the arm covering its neck falls to the side."
+        },
+        {
+          "type": "dialogue",
+          "character": "Ngh…",
+          "line": "Urahh!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Ah…",
+          "line": "(Thoughts) We can go for the neck! (Thoughts) It’s tired… I bet it can’t move! I can kill it!"
+        },
+        {
+          "type": "action",
+          "description": "Mikasa shoots her hook into the Female Titan’s shoulder."
+        },
+        {
+          "type": "dialogue",
+          "character": "Levi",
+          "line": "Ah… Stop!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "Urahhh!!"
+        },
+        {
+          "type": "action",
+          "description": "Mikasa launches forward to attack the Female Titan, but the Female Titan raises its hand."
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "Ah!"
+        },
+        {
+          "type": "action",
+          "description": "Levi pushes Mikasa out of the way."
+        },
+        {
+          "type": "action",
+          "description": "Levi lands on the Female Titan’s hand and hurts his ankle."
+        },
+        {
+          "type": "dialogue",
+          "character": "Levi",
+          "line": "Ugh… Ngh! Urahh!"
+        },
+        {
+          "type": "action",
+          "description": "Levi cuts through the Female Titan’s cheek. Its jaw falls open, revealing Eren, unconscious and covered in saliva."
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "Eren!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Levi",
+          "line": "Ngh!"
+        },
+        {
+          "type": "action",
+          "description": "Levi grabs Eren from the Female Titans mouth and withdraws. The Female Titan’s arm falls to its side."
+        },
+        {
+          "type": "dialogue",
+          "character": "Levi",
+          "line": "Hey! We’re getting out of here!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Levi",
+          "line": "I think he’s okay. He’s alive! But filthy. Forget about it. We’ll retreat. Don’t lose sight of the core objective. Is it more important to get what you want? Isn’t he an important friend?"
+        },
+        {
+          "type": "action",
+          "description": "Levi launches off."
+        },
+        {
+          "type": "action",
+          "description": "Mikasa follows after Levi. Levi turns back to see the Female Titan crying."
+        }
+      ]
+    },
+    {
+      "description": "In the city. The townspeople are talking amongst themselves.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Men",
+          "line": "They’re already coming back? What happened? No idea. But I bet they’re bringing plenty of dead bodies with them again."
+        }
+      ]
+    },
+    {
+      "description": "In Eld’s family home. Eld’s mother approaches a young woman.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Eld.Mother",
+          "line": "Eld is coming home."
+        },
+        {
+          "type": "dialogue",
+          "character": "Woman",
+          "line": "I see."
+        }
+      ]
+    },
+    {
+      "description": "In an alleyway. A group of young children are doing laundry.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Oluo.Father",
+          "line": "Think Oluo will have time to come home?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Oluo.Mother",
+          "line": "It wouldn’t hurt to make him dinner, just in case."
+        },
+        {
+          "type": "dialogue",
+          "character": "Children",
+          "line": "Hahaha!"
+        }
+      ]
+    },
+    {
+      "description": "At Gunther’s family home. Gunther’s father sits in a chair.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Gun.Mother",
+          "line": "Gunther’s coming back."
+        },
+        {
+          "type": "dialogue",
+          "character": "Gun.Father",
+          "line": "I see."
+        }
+      ]
+    },
+    {
+      "description": "Somewhere in the field. Some of the Survey Corps members are on standby. Mikasa watches over Eren, who remains unconscious in a cart. Levi finds Petra’s body. Jean and Armin load bodies into a cart.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "This is the part I never get used to."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "No one does."
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "How are my friends going to die? How am I going to die? It’s all you can think about."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "I try not to dwell on it. If I pictured how I’m going to die, I probably wouldn’t be able to fight."
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "Yeah. You’re right."
+        },
+        {
+          "type": "action",
+          "description": "Connie and Sasha feed the horses."
+        },
+        {
+          "type": "dialogue",
+          "character": "Connie",
+          "line": "How long will I stay alive?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Sasha",
+          "line": "You’re alive now, aren’t you?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Connie",
+          "line": "For now."
+        },
+        {
+          "type": "dialogue",
+          "character": "Sasha",
+          "line": "Isn’t that a good thing? You’re alive."
+        },
+        {
+          "type": "dialogue",
+          "character": "Connie",
+          "line": "Can you say that in front of the bodies of those who aren’t?"
+        }
+      ]
+    },
+    {
+      "description": "Sometime later, in the field. The collection of the dead has finished.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Peer",
+          "line": "We’re almost done. There were about five dead that we couldn't recover."
+        },
+        {
+          "type": "dialogue",
+          "character": "Erwin",
+          "line": "Not even a part of them?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Peer",
+          "line": "They’re the only ones we couldn’t due to the Titans. It’s probably best for the families that we not bring those back."
+        },
+        {
+          "type": "dialogue",
+          "character": "Erwin",
+          "line": "Say they’re MIA."
+        },
+        {
+          "type": "dialogue",
+          "character": "Peer",
+          "line": "Yes, sir. We saw several Titans near the forest, but none are headed this way as of yet."
+        },
+        {
+          "type": "dialogue",
+          "character": "Erwin",
+          "line": "We’re moving out now. Tell all the squads."
+        },
+        {
+          "type": "dialogue",
+          "character": "Peer",
+          "line": "Yes, sir."
+        },
+        {
+          "type": "dialogue",
+          "character": "Dieter",
+          "line": "I cannot accept this, Commander Erwin!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Peer",
+          "line": "Hey, you…!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Dieter",
+          "line": "We should recover them! Ivan’s body was right in front of us!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Peer",
+          "line": "There was a Titan right next to him! It could result in another casualty!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Dieter",
+          "line": "If they attack, we can just defeat them!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Jurgen",
+          "line": "Ivan’s an old friend. We’re from the same town! I know his parents. If nothing else, I’d like to bring him home!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Peer",
+          "line": "Don’t be selfish!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Levi",
+          "line": "Squabbling kids?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Levi",
+          "line": "If you confirmed he’s dead, that’s enough. Whether you have the body, dead is dead. It won’t change anything."
+        },
+        {
+          "type": "dialogue",
+          "character": "Erwin",
+          "line": "We’ll say Ivan and the others went missing. That’s my final decision. Give it up."
+        },
+        {
+          "type": "action",
+          "description": "Erwin and Levi walk off."
+        },
+        {
+          "type": "dialogue",
+          "character": "Dieter",
+          "line": "Ahh… Don’t the two of you… have any human feelings at all?!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Peer",
+          "line": "Hey, Dieter! You’re going too far!"
+        }
+      ]
+    },
+    {
+      "description": "In the field. The Survey Corps is returning to the city with the dead.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Soldier",
+          "line": "Ah… Titans!"
+        },
+        {
+          "type": "action",
+          "description": "Dieter and Jurgen ride in front of the Titans with the body of Ivan."
+        },
+        {
+          "type": "dialogue",
+          "character": "Peer",
+          "line": "That’s… Dieter!"
+        },
+        {
+          "type": "action",
+          "description": "Peer shoots a red smoke flare into the air."
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldier",
+          "line": "The rear line has sighted Titans!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Erwin",
+          "line": "Onward at full speed!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Levi",
+          "line": "I don’t see any tall trees or buildings. Fighting out here will be difficult."
+        },
+        {
+          "type": "dialogue",
+          "character": "Erwin",
+          "line": "We’re better off outrunning them until we reach the walls."
+        },
+        {
+          "type": "action",
+          "description": "Levi pulls back. Dieter and Jurgen continue to flee from the Titans."
+        },
+        {
+          "type": "dialogue",
+          "character": "Dieter",
+          "line": "Urgh… Ngh!"
+        },
+        {
+          "type": "action",
+          "description": "A Titan swats at Dieter. He dodges the attack but drops Ivan’s body."
+        },
+        {
+          "type": "dialogue",
+          "character": "Dieter",
+          "line": "Ahh!"
+        },
+        {
+          "type": "action",
+          "description": "Jurgen is captured by a Titan."
+        },
+        {
+          "type": "dialogue",
+          "character": "Jurgen",
+          "line": "Ugh… Gah… Ahh!"
+        },
+        {
+          "type": "action",
+          "description": "Dieter turns back and attacks the Titan holding Jurgen. The other Titan runs toward the Survey Corps members up ahead."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "They’re going to catch us!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "Do we have to fight?!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "3D Maneuver Gear has limited utility in open areas. And look…"
+        },
+        {
+          "type": "action",
+          "description": "More Titans come running from the surrounding fields."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "They just keep coming!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "Ahh… Then what do we do?"
+        },
+        {
+          "type": "action",
+          "description": "Jurgen struggles in the Titan’s mouth."
+        },
+        {
+          "type": "dialogue",
+          "character": "Jurgen",
+          "line": "Ngh… Ugh!"
+        },
+        {
+          "type": "action",
+          "description": "Jurgen is eaten by the Titan. Dieter moves to attack the Titan but is caught."
+        },
+        {
+          "type": "dialogue",
+          "character": "Dieter",
+          "line": "Ahh! Ahhh!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "Grr… Ngh!"
+        },
+        {
+          "type": "action",
+          "description": "Mikasa kills the Titan."
+        },
+        {
+          "type": "action",
+          "description": "The cart with the bodies continues onward."
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldiers",
+          "line": "No! They’ll reach us! I’ll get behind them! I’ll draw their attention, then you --"
+        },
+        {
+          "type": "dialogue",
+          "character": "Levi",
+          "line": "Stop! Just abandon the bodies. They’ll reach us."
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldier",
+          "line": "Ah… B-But…!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Levi",
+          "line": "In the past, many bodies haven’t made it back. These guys aren’t anything special."
+        },
+        {
+          "type": "dialogue",
+          "character": "Ah…",
+          "line": "Are we doing this? Huh…? Are we really doing it?!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldier",
+          "line": "Ngh… We have to!"
+        },
+        {
+          "type": "action",
+          "description": "The soldier opens the back of the cart, dropping a body."
+        },
+        {
+          "type": "dialogue",
+          "character": "Ngh…",
+          "line": "A-Ah!"
+        },
+        {
+          "type": "action",
+          "description": "The soldier releases other bodies. One is trampled over by the Titan."
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldier",
+          "line": "Ngh… Urgh!"
+        },
+        {
+          "type": "action",
+          "description": "Petra’s body is the last to be thrown from the cart."
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldier",
+          "line": "Okay! Keep going!"
+        }
+      ]
+    },
+    {
+      "description": "The soldiers continue on, away from the Titans.",
+      "dialogue": []
+    },
+    {
+      "description": "Sometime later, in the field. The soldiers are regrouping.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Soldier",
+          "line": "As soon as we know where we are, we will depart. Stay alert!"
+        },
+        {
+          "type": "action",
+          "description": "Levi approaches Dieter."
+        },
+        {
+          "type": "action",
+          "description": "Levi removes something from his pockets."
+        },
+        {
+          "type": "dialogue",
+          "character": "Levi",
+          "line": "This proves that they were alive… to me, at least."
+        },
+        {
+          "type": "action",
+          "description": "Dieter holds the Survey Corps patch in his hands."
+        },
+        {
+          "type": "dialogue",
+          "character": "Levi",
+          "line": "This was Ivan’s."
+        },
+        {
+          "type": "action",
+          "description": "Dieter begins to cry."
+        },
+        {
+          "type": "action",
+          "description": "Levi gets back on his horse and rides away."
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldier",
+          "line": "We’re leaving!"
+        }
+      ]
+    },
+    {
+      "description": "In a dream. A young Eren carries a load of firewood on his back.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Y.Mikasa",
+          "line": "Eren, you should stop considering the Survey Corps."
+        },
+        {
+          "type": "dialogue",
+          "character": "Y.Eren",
+          "line": "Ah… What? You’re going to tell me they’re stupid, too?"
+        },
+        {
+          "type": "action",
+          "description": "Bells begin to ring throughout the city."
+        },
+        {
+          "type": "dialogue",
+          "character": "Y.Eren",
+          "line": "The Survey Corps is back! The front gate’s opening! Let’s go, Mikasa! The heroes are back!"
+        },
+        {
+          "type": "action",
+          "description": "Eren and Mikasa make their way to the gates. Eren watches with excitement but sees that the soldiers are wounded and exhausted."
+        },
+        {
+          "type": "dialogue",
+          "character": "Ngh… Ah…",
+          "line": "Ah!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Men",
+          "line": "These are all that made it back? Everyone else must’ve been eaten. That’s what happens when you go outside the walls."
+        },
+        {
+          "type": "dialogue",
+          "character": "Y.Eren",
+          "line": "Grr!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Man",
+          "line": "It’s like our taxes all go to fattening them up."
+        },
+        {
+          "type": "action",
+          "description": "Eren picks up a stick."
+        },
+        {
+          "type": "dialogue",
+          "character": "Y.Mikasa",
+          "line": "Eren?"
+        },
+        {
+          "type": "action",
+          "description": "Eren moves to attack the men but can’t move."
+        },
+        {
+          "type": "dialogue",
+          "character": "Y.Mikasa",
+          "line": "What’s wrong?"
+        },
+        {
+          "type": "action",
+          "description": "Eren appears older and in his Survey Corps uniform. His shoulders shake."
+        },
+        {
+          "type": "dialogue",
+          "character": "Y.Mikasa",
+          "line": "Eren?"
+        }
+      ]
+    },
+    {
+      "description": "In the present, in the field. Mikasa calls to Eren.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "Eren!"
+        },
+        {
+          "type": "action",
+          "description": "Eren wakes up."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Ah!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "Eren."
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "You shouldn’t get up. Rest."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "What about the Female Titan?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "It got away."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Why? What about the others? What about the plan?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "It failed. Rest for the time being."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Ahh… What is this? Did you save me again?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Ngh…",
+          "line": "We’re almost to the walls."
+        }
+      ]
+    },
+    {
+      "description": "In the town. The soldiers return. Townspeople wait in the streets.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Men",
+          "line": "Aren’t there fewer than there were this morning? Man…"
+        },
+        {
+          "type": "dialogue",
+          "character": "Far fewer…",
+          "line": "Another disaster. Just this morning, they left raising a ruckus, but they’re already back? What was the point? Who knows? But judging by their gloomy expressions, they managed to waste more of our taxes, if nothing else."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Grr!"
+        },
+        {
+          "type": "action",
+          "description": "Eren struggles to sit up."
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "Eren, just bear with it."
+        },
+        {
+          "type": "action",
+          "description": "Eren sees two children, watching the soldiers come home with excitement as he did when he was younger."
+        },
+        {
+          "type": "dialogue",
+          "character": "Boy",
+          "line": "So cool! The Survey Corps is so awesome! They got the crap kicked out of them, and they still fight!"
+        },
+        {
+          "type": "action",
+          "description": "Petra’s father approaches Levi."
+        },
+        {
+          "type": "dialogue",
+          "character": "Petra.Father",
+          "line": "Lance Corporal Levi! My daughter is in your squad. I’m Petra’s father. Before she finds me, I want to talk to you. She sent me this letter. She mentioned that you respected her abilities enough to let her join your squad, that she was going to devote herself to you. Well, I guess she’s too starry-eyed to consider how her father feels! Haha! Well, as her father, I think it’s too early for her to marry. She’s still so young, with so much to experience…"
+        },
+        {
+          "type": "action",
+          "description": "Townspeople call out to Erwin."
+        },
+        {
+          "type": "dialogue",
+          "character": "Crowd",
+          "line": "Commander Erwin! Answer us! Did this expedition learn enough to justify the number of dead?! Do you think the dead have no regrets?!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "(Narration) The expenses and casualties from the expedition were more than enough to discredit the faction that had supported the Survey Corps."
+        },
+        {
+          "type": "action",
+          "description": "Eren sobs. Mikasa squeezes his hand."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "(Narration) As those responsible, including Erwin, were summoned to the capital, it was decided that Eren was to be handed over."
+        }
+      ]
+    }
+  ]
+}

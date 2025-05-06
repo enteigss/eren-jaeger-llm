@@ -1,0 +1,992 @@
+{
+  "title": "Attack on Titan S.01 E.06",
+  "episode_info": {
+    "title": "The World the Girl Saw: The Struggle for Trost, Part 2"
+  },
+  "scenes": [
+    {
+      "description": "On the battlefield at Trost, on the roof of a building. Armin has witnessed Eren being eaten by a Titan and is in a daze.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Connie",
+          "line": "Hey. Hey! What’s wrong, Armin? Snap out of it! Hey! Armin! Hey. Armin! Hey!"
+        },
+        {
+          "type": "action",
+          "description": "Armin snaps out of his daze."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Ah!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Connie",
+          "line": "You awake? Feeling alright? Does it hurt anywhere? What about your squad?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Squad?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Connie",
+          "line": "Come on, get a hold of yourself. Why are you alone? Your body feels kind of slimy. What in the world happened?"
+        },
+        {
+          "type": "action",
+          "description": "Armin remembers what happened to Eren and the rest of his comrades."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Augh!!!! I’m dead weight! I should just die!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Connie",
+          "line": "Hey, calm down, Armin!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Damn it!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Connie",
+          "line": "Where’s everyone?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Ah!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Ymir",
+          "line": "That’s enough, Connie. They’re all dead, minus this guy."
+        },
+        {
+          "type": "dialogue",
+          "character": "Connie",
+          "line": "Shut up! Armin hasn’t said anything yet!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Ymir",
+          "line": "Isn’t it obvious from just looking around? We don’t have any more time to waste on him."
+        },
+        {
+          "type": "dialogue",
+          "character": "Connie",
+          "line": "Why is Armin the only survivor?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Ymir",
+          "line": "Hell if I know. Maybe they thought he was a corpse. While I think it’s unfortunate they ran into a swarm of Titans, the fact that Eren and the others died while this incompetent one survived is ridiculous."
+        },
+        {
+          "type": "dialogue",
+          "character": "Connie",
+          "line": "Hey, you bitch. Want me to shut you up for good?!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Krista",
+          "line": "Stop it, both of you! I’m sure we’re all just shaken up. A bunch of our friends are suddenly dying, after all! It’s only natural!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Ymir",
+          "line": "That’s my Krista! Marry me once this operation is over! Hahaha!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Connie",
+          "line": "True, she’s screwing around more than usual. Anyway, we can’t just sit around here. Can you stand, Armin?"
+        },
+        {
+          "type": "action",
+          "description": "Connie holds out his hand for Armin. Armin stands on his own and begins walking off."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Sorry for being a burden. I’ll join the rear guard."
+        },
+        {
+          "type": "dialogue",
+          "character": "Connie",
+          "line": "H-Hey… Armin!"
+        },
+        {
+          "type": "action",
+          "description": "Armin jumps off the building and uses his 3DMG to make his way through the city."
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldier",
+          "line": "Let’s move, Connie! Our orders are to keep advancing!"
+        },
+        {
+          "type": "action",
+          "description": "Connie and his squad leave the area."
+        }
+      ]
+    },
+    {
+      "description": "In the city. Armin flies around buildings with his 3DMG.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "(Thoughts) This is hell. (Thoughts) Wait, that’s nothing new. (Thoughts) I just wasn’t aware of it until now. This world has always been hell."
+        },
+        {
+          "type": "action",
+          "description": "Armin remembers all the times he’s been bullied."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "(Thoughts) The strong prey on the weak. (Thoughts) It’s so mercifully simple. (Thoughts) But… my friends… sought the strength to live in this world. (Thoughts) They saved a weakling like me. I couldn’t bear that. (Thoughts) To them, I’m just someone who needs protection. (Thoughts) I wanted to be strong like them, so I could stand as their equal and survive in this world."
+        },
+        {
+          "type": "action",
+          "description": "Armin’s 3DMG misfires, sending him flying into a building and crashing to the ground."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Ah! Ah… ugh! (Thoughts) And this is all my feelings amounted to."
+        },
+        {
+          "type": "action",
+          "description": "Nearby, Hanna is performing CPR on Franz."
+        },
+        {
+          "type": "dialogue",
+          "character": "Hanna",
+          "line": "Urgh… urgh… urgh…!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Hanna… what are you…?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Hanna",
+          "line": "Armin, help me! Franz isn’t breathing! I’ve been trying to resuscitate him over and over again, but Franz isn’t…!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Hanna",
+          "line": "I can’t just leave Franz like this!"
+        },
+        {
+          "type": "action",
+          "description": "Hanna continues performing CPR on Franz."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Please… just stop. There’s nothing more… that can be done for him."
+        }
+      ]
+    },
+    {
+      "description": "At the base of Wall Rose. A merchant boss is trying to push his caravan through the wall’s gates while residents are trying to evacuate.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Man",
+          "line": "H-Hey, you guys! Do you understand the situation we’re in?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Boss",
+          "line": "We’re only doing this because we understand! If you want to live, help push!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Residents",
+          "line": "Quit screwing around! That won’t fit no matter how you push it! You should let the people through first! The Titans will devour us all at this rate! What the hell are you doing, soldier?! Arrest those men!"
+        },
+        {
+          "type": "action",
+          "description": "The angry residents push a soldier to the front of the crowd."
+        },
+        {
+          "type": "dialogue",
+          "character": "Boss",
+          "line": "Just try it, flunky. I’m the boss of the company here."
+        },
+        {
+          "type": "dialogue",
+          "character": "Boss",
+          "line": "Who do you think provides the meals you soldiers shit out? Can you pay to feed all the soldiers in this town? All of you, push! The goods here are worth more than what you could ever make in your petty lives! If you cooperate, you’ll be rewarded!"
+        },
+        {
+          "type": "action",
+          "description": "In the crowd, a woman hugs her worried child."
+        },
+        {
+          "type": "dialogue",
+          "character": "Woman",
+          "line": "It’s alright. Your father will shoot all the Titans down with his cannon."
+        },
+        {
+          "type": "dialogue",
+          "character": "Child",
+          "line": "Mom, look."
+        },
+        {
+          "type": "dialogue",
+          "character": "Woman",
+          "line": "Huh?"
+        },
+        {
+          "type": "action",
+          "description": "Residents can hear footsteps in the distance. Suddenly, a large Aberrant comes running around the corner of a street toward the crowd. The residents begin to scream."
+        },
+        {
+          "type": "dialogue",
+          "character": "Boss",
+          "line": "Push it through! If you don’t want to die, push it through!"
+        },
+        {
+          "type": "action",
+          "description": "The residents begin to push frantically. A group of soldiers chases the Titan from behind."
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldier 1",
+          "line": "Damn, why is it ignoring us?!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldier 2",
+          "line": "It’s an Aberrant! Don’t think too much about it!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldier 3",
+          "line": "It’s fast! Even we elites can’t catch up to it?!"
+        },
+        {
+          "type": "action",
+          "description": "From behind the other soldiers, Mikasa races ahead. She latches onto the neck of the Aberrant and slices through."
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "Yah!"
+        },
+        {
+          "type": "action",
+          "description": "The Aberrant falls just before it reaches the crowd. Mikasa notices the crowd of residents and the merchants trying to push their caravan through."
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "What… are you doing?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Boss",
+          "line": "Oh, perfect timing. Hey you, make these people help me out! I’ll reward you handsomely!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "My comrades are dying right now. Because the evacuation is lagging, they’re fighting the Titans and dying."
+        },
+        {
+          "type": "dialogue",
+          "character": "Boss",
+          "line": "Course they are! It’s your duty to offer your lives to protect citizens and their property, is it not?! Don’t get full of yourselves just because you freeloaders are finally doing your job after a hundred years!"
+        },
+        {
+          "type": "action",
+          "description": "Mikasa hops down from the Aberrant’s head. She begins walking through the crowd toward the merchant boss."
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "If you think it’s natural for people to die for others, I’m sure you’ll understand that at times, the sacrifice of a single precious life can save many others."
+        },
+        {
+          "type": "dialogue",
+          "character": "Boss",
+          "line": "Just try me! I’ve known your employer for many years. You don’t know how easy it’d be for me to order you underlings around!"
+        },
+        {
+          "type": "action",
+          "description": "The merchant boss’s henchmen rush toward Mikasa. She easily knocks them out with a blow to their backs and continues walking toward the merchant boss."
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "How can a corpse be speaking?"
+        },
+        {
+          "type": "action",
+          "description": "Mikasa raises her blade but stops at his neck before she strikes the man."
+        },
+        {
+          "type": "dialogue",
+          "character": "Boss",
+          "line": "Wait!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Boss",
+          "line": "Move the wagon."
+        },
+        {
+          "type": "action",
+          "description": "The caravan is moved, and the residents begin to evacuate."
+        },
+        {
+          "type": "dialogue",
+          "character": "Child",
+          "line": "Thanks, sis!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Woman",
+          "line": "We’re saved thanks to you. Thank you so much."
+        },
+        {
+          "type": "action",
+          "description": "Mikasa puts her blades away and places her hand over her heart before walking away."
+        }
+      ]
+    },
+    {
+      "description": "Some time later. It begins to rain hard. The Aberrant begins to dissolve.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Ian",
+          "line": "Good work taking it down, Ackermann. I’m impressed."
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "Thank you very much. However… I dulled my blades with a single blow in my impatience. I’ll be more mindful next time."
+        },
+        {
+          "type": "dialogue",
+          "character": "Ian",
+          "line": "Just what kind of life have you been living until now… Never mind, it’s nothing."
+        },
+        {
+          "type": "action",
+          "description": "Mikasa pulls her scarf up over her nose. She remembers the child and mother from earlier, along with a couple from her childhood."
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "(Thoughts) Why am I remembering that now?"
+        }
+      ]
+    },
+    {
+      "description": "In the past, at a cabin in the forest. A young Mikasa and her parents, the couple that she remembered, are embroidering.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "Finished! Mom, have a look!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Mother",
+          "line": "My, you did a splendid job, Mikasa. It’s beautiful. This embroidery has been passed down our family for generations. If you have children someday, teach it to them."
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "How do you have children?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Mother",
+          "line": "Well, you should ask your father."
+        },
+        {
+          "type": "dialogue",
+          "character": "Father",
+          "line": "Huh?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "Hey, Dad."
+        },
+        {
+          "type": "dialogue",
+          "character": "Father",
+          "line": "Uh, well, Dad isn’t so sure either. Ah right, Dr. Jaeger will be here soon, so why don’t we ask him?"
+        },
+        {
+          "type": "action",
+          "description": "Someone knocks at the door."
+        },
+        {
+          "type": "dialogue",
+          "character": "Father",
+          "line": "Oh, looks like he’s here already."
+        },
+        {
+          "type": "action",
+          "description": "Another knock at the door comes."
+        },
+        {
+          "type": "dialogue",
+          "character": "Father",
+          "line": "Coming!"
+        }
+      ]
+    },
+    {
+      "description": "It is raining. A young Eren and his father Grisha are visiting the Ackermann house. Grisha knocks on the door and waits.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Mikasa?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Grisha",
+          "line": "That’s right. She’s a girl your age. There aren’t any other children around here, so get along with her."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "That depends on her attitude."
+        },
+        {
+          "type": "dialogue",
+          "character": "Grisha",
+          "line": "Eren, this is why you only have one friend. Maybe they’re not home."
+        },
+        {
+          "type": "action",
+          "description": "Grisha knocks on the door again."
+        },
+        {
+          "type": "dialogue",
+          "character": "Grisha",
+          "line": "Mr. Ackermann, it’s Dr. Jaeger."
+        },
+        {
+          "type": "action",
+          "description": "Grisha opens the door."
+        },
+        {
+          "type": "dialogue",
+          "character": "Grisha",
+          "line": "Pardon the intrusion. What?!"
+        },
+        {
+          "type": "action",
+          "description": "Grisha remains stunned at what he sees."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "What’s wrong? Hey, Dad?"
+        },
+        {
+          "type": "action",
+          "description": "Grisha enters the house and checks on Mikasa’s mother. She is dead."
+        },
+        {
+          "type": "dialogue",
+          "character": "Grisha",
+          "line": "It’s no good. Eren, is there a girl nearby? Did you see Mikasa?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "No."
+        },
+        {
+          "type": "dialogue",
+          "character": "I see…",
+          "line": "I’m going to go call the Military Police Brigade and request an investigation. You wait at the base of the mountain. Understand, Eren? Eren!"
+        }
+      ]
+    },
+    {
+      "description": "Elsewhere in the forest, at a different cabin. Young Mikasa lies on her side, tied up on the floor.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Man 1",
+          "line": "Hey, is she really going to be worth anything?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Man 2",
+          "line": "Take a good look at her face."
+        },
+        {
+          "type": "action",
+          "description": "One of the men kicks Mikasa over onto her back."
+        },
+        {
+          "type": "dialogue",
+          "character": "Man 1",
+          "line": "Not bad but she’s still just a kid. Doesn’t strike my fancy."
+        },
+        {
+          "type": "dialogue",
+          "character": "Man 2",
+          "line": "I don’t care about your tastes. She’s an Oriental. In the past, there were different human races. She’s the last descendant of a family that escaped to the walls from the Orient. We’ll auction her to some perverted patron at the underground market of the capital. The other Orientals have been wiped out, so she should fetch a handsome price."
+        },
+        {
+          "type": "dialogue",
+          "character": "Man 1",
+          "line": "Her dad didn’t look like an Oriental. I doubt she’s pure-blooded."
+        },
+        {
+          "type": "action",
+          "description": "The second man stomps his foot in anger."
+        },
+        {
+          "type": "dialogue",
+          "character": "Man 2",
+          "line": "Exactly. Her mom would’ve been the real jackpot! You just had to freak out and kill her!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Man 1",
+          "line": "I-I didn’t have a choice! She was putting up a fight!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Man 2",
+          "line": "Is that your best excuse?! Huh?!"
+        }
+      ]
+    },
+    {
+      "description": "Mikasa remembers back to what just happened at the Ackermann house.",
+      "dialogue": [
+        {
+          "type": "action",
+          "description": "A knife is stabbed into Mikasa’s father’s chest. Mikasa’s father stumbles backward from the door and falls to the ground."
+        },
+        {
+          "type": "dialogue",
+          "character": "Mother",
+          "line": "Hmm?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Man 2",
+          "line": "Why, hello there."
+        },
+        {
+          "type": "action",
+          "description": "Mikasa’s mother can only watch in stunned silence as she sees the knife covered in Mikasa’s father’s blood. She begins reaching for the pair of sewing scissors."
+        },
+        {
+          "type": "dialogue",
+          "character": "Man 1",
+          "line": "You’d be wise to listen to us."
+        },
+        {
+          "type": "action",
+          "description": "Mikasa’s mother grabs the pair of scissors and runs for the two men."
+        },
+        {
+          "type": "dialogue",
+          "character": "Mother",
+          "line": "Aughhh!!!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Man 1",
+          "line": "This bitch…!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Mother",
+          "line": "Mikasa, run away!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Mother",
+          "line": "Mikasa, hurry!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Um…",
+          "line": "Dad…?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Man 1",
+          "line": "Damn it, that’s enough!"
+        },
+        {
+          "type": "action",
+          "description": "The man attacks Mikasa’s mother with his axe, killing Mikasa’s mother in one blow. Mikasa watches as her mother falls to the ground."
+        },
+        {
+          "type": "dialogue",
+          "character": "Man 2",
+          "line": "What the hell, man?! I told you we’d only kill the dad!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Man 2",
+          "line": "Quit your excuses! Nab the brat!"
+        },
+        {
+          "type": "action",
+          "description": "The man with the axe steps over Mikasa’s mother’s body."
+        },
+        {
+          "type": "dialogue",
+          "character": "Man 1",
+          "line": "Hey, now you’d better behave. Otherwise… I’ll do this!"
+        },
+        {
+          "type": "action",
+          "description": "The man punches Mikasa out cold."
+        }
+      ]
+    },
+    {
+      "description": "Back at the cabin where Mikasa is on the floor.",
+      "dialogue": [
+        {
+          "type": "action",
+          "description": "The front door opens, surprising the two kidnappers."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Excuse me."
+        },
+        {
+          "type": "action",
+          "description": "The man with the axe walks toward the door."
+        },
+        {
+          "type": "dialogue",
+          "character": "Man 1",
+          "line": "Hey, you brat! What are you doing here?!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Um, uh… I was lost in the forest… and I saw this cabin…"
+        },
+        {
+          "type": "action",
+          "description": "The man with the axe looks toward the other kidnapper. The other kidnapper waves his hand in dismissal."
+        },
+        {
+          "type": "dialogue",
+          "character": "Man 1",
+          "line": "A kid shouldn’t be walking around in the forest alone. There are scary wolves roaming around here. But you won’t have anything to worry about if you come with --"
+        },
+        {
+          "type": "action",
+          "description": "Eren stabs the man with the axe with a knife."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Thanks, Mister. I get it now, so die, you bastard!"
+        },
+        {
+          "type": "action",
+          "description": "Eren pulls out his knife, and the man with the axe falls to the ground."
+        },
+        {
+          "type": "dialogue",
+          "character": "Man 2",
+          "line": "What?! You kidding me?!"
+        },
+        {
+          "type": "action",
+          "description": "Eren goes into a side room and closes the door slowly."
+        },
+        {
+          "type": "dialogue",
+          "character": "Man 2",
+          "line": "C-Come back, you damn brat!"
+        },
+        {
+          "type": "action",
+          "description": "The man picks up the axe from the dead man and opens the door to the room where Eren is hiding. Before he can run away, Eren runs at him with a sharp edge attached to the end of a broom and stabs the man. After he pushes the man out of the room with his makeshift spear, he continues to stab the man repeatedly with his knife."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Urahhh!!! You goddamn animals! Die! Die!"
+        },
+        {
+          "type": "action",
+          "description": "Mikasa turns to see Eren stabbing her kidnappers and can only watch in horror."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "This is what you deserve! You had it coming! Stay down for good!"
+        },
+        {
+          "type": "action",
+          "description": "After Eren kills the second man, he wipes his face."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "It’s alright now. Don’t worry."
+        },
+        {
+          "type": "action",
+          "description": "Eren goes over to Mikasa and cuts the bindings around her wrists."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "You’re Mikasa, right? I’m Eren. I’m Dr. Jaeger’s son. I’m sure you’ve met him before. I tagged along with him to your house for medical examinations."
+        },
+        {
+          "type": "action",
+          "description": "Eren completely removes Mikasa’s bindings. She rubs her wrists."
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "There should have been a third man."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "What?"
+        },
+        {
+          "type": "action",
+          "description": "Mikasa and Eren hear footsteps coming. They look up to find a third man towering over them. Eren races for his knife, but the man kicks him before he can get it. Mikasa can only watch in fear."
+        },
+        {
+          "type": "dialogue",
+          "character": "Man 3",
+          "line": "Did you do it?"
+        },
+        {
+          "type": "action",
+          "description": "The man grabs Eren but his shirt collar and begins choking him."
+        },
+        {
+          "type": "dialogue",
+          "character": "Man 3",
+          "line": "Did you do it?! Did you?! I’ll kill you! You’re dead meat!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "Huh…?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Fight! If you lose, you die. If you win, you live."
+        },
+        {
+          "type": "dialogue",
+          "character": "Man 3",
+          "line": "What are you thinking, you brat?!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "If you don’t fight, you can’t win!"
+        },
+        {
+          "type": "action",
+          "description": "Mikasa grabs the knife and stands. She hesitates."
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "I can’t do it!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Thoughts) At that moment, I remembered…",
+          "line": "(Thoughts) I’d witnessed this scene before… time and time again. (Thoughts) It’s always been unfolding before me. (Thoughts) But I turned a blind eye to it. (Thoughts) That’s right. This world is… cruel."
+        },
+        {
+          "type": "action",
+          "description": "Mikasa steadies herself."
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "(Thoughts) At that instant, my body stopped shaking. (Thoughts) Since then, I’ve had complete control over my body. (Thoughts) I thought I could do anything. (Thoughts) Fight… Fight… Fight!"
+        },
+        {
+          "type": "action",
+          "description": "Mikasa clutches the knife with ferocity and stabs the final man."
+        }
+      ]
+    },
+    {
+      "description": "Sometime later, at night. The Military Police are investigating the cabin where Eren and Mikasa killed their attackers. Grisha, Eren, and Mikasa wait outside.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Soldier 1",
+          "line": "His heart was pierced from the back with one strike."
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldier 2",
+          "line": "Those kids did this?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Grisha",
+          "line": "Eren, I told you to wait at the base of the mountain. Do you understand what you’ve done?!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "I killed some dangerous animals. They were beasts that just happened to look human!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Grisha",
+          "line": "Eren!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "They would’ve been long gone if we’d waited for the Military Police Brigade to arrive. It would’ve been too late!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Grisha",
+          "line": "That’s no excuse! You were just lucky, Eren! I’m scolding you for thoughtlessly risking your life like that!"
+        },
+        {
+          "type": "action",
+          "description": "Grisha is stunned at Eren’s words. He stands up to talk to Mikasa."
+        },
+        {
+          "type": "dialogue",
+          "character": "Grisha",
+          "line": "Mikasa. Do you remember me? We’ve met a few times when you were younger."
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "Dr. Jaeger, which way… should I go to return home? It’s cold. There’s nowhere… for me to go home to."
+        },
+        {
+          "type": "action",
+          "description": "Eren walks to Mikasa. He takes off his scarf and wraps it around Mikasa’s neck and head."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "You can have this. It’s warm, right?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "It’s warm."
+        },
+        {
+          "type": "dialogue",
+          "character": "Grisha",
+          "line": "Mikasa, why don’t you live with us?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "Huh?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Grisha",
+          "line": "You’ve been through a lot. You need a lot of rest."
+        },
+        {
+          "type": "action",
+          "description": "Mikasa looks at Eren."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "What?"
+        },
+        {
+          "type": "action",
+          "description": "Eren takes Mikasa’s hand."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Come on, let’s head back already. To our home."
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "Okay."
+        }
+      ]
+    },
+    {
+      "description": "Present day. Mikasa moves through the city, cutting down Titans.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "(Thoughts) A cruel world where only the victors can survive."
+        },
+        {
+          "type": "dialogue",
+          "character": "Ian",
+          "line": "We’re withdrawing, Ackermann. Climb up the wall."
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "I’ll support the vanguard’s withdrawal."
+        },
+        {
+          "type": "dialogue",
+          "character": "Ian",
+          "line": "Hey, Ackermann!"
+        },
+        {
+          "type": "action",
+          "description": "Mikasa flies off the roof."
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "(Thoughts) But I have a place to return to in this world. (Thoughts) Eren, if you’re here, I can do anything."
+        }
+      ]
+    }
+  ]
+}

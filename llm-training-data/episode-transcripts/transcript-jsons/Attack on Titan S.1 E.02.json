@@ -1,0 +1,719 @@
+{
+  "title": "Attack on Titan S.1 E.02",
+  "episode_info": {
+    "title": "That Day: The Fall of Shiganshina, Part 2"
+  },
+  "scenes": [
+    {
+      "description": "In Shiganshina, where Titans are invading.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Wallist",
+          "line": "For till then I was a soul in misery, alienate from God and covetous of all earthly things. Now, as thou seest, here punished for my doting. Such cleansing from the taint of avarice do spirits, converted, need. This mount inflicts no dire penalty."
+        },
+        {
+          "type": "action",
+          "description": "Titan grabs a woman."
+        },
+        {
+          "type": "dialogue",
+          "character": "Woman",
+          "line": "No! Let me go!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Wallist",
+          "line": "O avarice! What canst thou more, who has subdued our blood so wholly to thyself, they feel no care of their own flesh?"
+        },
+        {
+          "type": "action",
+          "description": "Titan grabs Wallist."
+        },
+        {
+          "type": "dialogue",
+          "character": "Wallist",
+          "line": "O avarice! What canst thou more, who has..."
+        }
+      ]
+    },
+    {
+      "description": "Hannes is running with Eren and Mikasa. Eren hits Hannes.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Hannes",
+          "line": "Eren, what are you doing?!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "We were so close to saving my mom! Why did you do that?! We almost saved my mom!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Hannes",
+          "line": "Get a hold of yourself!"
+        },
+        {
+          "type": "action",
+          "description": "Hannes throws Eren to the ground."
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "Eren!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Hannes",
+          "line": "Eren… The reason you couldn’t save your mom… is that you lacked the strength... The reason… The reason I didn’t fight the Titan… was that I lacked the courage! I’m sorry..."
+        },
+        {
+          "type": "action",
+          "description": "Hannes, Eren, and Mikasa continue walking. Mikasa holds her forehead."
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "Ah, it’s happening again..."
+        }
+      ]
+    },
+    {
+      "description": "Near the inner walls.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Soldier",
+          "line": "Hurry, to the inner gate! Use all ships at the pier for Shiganshina’s evacuation! Hurry! They’ll eat you!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "(Narration) There are small areas that protrude, like Shiganshina, all around the wall. Their purpose is to attract the Titans, thus reducing the cost and manpower of defending the walls. (Narration) After the people of Shiganshina had fulfilled their function by drawing the Titans to them, they were forced to evacuate by a single gate."
+        }
+      ]
+    },
+    {
+      "description": "Near the inner walls.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Soldier",
+          "line": "Don’t bring anything aboard! We’re taking as many people as we can!"
+        }
+      ]
+    },
+    {
+      "description": "On the boat.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Armin’s Grandpa",
+          "line": "Armin, sit."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "But, Eren and Mikasa aren’t here yet... Ah, they’re here! Eren..."
+        },
+        {
+          "type": "action",
+          "description": "Eren and Mikasa board the boat, looking petrified."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin’s Grandpa",
+          "line": "Don’t talk to them just now. Poor kids… Going by their appearances, it must have been bad..."
+        }
+      ]
+    },
+    {
+      "description": "Near Wall Maria.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Soldier",
+          "line": "Why are you just standing there?! Hurry! Where are those cannon shells?! Hurry! They’re right in front of us!"
+        }
+      ]
+    },
+    {
+      "description": "On the boats near the inner wall.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Man 1",
+          "line": "This just can’t be happening..."
+        },
+        {
+          "type": "dialogue",
+          "character": "Woman 1",
+          "line": "Oh God… oh God..."
+        },
+        {
+          "type": "dialogue",
+          "character": "Man 2",
+          "line": "Hey! What are you doing?!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldier",
+          "line": "The ship’s full!  It’s leaving!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Man 3",
+          "line": "No way…! Please, at least take my child!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldier",
+          "line": "I’m sorry, but I can’t! Go!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Woman 3",
+          "line": "Let him on!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Man 4",
+          "line": "Let us on!"
+        },
+        {
+          "type": "action",
+          "description": "Woman 3 and Man 4 jump to the boats and fall. The boat leaves."
+        }
+      ]
+    },
+    {
+      "description": "Near the gate of Wall Maria.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Soldier 1",
+          "line": "Idiot! Where are you aiming?!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldier 2",
+          "line": "B-But this thing doesn’t have that kind of accuracy!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldier 1",
+          "line": "Right now, I don’t give a crap! Just load the next shell!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldier 2",
+          "line": "It’s hopeless!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldier 3",
+          "line": "The gate… It’s closing! We need to retreat! We’ll be left behind!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldier 1",
+          "line": "Hey!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Hannes",
+          "line": "Don’t close it! Wait a little more! Many people are still in the city!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldier 4",
+          "line": "If they break through this gate, we’ll lose more than a single city to the Titans! We’ll lose the entire territory within this wall!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Hannes",
+          "line": "But that doesn’t mean we can let these people die!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldier 5",
+          "line": "Close the gate!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldier 6",
+          "line": "The Titans are coming!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldier 7",
+          "line": "Get that gate shut!"
+        },
+        {
+          "type": "action",
+          "description": "The gates begin to close."
+        },
+        {
+          "type": "dialogue",
+          "character": "Hannes",
+          "line": "Don’t do it! Hey!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldier 1",
+          "line": "What… is that thing?! Fire!"
+        },
+        {
+          "type": "action",
+          "description": "Shells are fired at the Armored Titan but nothing happens."
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldier 8",
+          "line": "It’s not working! It’s coming! The Titan’s coming! It’s going to ram the wall! Close the gate!"
+        },
+        {
+          "type": "action",
+          "description": "Armored Titan breaks through the gate."
+        },
+        {
+          "type": "dialogue",
+          "character": "Hannes",
+          "line": "The gate..."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "(Narration) Several hours after Shiganshina’s fall on Wall Maria’s south side, the news had spread throughout the entire human territory."
+        }
+      ]
+    },
+    {
+      "description": "In a building within Wall Rose.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Man 1",
+          "line": "Is it true?  Have Titans entered Shiganshina? I can’t believe it… Why would walls that have lasted a century fall now?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Man 2",
+          "line": "Whether you believe it or not, there are people out there who escaped by ship. At least five hundred, I’m told."
+        },
+        {
+          "type": "dialogue",
+          "character": "Man 3",
+          "line": "The question is if we’ve lost Shiganshina alone."
+        },
+        {
+          "type": "dialogue",
+          "character": "Man 4",
+          "line": "But they would certainly never penetrate Wall Maria, would they?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Man 3",
+          "line": "At the moment, we should contact the central government and await orders. We cannot handle an emergency such as this on our own!"
+        },
+        {
+          "type": "action",
+          "description": "Messenger enters the room."
+        },
+        {
+          "type": "dialogue",
+          "character": "Man 5",
+          "line": "Excuse me! A messenger arrived... They say Wall Maria has been breached!  The Titans are invading!"
+        }
+      ]
+    },
+    {
+      "description": "On the boat going into Wall Rose.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Hannes",
+          "line": "It’s over..."
+        },
+        {
+          "type": "dialogue",
+          "character": "Man 1",
+          "line": "It’s over… Humanity will be devoured by Titans again…!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "It’s over…? I can never go home… Why…?! Why did I waste my final minutes with her having some stupid argument?! Now she’s gone… She’s never coming back…! Why…?!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Hannes",
+          "line": "(Flashback) You lacked the strength..."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Because I… Because humans are weak... Is crying all we can do?! I’ll kill them..."
+        },
+        {
+          "type": "action",
+          "description": "Eren stands up."
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "Eren…?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "What’s wrong, Eren? Eren?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "I’ll kill them all!  I’ll wipe every one of them… off the face of the earth!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Eren..."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "(Narration) That year, the central government decided to fall back within Wall Rose. (Narration) During that period of time, the Titans consumed ten thousand people."
+        }
+      ]
+    },
+    {
+      "description": "Grisha rides through a forest going toward Wall Rose.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Grisha",
+          "line": "(Thoughts) Eren… Carla… Mikasa…! Please be safe!"
+        }
+      ]
+    },
+    {
+      "description": "In Eren’s dream.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Grisha",
+          "line": "Eren… Eren… Eren… Eren!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Dad! Stop it, Dad! What are you trying to do?!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Grisha",
+          "line": "Just give me your arm!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "No! After mom died, you lost it! Let me go, Dad!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Grisha",
+          "line": "This is for your sake!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "What are you saying?!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Grisha",
+          "line": "Don’t forget the key, okay?! You must get there... Someday, you’ll understand… Until that day…!"
+        }
+      ]
+    },
+    {
+      "description": "In a compound in Wall Maria. Eren is lying down.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "Eren, are you okay? You were tossing and turning."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "I feel like I saw my dad."
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "That can’t be… It was only a dream."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Was it?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "Let’s go. They said they’re going to distribute food..."
+        },
+        {
+          "type": "action",
+          "description": "Mikasa and Eren get up."
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "This was once a food storehouse. They’re keeping refugees who fled by ship here."
+        },
+        {
+          "type": "dialogue",
+          "character": "Man 1",
+          "line": "Hey, don’t cut in line!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Man 2",
+          "line": "Shut up! I haven’t eaten anything since last night!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "It isn’t yet certain that we’ll survive."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Eren, Mikasa!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Armin..."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Look, I got here in time. My grandpa got these for us."
+        },
+        {
+          "type": "action",
+          "description": "Armin gives bread to Mikasa and Eren."
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "Thank you..."
+        },
+        {
+          "type": "action",
+          "description": "Soldier 1 looks at Eren, Armin, and Mikasa in a disgusted manner."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "What’s his problem…?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "It can’t be helped… I don’t think there’s enough food for everyone. They say that’s all we’ll get for today. There are too many refugees and not enough food to begin with. You know the farther out you live, the less they care, right?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldier 1",
+          "line": "Why do we have to share our food with outsiders? If the Titans are breaking through anyway, they should have eaten more, so there would be fewer mouths."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Eren!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldier 1",
+          "line": "Now there’s just that much less food."
+        },
+        {
+          "type": "action",
+          "description": "Eren kicks Soldier 1."
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldier 1",
+          "line": "Ow! What are you doing, stupid kid?!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "You have no idea…! You’ve never even seen it! You’ve never seen how they’ve eaten people…!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldier 2",
+          "line": "Shut up!"
+        },
+        {
+          "type": "action",
+          "description": "Soldier 2 kicks Eren."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "I’m sorry! He’s just upset because he’s hungry! That’s why he’s being so rude to an adult… I’m really sorry!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldier 1",
+          "line": "Jeez… the only reason you aren’t starving is because of us! Even a kid should show gratitude!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Right!"
+        },
+        {
+          "type": "action",
+          "description": "The soldiers leave and Eren gets up."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Damn it… No guy like that’s looking after me... I’m going back to Wall Maria! I’m going to kill all the Titans!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Eren, you aren’t serious, are you?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "I am serious! I’m not like them, sitting inside the walls and acting tough! I don’t need this!"
+        },
+        {
+          "type": "action",
+          "description": "Eren throws the bread to the ground."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Eren, you’ll starve!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "This doesn’t bother you?! We can’t win until we can stop depending on stuff from them!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "It’s impossible! We can't beat the Titans! There’s nothing we can do but live within the walls... If you do something dumb, you’ll die, like my mom and dad!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "So we should suck up to them instead?! Aren’t you ashamed?!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Right now… Right now, there’s no choice!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "That’s just an excuse! Then spend the rest of your life as cattle, weakling!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Mikasa?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "If Armin is a weakling, so are we. We didn’t even run from the Titans or the city on our own two feet. We couldn’t even get the food we’re eating today without help. Anyone so weak couldn’t possibly defeat a single Titan. What matters is survival… like your mother said."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Mikasa!"
+        },
+        {
+          "type": "action",
+          "description": "Mikasa shoves bread into Eren’s mouth."
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "Eat… and survive. I won’t let you starve!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "(Narration) Several days later, refugees were sent in droves to till the wastelands to bring in more food. (Narration) But even still, there wasn’t enough, and the following year, in 846, the central government used many refugees in an operation ostensibly to recover Wall Maria. (Narration) Two hundred fifty thousand in all, approximately twenty percent of the population. But there were only just over a hundred survivors. (Narration) Their sacrifice alleviated the food shortage for the rest of us somewhat."
+        }
+      ]
+    },
+    {
+      "description": "In the compound at night after Armin’s grandfather died.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "It’s all because of the Titans. If we destroy them, we can retake our home! Armin… I’m enlisting next year. I’ll gain the power to fight Titans!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Armin…!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "I’ll go, as well."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Mikasa, you don’t have to… Didn’t you say that it’s important to survive?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "That’s right… So I’ll go, to keep you from dying."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "All right. The three of us."
+        }
+      ]
+    },
+    {
+      "description": "At the training field, during the day.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Shadis",
+          "line": "We now begin the enlistment ceremony for the 104th Trainee Corps! I am Keith Shadis, and I had the misfortune to be assigned to train you bastards! And I’m not here to welcome you at all! Right now, you’re mere cattle, fit for nothing but Titan food! No, less than cattle! In three years, we’ll take you worthless pieces of crap and train you! Give you the means to fight the Titans! In three years, when you stand before a Titan, will you still be food?! Or will you be a noble wall, shielding the king?! Or perhaps, one of humanity’s glorious soldiers that slays Titans?! You will decide!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "(Thoughts) Yes… That’s what I’ll be. And I will kill every last Titan in existence!"
+        }
+      ]
+    }
+  ]
+}

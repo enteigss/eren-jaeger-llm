@@ -1,0 +1,904 @@
+{
+  "title": "Attack on Titan S.1 E.11",
+  "episode_info": {
+    "title": "Idol: The Struggle for Trost, Part 7"
+  },
+  "scenes": [
+    {
+      "description": "Within the walls of Trost. Eren, Mikasa, and Armin are surrounded.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "I-I’m human!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "He is not the enemy of mankind! Praying for the glory of mankind, I shall elaborate on his strategic worth with all the time I have left!"
+        },
+        {
+          "type": "action",
+          "description": "Kitz is about to give the signal to attack Eren, Mikasa, and Armin with the cannons, but Pixis stops him."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "(Narration) Forced to advocate their own innocence, Eren and his friends were eventually saved by Dot Pixis, the chief executive of the southern territories."
+        },
+        {
+          "type": "dialogue",
+          "character": "Pixis",
+          "line": "I think it’d be best to hear what they have to say."
+        }
+      ]
+    },
+    {
+      "description": "On the wall of Trost, overlooking the district. Eren, Mikasa, and Armin speak with Pixis.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "I’ll do it! I’m not sure whether I can or not, but I’ll do it!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Pixis",
+          "line": "Hmm. Well said. You’re quite the man. Staff officers, assemble! Prepare to strategize!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "What? Seriously? Calling this plan “optimistic” would be an understatement. How can we just go ahead with it?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "I agree with you… but it’s pointless to question his decision. I’m sure Commander Pixis can see something we can’t."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Something we can’t see?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Besides, there’s probably a fundamental issue to deal with before executing the plan. I’m sure the Commander is fully cognizant of that."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "The Titans aren’t our only enemies."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Huh?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Pixis",
+          "line": "Time is of the essence. We have a role for you to fulfill, young soldiers."
+        }
+      ]
+    },
+    {
+      "description": "Later in the day. The soldiers are gathered at the base of the wall to Trost, awaiting orders.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Soldiers",
+          "line": "A plan to recapture Trost District? You’re kidding me! As if we have the technology to plug that hole in the gate. What are the higher ups thinking? Isn’t entering Trost District just suicide? But all we can do is defend Wall Rose’s gate since the hole can’t be sealed… Damn! Are they that starved for glory?"
+        },
+        {
+          "type": "dialogue",
+          "character": "To be forced back into that hell… Krr…",
+          "line": "No! I don’t want to die! Let me see my family!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Marco",
+          "line": "Hey, Daz! You’re too loud!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Superior",
+          "line": "You there! I heard that! Are you planning to abandon your duty?!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Daz",
+          "line": "Yes, that’s right! There’s nothing to be gained from this mass suicide mission!"
+        },
+        {
+          "type": "action",
+          "description": "The garrison superior prepares to draw a blade from his 3DMG."
+        },
+        {
+          "type": "dialogue",
+          "character": "Superior",
+          "line": "How dare you make a mockery of mankind and order. I’ll have you know I have the authority to execute you on the spot!"
+        },
+        {
+          "type": "action",
+          "description": "Daz also prepares to draw a blade."
+        },
+        {
+          "type": "dialogue",
+          "character": "Daz",
+          "line": "Fine by me. That would be a hundred times better than getting devoured by a Titan!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Marco",
+          "line": "Stop, Daz!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Daz",
+          "line": "Get off! Don’t touch me! Krr! I’m not going back there!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldiers",
+          "line": "Hey, did you hear that? Given the situation, it’s not surprising."
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldier 1",
+          "line": "Hey, I wonder if someone will rebel here, too."
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldier 2",
+          "line": "I also want to die on my own terms."
+        },
+        {
+          "type": "dialogue",
+          "character": "Garrison",
+          "line": "Hey, you two!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldier 1",
+          "line": "I-I was just joking!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Garrison",
+          "line": "Do it."
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldier 1",
+          "line": "Huh?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Garrison",
+          "line": "Make a real scene. With as many people as you can."
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldier 1",
+          "line": "Wha…?!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Garrison",
+          "line": "Many of us in the Garrison aren’t in agreement, too. We’ll take advantage of the chaos and escape!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "Where would you go then?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Garrison",
+          "line": "I’ll go to see my daughter! This wall won’t hold for long, either, after all."
+        }
+      ]
+    },
+    {
+      "description": "Back on top of the wall of Trost District. Eren and Pixis walk along the wall.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Pixis",
+          "line": "It’s said that before the Titans claimed dominance of the land, mankind was locked in endless bloody battles over differences in race and ideals. Supposedly, someone then said, “If something beyond man appeared before us as a powerful foe, mankind will take up arms together in unity.” What do you make of that?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "There’s a legend like that? Well, it seems rather optimistic. Doesn’t interest me, though."
+        },
+        {
+          "type": "dialogue",
+          "character": "Pixis",
+          "line": "Hahaha! Your character is quite cynical, much like myself."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "That’s because even now, when that powerful foe has our backs against a wall, it’s hard to say that humanity is united."
+        },
+        {
+          "type": "dialogue",
+          "character": "Pixis",
+          "line": "True. That certainly needs to change. Otherwise, it’ll be difficult to continue fighting."
+        },
+        {
+          "type": "action",
+          "description": "Pixis and Eren make their way to several garrison soldiers waiting on the wall."
+        },
+        {
+          "type": "dialogue",
+          "character": "Hmm? Ah…",
+          "line": "Eren?"
+        },
+        {
+          "type": "dialogue",
+          "character": "So you’re safe…",
+          "line": "Hmm?"
+        },
+        {
+          "type": "action",
+          "description": "Eren looks at Hannes with an annoyed look on his face as he points down toward the ground."
+        },
+        {
+          "type": "dialogue",
+          "character": "Hannes",
+          "line": "(Thoughts) “Focus on my mission”? (Thoughts) Really? Is that how he should act toward his superior? (Thoughts) Looks like Mikasa and Armin are safe, too. (Thoughts) But… why is Eren walking beside the Commander?"
+        },
+        {
+          "type": "action",
+          "description": "Pixis and Eren continue walking along the wall. Pixis takes a swig from his flask."
+        },
+        {
+          "type": "dialogue",
+          "character": "Pixis",
+          "line": "Ah… Care for a swig?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Yes!"
+        },
+        {
+          "type": "action",
+          "description": "Eren takes a large swig from Pixis’s flask and has an immediate look of regret."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Mmph!"
+        },
+        {
+          "type": "action",
+          "description": "Eren spits out the alcohol into the air in a big spray as Pixis walks on with an ever unreadable expression."
+        }
+      ]
+    },
+    {
+      "description": "Back on the ground. The soldiers are still arguing amongst themselves.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Daz",
+          "line": "Kill me! If you’re gonna execute me, do it quick!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Superior",
+          "line": "Fine, I’ll do it!"
+        },
+        {
+          "type": "action",
+          "description": "Pixis walks to the edge of the wall overlooking the soldiers. Eren stands at his side."
+        },
+        {
+          "type": "dialogue",
+          "character": "Ehem…",
+          "line": "Attention!"
+        },
+        {
+          "type": "action",
+          "description": "The soldiers stop and turn to face Pixis."
+        },
+        {
+          "type": "dialogue",
+          "character": "Pixis",
+          "line": "I will now elaborate on the plan to recapture Trost District! The objective of this plan is to seal the hole in the destroyed gate!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldier",
+          "line": "Huh?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Marco",
+          "line": "Seal? Is that even possible?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Pixis",
+          "line": "I will now explain how we intend to seal the hole! Belonging to the Training Corps, this is Eren Yeager."
+        },
+        {
+          "type": "action",
+          "description": "Eren walks forward and salutes."
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "Ah!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Connie",
+          "line": "E-Eren?!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Pixis",
+          "line": "He is the product of successful top-secret Titan transformation research. He is capable of generating a Titan’s body and moving it according to his will!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Connie",
+          "line": "Huh?! Is the Commander making absolutely no sense right now, or am I just stupid?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Ymir",
+          "line": "Shut up for a bit, stupid."
+        },
+        {
+          "type": "dialogue",
+          "character": "Pixis",
+          "line": "In his Titan form, he’ll lift the large boulder in the vicinity of the front gate, carry it to the destroyed gate, and seal it! Your duty is… to protect him from other Titans until he’s moved the boulder!"
+        },
+        {
+          "type": "action",
+          "description": "A little ways away on the wall, Armin discusses the plans with Mikasa and a few other garrison soldiers."
+        },
+        {
+          "type": "dialogue",
+          "character": "Gustav",
+          "line": "There’s no need to fight the Titans?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "I-I’m sorry. It’s not my place as a recruit to say anything."
+        },
+        {
+          "type": "dialogue",
+          "character": "Gustav",
+          "line": "Forget that. Continue explaining."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "R-Right. Titans generally attack in response to larger groups of people, so if we could take advantage of that and act as bait to group them close to the wall, I believe we could keep them away from Eren with minimal contact overall. Furthermore, the baited Titans can later be taken care of with cannons, preventing any unnecessary casualties. However, we won’t just leave Eren unguarded, so I believe we should have a small elite squad escort him. All that said, we cannot avoid fighting the Titans that enter through the hole. It’ll be up to the abilities of the elite squad at that point."
+        },
+        {
+          "type": "dialogue",
+          "character": "Gustav",
+          "line": "Okay, understood. Let’s replan using that as a basis."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "But this plan assumes that Eren can reliably carry the boulder and seal the hole. I’m hesitant about carrying out the plan with that uncertainty in mind."
+        },
+        {
+          "type": "dialogue",
+          "character": "Gustav",
+          "line": "True, there’s something to be said about putting soldiers at risk when the foundation of a plan is anything but reliable, but Commander Pixis’s reasoning is valid as well."
+        },
+        {
+          "type": "dialogue",
+          "character": "Anka",
+          "line": "Right. We also need to worry about time. Even as we speak, the Titans continue to invade. As more make their way into the town, recapturing it will become impossible."
+        },
+        {
+          "type": "dialogue",
+          "character": "Gustav",
+          "line": "Not to mention, the chance that Wall Rose is breached increases."
+        },
+        {
+          "type": "dialogue",
+          "character": "Gustav, Armin",
+          "line": "Hmm?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Anka",
+          "line": "There’s a limit to how long people can act with fear as their driving force."
+        }
+      ]
+    },
+    {
+      "description": "Back on the ground. Soldiers are processing Commander Pixis’s explanations.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Soldier",
+          "line": "Carry that large boulder?"
+        },
+        {
+          "type": "dialogue",
+          "character": "That’s just…",
+          "line": "Has mankind finally taken control of the Titans?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Daz",
+          "line": "You’re lying! I won’t risk my life for a stupid reason like that! Who do you think we are?! We’re not disposable blades, you know!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldiers",
+          "line": "“Human weapon” he says! That’s obviously a lie!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Garrison",
+          "line": "They’re telling us to die here today. I’m out of here!"
+        },
+        {
+          "type": "action",
+          "description": "The garrison soldier and two other soldiers leave the group."
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldiers",
+          "line": "Me, too! Same here! I’ve had enough of this! Me, too!"
+        },
+        {
+          "type": "action",
+          "description": "A bunch of other soldiers begin deserting from the group."
+        },
+        {
+          "type": "dialogue",
+          "character": "Superior",
+          "line": "Stop right there! You! That’s a capital crime!"
+        },
+        {
+          "type": "action",
+          "description": "The garrison superior grabs Daz’s shoulder, but Daz shakes him off."
+        },
+        {
+          "type": "dialogue",
+          "character": "Daz",
+          "line": "Urgh! I’ll be spending the last moments of mankind with my family!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Ian",
+          "line": "This is bad."
+        },
+        {
+          "type": "dialogue",
+          "character": "Rico",
+          "line": "Yes. Order will fall apart at this rate."
+        },
+        {
+          "type": "dialogue",
+          "character": "Kitz",
+          "line": "I hope you’ve said your prayers, traitors!"
+        },
+        {
+          "type": "action",
+          "description": "Kitz draws his blade and points it towards the deserting soldiers."
+        },
+        {
+          "type": "dialogue",
+          "character": "Kitz",
+          "line": "I will hack you down where you stand!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldiers",
+          "line": "Ahh!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Pixis",
+          "line": "Heed my command! Those who wish to desert us now will all be pardoned!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Kitz",
+          "line": "Wha…?!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Pixis",
+          "line": "Once a man surrenders to their fear of Titans, they are no longer fit for battle! Those who’ve experienced that fear are free to leave! Furthermore, those of you who want your parents, siblings, and loved ones to experience that fear for themselves may also leave!"
+        },
+        {
+          "type": "action",
+          "description": "The deserting garrison soldier imagines his daughter being eaten by a Titan."
+        },
+        {
+          "type": "dialogue",
+          "character": "Girl",
+          "line": "Papa!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Garrison",
+          "line": "I can’t let that happen. My daughter is my… last hope."
+        },
+        {
+          "type": "action",
+          "description": "The deserting soldiers return to the group."
+        },
+        {
+          "type": "dialogue",
+          "character": "Pixis",
+          "line": "Let us think back to four years ago. Recall the plan to recapture Wall Maria. Though I presume you all know this without me having to say, the plan itself sounded glorious, but in essence, it was a way to rid ourselves of the unemployed that the government was unable to support! The only reason why everyone maintained their silence was because we managed to survive within confined walls thanks to their sacrifices! All of mankind bears that sin, including myself! Because the inhabitants of Wall Maria were few in number, the conflict did not escalate. But what about now?! If Wall Rose is breached, reducing the mouths to feed by a fifth won’t suffice! Not even a half of the remaining population can be supported within only Wall Sina! Should mankind cease to exist, it would not be because we were all devoured by Titans! We humans would be our own end! We must not die within narrower walls. I implore you! Die where you stand!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "(Thoughts) I don’t know if I can carry the boulder with my Titan power. (Thoughts) Still, I understand my role. (Thoughts) I might be a fake, but even so, I have to make this succeed. (Thoughts) I… have to become… everyone’s hope."
+        }
+      ]
+    },
+    {
+      "description": "On the wall of District Trost. The soldiers are preparing for the battle to reclaim Wall Maria. Pixis explains the plan to Ian, Rico, and Mitabi.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Pixis",
+          "line": "It seems we’re all here. You have just one mission. Act as Eren Yeager’s guards and eliminate any risks that present themselves along the way. It’s the most dangerous, as well as most difficult, mission of this plan. It would be no exaggeration to say the fate of mankind rests on your shoulders."
+        },
+        {
+          "type": "dialogue",
+          "character": "Rico",
+          "line": "Commander, may I ask something?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Pixis",
+          "line": "What is it?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Rico",
+          "line": "Is the supposed “human weapon” truly capable of this?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Ian",
+          "line": "Stop, Rico."
+        },
+        {
+          "type": "dialogue",
+          "character": "Rico",
+          "line": "You’re doubtful, too, aren’t you?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Mitabi",
+          "line": "Commander, this plan is dependent on a clearly vague factor, Eren Yeager. If he’s not capable, many soldiers will die meaninglessly."
+        },
+        {
+          "type": "dialogue",
+          "character": "How troubling…",
+          "line": "Are you all that fond of losing to the Titans?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldiers",
+          "line": "Huh?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Pixis",
+          "line": "I, for one, am not. I hate losing more than anything. But contrary to that, I’ve continuously lost all my life. I want to defeat the Titans. Win against those blockheads. No matter what it takes."
+        },
+        {
+          "type": "dialogue",
+          "character": "Rico",
+          "line": "Th-The same goes for us!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Pixis",
+          "line": "Then what choice do we have but to bet on him? That clearly vague factor you spoke of… is our sole chance of defeating the Titans, after all."
+        },
+        {
+          "type": "dialogue",
+          "character": "Gustav",
+          "line": "Commander, it’s almost time to execute the luring plan."
+        },
+        {
+          "type": "dialogue",
+          "character": "Pixis",
+          "line": "Yes. Ian Dietrich, Rico Brzenska, Mitabi Jarnach. You’ve all proven to be elites amongst elites in the Garrison. I entrust mankind’s future to you."
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldiers",
+          "line": "Yes, sir!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Pixis",
+          "line": "Ian, take charge of the squad. I leave all field decisions to you."
+        },
+        {
+          "type": "dialogue",
+          "character": "Ian",
+          "line": "What? Are you sure?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Rico",
+          "line": "No objections here."
+        },
+        {
+          "type": "dialogue",
+          "character": "Mitabi",
+          "line": "Likewise."
+        },
+        {
+          "type": "dialogue",
+          "character": "Pixis",
+          "line": "Fear not. You know your liquor."
+        },
+        {
+          "type": "dialogue",
+          "character": "Ian",
+          "line": "Wha…?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Pixis",
+          "line": "You can distinguish the high-quality from the cheap. I leave it to you."
+        },
+        {
+          "type": "dialogue",
+          "character": "Ian",
+          "line": "Yes, sir!"
+        },
+        {
+          "type": "action",
+          "description": "A little ways away, Eren, Mikasa, and Armin are waiting for the plan to start."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Eren, I’m sorry."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Huh?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "In the end, I made you bear all the responsibility."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Remember what I said? You have the ability to seek out the right answers. I’ll bet on that."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Don’t say you’re coming with me."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "You were assigned to the luring unit, right?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "But… I can’t leave you alone."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Cut it out already! I’m neither your little brother nor your kid! I’ve said this already!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Ian",
+          "line": "Ackermann."
+        },
+        {
+          "type": "dialogue",
+          "character": "Ian",
+          "line": "You’ll be part of the elite squad guarding Yeager."
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "Ah…!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Ian",
+          "line": "We need your skills. Let’s go. Time to move out!"
+        },
+        {
+          "type": "action",
+          "description": "Eren and Mikasa split from Armin."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "See you, Armin. Don’t die."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Yeah, you, too."
+        },
+        {
+          "type": "action",
+          "description": "Eren and Mikasa join Ian, Rico, and Mitabi to make their way to the designated area."
+        },
+        {
+          "type": "dialogue",
+          "character": "Ian",
+          "line": "He called you a top-secret human weapon, but sealing that hole is all I care about. I’ll protect you with my life. It’s up to you!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Yes, sir!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "Eren, are you feeling okay?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Yeah."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "I’m telling you I’m fine! A lot better than when we were cornered earlier."
+        },
+        {
+          "type": "dialogue",
+          "character": "Rico",
+          "line": "Quit playing house, Yeager."
+        },
+        {
+          "type": "dialogue",
+          "character": "Mitabi",
+          "line": "To think we have to entrust the fate of mankind to a spoiled kid like you…"
+        },
+        {
+          "type": "dialogue",
+          "character": "Ian",
+          "line": "That’s enough, all of you! We’re approaching the route to the boulder! From the looks of it, there are no Titans. Seems like everyone successfully lured them off."
+        },
+        {
+          "type": "action",
+          "description": "On the side of the walls, Armin and Marco hang from their 3DMG just above the grabbing hands of the Titans below."
+        },
+        {
+          "type": "dialogue",
+          "character": "Leader 1",
+          "line": "Listen up! We just need to guide them to the corner of the town! Avoid any combat!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Rico",
+          "line": "Let me tell you something, Yeager. In all likelihood, no small number of soldiers will lose their lives executing this plan. All for your sake. They’re our fellow comrades, seniors, and juniors. Naturally, as soldiers, we’re all prepared to die anytime. But you know… they’re not ignorant pawns."
+        },
+        {
+          "type": "action",
+          "description": "In the city, a group of soldiers stands on a building as a Titan approaches."
+        },
+        {
+          "type": "dialogue",
+          "character": "Leader 2",
+          "line": "Wait."
+        },
+        {
+          "type": "dialogue",
+          "character": "Leader 2",
+          "line": "Not yet. A bit more. Withdraw!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Rico",
+          "line": "They have names, families, and all the emotions associated with them. Alyosha, Dominic, Phine, Isabel, Ludwig, Martina, Guido, Hans… They’re all humans with blood running through their veins. There are also some whom I’ve been with since my Training Corps days. Today, many of them… will likely die for your sake. You have the responsibility to not let their sacrifices be wasted. No matter the odds. Carry that reality into your naive heart. And fulfill your duty with your life."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Yes, ma’am! (Thoughts) I’ll do it. I’ll make sure we succeed!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Pixis",
+          "line": "(Flashback) Ever since the Titans appeared, mankind has not once claimed victory over them. (Flashback) For every inch the Titans advanced, we retreated in kind, continually giving up territory! (Flashback) However, when this plan succeeds, mankind will recapture territory from the Titans for the first time in history!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Ian",
+          "line": "It’s here! Let’s go!"
+        },
+        {
+          "type": "action",
+          "description": "Ian, Mitabi, Eren, and Mikasa jump from the wall to the city below."
+        },
+        {
+          "type": "dialogue",
+          "character": "Pixis",
+          "line": "(Flashback) That moment will mark the first time mankind has triumphed over the Titans!"
+        },
+        {
+          "type": "action",
+          "description": "From the wall, Rico fires off a green flare. Pixis and other Garrison soldiers watch from another section of the wall."
+        },
+        {
+          "type": "dialogue",
+          "character": "Anka",
+          "line": "Green signal confirmed. The elite squad has begun their mission."
+        },
+        {
+          "type": "action",
+          "description": "Eren and Mikasa race through the city with their 3DMG toward the boulder."
+        },
+        {
+          "type": "dialogue",
+          "character": "Pixis",
+          "line": "(Flashback) Compared to all that mankind has lost thus far, this may be overwhelmingly insignificant. (Flashback) However, despite that, to mankind, it will be a great advance!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Urahhh!"
+        },
+        {
+          "type": "action",
+          "description": "Eren flies up with his 3DMG and bites his thumb hard enough to draw blood. With an explosion, Eren transforms into the Attack Titan."
+        },
+        {
+          "type": "dialogue",
+          "character": "Attack.Titan",
+          "line": "Urahhhh!!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "(Thoughts) From a human’s standpoint, it’s unthinkable to carry a boulder of that size. But I’m sure Eren has a strong power that can guide us. Huh?"
+        },
+        {
+          "type": "action",
+          "description": "Mikasa watches Eren’s Attack Titan as it turns to face her."
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "(Thoughts) Eren? Ah!"
+        },
+        {
+          "type": "action",
+          "description": "Eren’s Attack Titan attacks Mikasa with a rapid punch."
+        }
+      ]
+    }
+  ]
+}

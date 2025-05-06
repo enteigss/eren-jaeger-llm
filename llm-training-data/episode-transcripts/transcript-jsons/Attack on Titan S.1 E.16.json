@@ -1,0 +1,889 @@
+{
+  "title": "Attack on Titan S.1 E.16",
+  "episode_info": {
+    "title": "What Needs to be Done Now: Eve of the Counterattack, Part 3"
+  },
+  "scenes": [
+    {
+      "description": "In a military building. The soldiers are having their gear checked to determine whether someone killed Hange’s Titans.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Soldier 1",
+          "line": "When’s the last time the shaft was replaced?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Sasha",
+          "line": "Six days ago, after the cleaning operation."
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldier 2",
+          "line": "It checks out."
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldier 1",
+          "line": "Okay, next! You there."
+        },
+        {
+          "type": "dialogue",
+          "character": "Krista",
+          "line": "I’m Krista Lenz of the 42nd Squad."
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldier 1",
+          "line": "We’ll inspect your gear."
+        },
+        {
+          "type": "dialogue",
+          "character": "Recruit 1",
+          "line": "So you can be punished for killing a Titan, too?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Recruit 2",
+          "line": "As strange as it sounds, those were valuable specimens."
+        },
+        {
+          "type": "dialogue",
+          "character": "Recruit 1",
+          "line": "Even so, why are they searching for the culprit among us recruits?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Recruit 2",
+          "line": "Yeah, everyone’s exhausted from cleaning up the battlefield until today."
+        },
+        {
+          "type": "dialogue",
+          "character": "Connie",
+          "line": "The culprit must’ve really hated the Titans."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Yeah. But in this case, they pretty much helped the Titans out. Their lust for revenge may have been sated, but mankind will suffer for it."
+        },
+        {
+          "type": "dialogue",
+          "character": "Connie",
+          "line": "I’m an idiot, so I think I get it. Before I saw a Titan, I seriously planned to enlist in the Survey Corps. But now, I’m not sure. Today’s the day we have to decide, too."
+        },
+        {
+          "type": "action",
+          "description": "Connie glances over to Jean, who has his fists clenched tightly."
+        },
+        {
+          "type": "dialogue",
+          "character": "Connie",
+          "line": "(Thoughts) Is Jean seriously…?"
+        }
+      ]
+    },
+    {
+      "description": "In the past, at night, in the courtyard of the military compound. The funeral pyres are burning for the dead soldiers. Connie is crying.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "(Thoughts) Everyone’s regretting it. (Thoughts) If I’d known this would happen, I wouldn’t have become a soldier. (Thoughts) Now that I’ve burned myself out, that’s all I can think of."
+        },
+        {
+          "type": "action",
+          "description": "Jean walks forward and picks up some stray bones."
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "Hey, Marco… I can’t tell which of these are your bones anymore. (Thoughts) If I hadn’t become a soldier, I wouldn’t have had to worry about who’d die next."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "(Flashback) Are we going to abandon the progress made through countless sacrifices and let the Titans devour us all?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "(Thoughts) I get it. I know we have to fight. (Thoughts) Still… not everyone can be a reckless idiot like you."
+        },
+        {
+          "type": "action",
+          "description": "Marco appears as a vision at Jean’s side."
+        },
+        {
+          "type": "dialogue",
+          "character": "Marco",
+          "line": "(Flashback) You might get mad, but listen. You’re not a strong person, so you can sympathize with the feelings of the weak. (Flashback) Nevertheless, you excel at looking at things objectively, so you have a clear idea of what needs to be done."
+        },
+        {
+          "type": "dialogue",
+          "character": "What… needs to be done…",
+          "line": "Hey, you guys."
+        },
+        {
+          "type": "dialogue",
+          "character": "Krista",
+          "line": "Huh…?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "Do you know where you’re going to enlist? Well, I do. I’m… Urgh… I’m… enlisting in the Survey Corps!"
+        }
+      ]
+    },
+    {
+      "description": "Back in the present, in a military building. The recruits are having their equipment checked.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Connie",
+          "line": "Damn. Hey, Annie. What did you think? Jean of all people said he’d enlist in the Survey Corps."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Huh? Jean did?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Annie",
+          "line": "Nothing really."
+        },
+        {
+          "type": "dialogue",
+          "character": "Connie",
+          "line": "You’re set on the Military Police, right? I should go there, too, shouldn’t I?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Annie",
+          "line": "Say, if someone told you to die, would you?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Connie",
+          "line": "What do you mean? Of course not."
+        },
+        {
+          "type": "dialogue",
+          "character": "Annie",
+          "line": "Then why not decide for yourself?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Annie",
+          "line": "Armin, how about you?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Huh? I think that if there’s a legitimate reason, there might be no other choice but to die. I wouldn’t like it, though."
+        },
+        {
+          "type": "dialogue",
+          "character": "Annie",
+          "line": "I see. So you’ve decided."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Yeah. I chose where I’d enlist a long time ago."
+        },
+        {
+          "type": "dialogue",
+          "character": "Connie",
+          "line": "Seriously? Armin, you, too?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Annie",
+          "line": "You’re weak, but you do have guts."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Th-Thanks. Annie, you’re actually pretty nice, huh?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Annie",
+          "line": "Huh?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "I mean, it seems like you don’t want us to join the Survey Corps. Is there a reason why you want to join the Military Police, though?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Annie",
+          "line": "Not really. I just want… to save myself."
+        }
+      ]
+    },
+    {
+      "description": "At the old Survey Corps HQ. Eld and Gunther are having a chat outside.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Gunther",
+          "line": "In the end, we couldn’t find a soldier who used their device without permission."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eld",
+          "line": "Who knows? I’m more worried about the recruitment assembly right now. I wonder how many recruits would be eccentric enough to enlist."
+        },
+        {
+          "type": "dialogue",
+          "character": "Gunther",
+          "line": "Hey, Eren! Are any of your comrades planning to enlist with us?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Yes. Well, there were. I’m not so sure anymore."
+        },
+        {
+          "type": "dialogue",
+          "character": "Gunther",
+          "line": "Assemble!"
+        },
+        {
+          "type": "action",
+          "description": "Levi arrives on his horse."
+        },
+        {
+          "type": "dialogue",
+          "character": "Levi",
+          "line": "Get ready to leave."
+        },
+        {
+          "type": "dialogue",
+          "character": "Gunther, Eld",
+          "line": "Yes, sir!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Good morning, Lance Corporal Levi!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Levi",
+          "line": "Listen, Eren. Stay within two horses of me. Don’t forget the only reason you’re not locked up is because I’m supervising you."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Yes, sir!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Levi",
+          "line": "Let’s go."
+        }
+      ]
+    },
+    {
+      "description": "In the late afternoon, in the military compound’s courtyard. The recruits are gathered.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Ah… Jean! Are you sure about this?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "Yeah."
+        },
+        {
+          "type": "dialogue",
+          "character": "Sasha",
+          "line": "Why the change of heart? I mean, aren’t you scared?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "What? Of course I’m scared of joining the Survey Corps."
+        },
+        {
+          "type": "dialogue",
+          "character": "Connie",
+          "line": "Th-Then why would you?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "It’s not at all because I’m not scared of the Titans."
+        },
+        {
+          "type": "dialogue",
+          "character": "Connie",
+          "line": "Huh?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "I’m not thinking, “Those with skills should join the Survey Corps,” either. I’m different from that reckless idiot."
+        },
+        {
+          "type": "dialogue",
+          "character": "Connie",
+          "line": "Eren, huh? He’s already in the Survey Corps, isn’t he?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldier",
+          "line": "Recruits, file in! Line up before the stage! Line up before the stage!"
+        },
+        {
+          "type": "action",
+          "description": "The soldiers begin to assemble in front of the stage."
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "You know, I’m not putting my life on the line because I was persuaded to. At the very least, this isn’t a decision someone else can make for me."
+        }
+      ]
+    },
+    {
+      "description": "Later that night. The soldiers are assembled around the stage.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Erwin",
+          "line": "I’m Erwin Smith, the Commander of the Survey Corps. Today, you’ll decide where you’ll enlist. To be blunt, I’m here to recruit soldiers for the Survey Corps. I’m sure the latest Titan attack has made you fear the Titans and recognize the limits of your strength. However, through this battle, mankind has made unprecedented progress in its struggle. The key was Eren Jaeger. His willingness to risk his life for mankind signifies his unquestionable allegiance to us. Furthermore, not only did he allow us to stop the Titans, but he also provided us a way to unveil the Titans’ mystery!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Recruits",
+          "line": "Huh?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Erwin",
+          "line": "In the basement of his home in Shiganshina District lies the secret of the Titans, unknown even to him. If we can just reach that basement, we might find a clue that will aid us in overthrowing the Titans’ century-long rule!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Bertolt",
+          "line": "Huh…?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Reiner",
+          "line": "His basement?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Recruits",
+          "line": "We’re that far ahead? If we figure them out, we could win."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "(Thoughts) Even if it’s to recruit soldiers, how could he reveal this much? (Thoughts) Or… is there something else? (Thoughts) What is the commander trying to smoke out?"
+        }
+      ]
+    },
+    {
+      "description": "In the military compound’s courtyard. The recruits are gathered as Erwin addresses them.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Erwin",
+          "line": "We aim to reach that basement in Shiganshina District. But to that end, the recapture of Wall Maria is crucial. In other words, our goal hasn’t changed. But now that Trost District’s gate is unusable, we’ll have to go around from Calanes District in the east. The military route we spent four years preparing has been rendered useless. During those four years, we lost more than sixty percent of our men. Sixty percent in four years… It’s an absurd figure. Those of you who join us will participate in an expedition a month from now in which the predicted mortality rate is thirty percent. Most of you will likely die in four years. However, if you manage to survive, you’ll be an elite soldier who can overcome all odds. If you are still willing to endanger your lives with us, remain here. Please, ask yourselves. Are you capable of offering your lives for mankind?!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Erwin",
+          "line": "That is all. Those of you who wish to enlist elsewhere may leave."
+        },
+        {
+          "type": "action",
+          "description": "Darius steps out from the side."
+        },
+        {
+          "type": "dialogue",
+          "character": "Darius",
+          "line": "Commander, don’t you think you went too far? You might’ve scared them all off."
+        },
+        {
+          "type": "action",
+          "description": "Many recruits, including Annie, leave."
+        },
+        {
+          "type": "dialogue",
+          "character": "Thoughts) Damn…",
+          "line": "(Thoughts) Please. I’ve already decided. (Thoughts) Don’t make me hate myself any more than I do now!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Connie",
+          "line": "(Thoughts) I only left my village to join the Military Police. (Thoughts) Mom would be overjoyed. (Thoughts) If I join them, everyone in the village will acknowledge me."
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "(Thoughts) We know already. We saw it all."
+        },
+        {
+          "type": "dialogue",
+          "character": "Connie",
+          "line": "(Thoughts) … eat people."
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "Ahhh!!"
+        },
+        {
+          "type": "action",
+          "description": "The recruits who have decided to join other branches have left."
+        },
+        {
+          "type": "dialogue",
+          "character": "Erwin",
+          "line": "Could you… die if given the order to?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Recruit",
+          "line": "We don’t want to die!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Erwin",
+          "line": "I see. I like your expressions. Now then, I accept all of you that remain as new Survey Corps soldiers! This will be a true salute!"
+        },
+        {
+          "type": "action",
+          "description": "Erwin places his fist over his heart."
+        },
+        {
+          "type": "dialogue",
+          "character": "Erwin",
+          "line": "Offer your lives!"
+        },
+        {
+          "type": "action",
+          "description": "The new Survey Corps soldiers salute."
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldiers",
+          "line": "Yes, sir!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Sasha",
+          "line": "I’m scared! I wanna go back home."
+        },
+        {
+          "type": "dialogue",
+          "character": "Connie",
+          "line": "I don’t care anymore."
+        },
+        {
+          "type": "dialogue",
+          "character": "Ymir",
+          "line": "If you’re gonna cry about it, you should’ve left."
+        },
+        {
+          "type": "dialogue",
+          "character": "Erwin",
+          "line": "You’ve all done well to suppress your fear. Every one of you is a brave soldier. You have my deepest respect."
+        }
+      ]
+    },
+    {
+      "description": "The next day, at the stables. Ness and the new Survey Corps soldiers are gathered.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "Salute!"
+        },
+        {
+          "type": "action",
+          "description": "Jean, Ymir, Armin, Mikasa, and the other new Survey Corps soldiers salute."
+        },
+        {
+          "type": "dialogue",
+          "character": "Ness",
+          "line": "I’m Squad Leader Ness. And this is my favorite horse, Shallot. She likes chewing on hair, so watch out if you don’t want to go bald. Nice to meet you."
+        },
+        {
+          "type": "action",
+          "description": "Shallot bites onto Ness’s bandana."
+        },
+        {
+          "type": "dialogue",
+          "character": "Ness",
+          "line": "Hey, wait! Y-You dolt! Stop, Shallot! Hey, wait! Someone stop her! Hey!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "(Narration) The training that began the next day consisted mainly of studying the long-distance scouting formation that Commander Erwin devised, rather than field training. (Narration) Strangely enough, despite its detailed nature, Eren Jaeger’s position was nowhere to be seen."
+        }
+      ]
+    },
+    {
+      "description": "In the classroom. Ness points out positions on a diagram on the wall.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Ness",
+          "line": "You recruits will be here, between the wagon escort squad and scout support squad. You’ll be moving with the spare horses and relaying communications."
+        }
+      ]
+    },
+    {
+      "description": "In the field. Eren and Levi’s squad are gathered.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Gunther",
+          "line": "We of the special-ops squad will be here in the center of the rear, on standby."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "That’s quite far back."
+        },
+        {
+          "type": "dialogue",
+          "character": "Gunther",
+          "line": "It’s the safest position in this formation. Even more secure than where the supply wagons are. Well, we don’t have a real objective this time. This expedition won’t cover much ground since it’s just a test run before getting you to Shiganshina District."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Um, I have no idea what to do with this power yet."
+        },
+        {
+          "type": "dialogue",
+          "character": "Gunther",
+          "line": "Did you understand the meaning of the commander’s question back then?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Huh…?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Erwin",
+          "line": "(Flashback) Who do you think the enemy is?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Did any of you understand?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eld",
+          "line": "No."
+        },
+        {
+          "type": "action",
+          "description": "Petra shakes her head."
+        },
+        {
+          "type": "dialogue",
+          "character": "Oluo",
+          "line": "I’d be lying if I said I knew for sure."
+        },
+        {
+          "type": "dialogue",
+          "character": "Gunther",
+          "line": "This operation may have another objective. However, the commander decided to keep that hidden from everyone. So we should just focus on pulling this off without incident. Trust in the commander."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Yes, sir."
+        },
+        {
+          "type": "dialogue",
+          "character": "Gunther",
+          "line": "This concludes today’s training. Prepare to head back."
+        }
+      ]
+    },
+    {
+      "description": "At the former Survey Corps HQ, in the stables. Erwin is cleaning up after the horses. As he exits, he sees Armin, Mikasa, and the others. Oluo stands outside against the wall.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Huh? Everyone! Oluo, may I go speak with my friends for a bit?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Oluo",
+          "line": "Jeez, just go already."
+        },
+        {
+          "type": "action",
+          "description": "Eren runs toward the group."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Hey, Mikasa, Armin!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Huh? Ah!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "Eren!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "It feels like it’s been forever!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "Eren, did they do anything terrible to you? Like inspecting every bit of your body or causing you mental anguish?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "No, nothing like that."
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "Tsk… That shorty went way too far. I’ll pay him back in kind someday."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "You’re not talking about Lance Corporal Levi, are you?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Connie",
+          "line": "Hey, Eren."
+        },
+        {
+          "type": "dialogue",
+          "character": "Sasha",
+          "line": "It’s been a while!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Oh wow, you’re all here? But… are you guys here because… Don’t tell me you enlisted."
+        },
+        {
+          "type": "dialogue",
+          "character": "Connie",
+          "line": "Why else would we be here?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Then the only ones who picked the Military Police are Jean, Annie, and Marco?"
+        },
+        {
+          "type": "action",
+          "description": "Jean and some other soldiers walk up from behind Eren."
+        },
+        {
+          "type": "dialogue",
+          "character": "Ah…",
+          "line": "You’re kidding me… You, too?!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "Marco’s dead."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Huh? What… did you just say? Did you say Marco’s dead?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "It seems like not everyone dies a dramatic death. We don’t even know how he went down. He died alone without anyone seeing or knowing."
+        },
+        {
+          "type": "dialogue",
+          "character": "Ness",
+          "line": "Hey, recruits, gather up!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Ness",
+          "line": "Your uniforms are here!"
+        }
+      ]
+    },
+    {
+      "description": "Later that evening. The new group is gathered in a storage building.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "Yes. We’ll be participating in the next expedition as well."
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "Hey, Eren. I heard that as a Titan, you tried to kill Mikasa. Mind explaining yourself?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "I didn’t ask you."
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "Say, Mikasa. That wound on your cheek seems pretty deep."
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "When did you get it?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Ngh…",
+          "line": "I think it’s true. In my Titan form, I tried to kill Mikasa."
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "So you don’t really remember it, huh? In other words, you weren’t aware you had that power until now, and you lack the means to control it."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Yeah, that’s right."
+        },
+        {
+          "type": "dialogue",
+          "character": "Ngh… Haa…",
+          "line": "Hear that, guys? That’s the situation we’re in. Our lives and mankind are in his hands. We’ll probably die without Eren ever knowing, just like Marco did."
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "Jean, why are you driving Eren into a corner like this?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "You know, Mikasa… Not everyone can blindly die for Eren like you without anything in return."
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "We have the right to know… what exactly we’re risking our lives for. Otherwise, we’ll waver at the moment of truth. We expect something out of Eren. Let us know what to expect and whether it’s worth our lives. Ngh…!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Ah… Ngh!"
+        },
+        {
+          "type": "action",
+          "description": "Jean walks up to Eren and takes him by the shoulders."
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "So, Eren! We’re seriously counting on you, okay?"
+        }
+      ]
+    },
+    {
+      "description": "On the day of the expedition. The Survey Corps is preparing to leave from the city.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Soldiers",
+          "line": "Commander, we’re departing soon. We’ve lured away all nearby Titans! Thirty seconds until the gate is open!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Girl",
+          "line": "Wow!"
+        },
+        {
+          "type": "action",
+          "description": "Eren looks down from his horse to see children watching from a window."
+        },
+        {
+          "type": "dialogue",
+          "character": "Girl",
+          "line": "It’s the Survey Corps!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Boy",
+          "line": "The mark on their backs is called the Wings of Liberty, you know!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Girl",
+          "line": "Cool!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Darius",
+          "line": "It’s time! In mere moments, mankind will advance once again. Show us what you’re made of!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldiers",
+          "line": "Yeah!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldier",
+          "line": "Open the gate!"
+        },
+        {
+          "type": "action",
+          "description": "The main gate opens."
+        },
+        {
+          "type": "dialogue",
+          "character": "Erwin",
+          "line": "Forward!"
+        },
+        {
+          "type": "action",
+          "description": "The soldiers advance."
+        },
+        {
+          "type": "dialogue",
+          "character": "Erwin",
+          "line": "We now begin the 57th expedition! Advance!"
+        }
+      ]
+    }
+  ]
+}

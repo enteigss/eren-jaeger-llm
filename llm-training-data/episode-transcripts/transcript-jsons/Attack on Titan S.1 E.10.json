@@ -1,0 +1,742 @@
+{
+  "title": "Attack on Titan S.1 E.10",
+  "episode_info": {
+    "title": "Response: The Struggle for Trost, Part 6"
+  },
+  "scenes": [
+    {
+      "description": "Within the walls. Eren, Mikasa, and Armin are surrounded and backed against a wall.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Kitz",
+          "line": "I’ll ask you once again! What are you?!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "I’m human!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Kitz",
+          "line": "I see… Don’t think badly of me."
+        },
+        {
+          "type": "action",
+          "description": "Kitz raises his arm to signal the cannons to shoot."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Ah!"
+        }
+      ]
+    },
+    {
+      "description": "Within the walls. The young soldiers are gathered. Daz is having an existential crisis.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Marco…",
+          "line": "No… I can’t fight the Titans anymore!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Marco",
+          "line": "What’s gotten into you?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Daz",
+          "line": "My comrades were devoured right in front of me! They got eaten, yet I felt neither hate nor sadness! I was just thankful that it wasn’t me! But I’ll be next. I get it now. Our job is to fight until the Titans eat us! If I’m just gonna get torn apart anyway, I’d rather --"
+        },
+        {
+          "type": "action",
+          "description": "Daz pulls out one of his blades. Marco stops him from doing anything to himself."
+        },
+        {
+          "type": "dialogue",
+          "character": "Marco",
+          "line": "Stop! Get a grip, man! It’s not just you! Everyone is struggling with fear! Look at Sasha! Even after all she’s been through, she’s still steady."
+        },
+        {
+          "type": "dialogue",
+          "character": "Sasha",
+          "line": "Ahhhh!! My stomach is killing me. May I go to the infirmary?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Daz",
+          "line": "I can’t take this!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Marco",
+          "line": "Stop it!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "Good thing we were sworn to secrecy. Everything’s already enough of a mess as it is."
+        },
+        {
+          "type": "action",
+          "description": "An explosion can be heard coming from a distance."
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "Woah!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Reiner",
+          "line": "Cannon fire?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "But why just one shot?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldiers",
+          "line": "Look, smoke! It’s inside the wall! What’s that? What’s going on? Was the gate broken? That’s the most fortified place! It can’t be! Someone probably just dropped a cannonball. But then what’s all that smoke?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "Could it be steam from a Titan?"
+        },
+        {
+          "type": "action",
+          "description": "Reiner uses his 3DMG to hook onto a building and fly up."
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "H-Hey!"
+        },
+        {
+          "type": "action",
+          "description": "Annie and Bertholdt follow Reiner."
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "Hey!"
+        },
+        {
+          "type": "action",
+          "description": "Jean follows behind Reiner, Annie, and Bertholdt as they race toward the explosion."
+        }
+      ]
+    },
+    {
+      "description": "Behind the wall where Eren, Mikasa, and Armin are cornered. Armin and Mikasa sit under the partially-formed Titan skeleton. Kitz, Rico, and the other soldiers stare in disbelief at the half-formed Titan. Jean, Reiner, Annie, and Bertholdt are standing on the roof of a building.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Reiner",
+          "line": "What’s going on down there?"
+        },
+        {
+          "type": "action",
+          "description": "The bones of the half-formed Titan begin to crumble. The skull begins to move."
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldier",
+          "line": "It’s alive!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Rico",
+          "line": "Commanding Officer Woermann!"
+        },
+        {
+          "type": "action",
+          "description": "As the smoke clears, the eyeball of the Titan turns toward Kitz."
+        },
+        {
+          "type": "dialogue",
+          "character": "Kitz",
+          "line": "Eek! Look at that! Stay back! It’s too dangerous! Stand by on alert! Stand by! Load the next round into the cannon!"
+        },
+        {
+          "type": "action",
+          "description": "Within the Titan, Eren tries to wake up. He opens his eyes to find that he’s stuck in the muscle of the Titan."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Ah! Urgh… Ahh! Grr… Urgh!"
+        },
+        {
+          "type": "action",
+          "description": "Eren struggles but is able to free himself from the Titan’s neck."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "What the hell is this?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "I remember hearing the cannon. There was an awful noise, then that impact, and this heat."
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "Eren protected us. That’s all we need to know for now."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Inside here, even flowers were spared?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Hey!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Ah!"
+        },
+        {
+          "type": "action",
+          "description": "Eren runs around the side of the skeleton."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Are you guys okay?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Eren, what is this?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "I don’t know. But it’s evaporating. It’s just like a Titan’s carcass. We should get away! They’re still just watching, waiting to see what happens next. The Garrison can’t see our movements right now. But eventually, they will attack again. After showing them that, I doubt we can talk our way out of this one. I did remember one thing, though. The basement. The basement of my old house. My father said I would understand everything if I went there. He’s also the reason I’m like this. If I get to that basement, I’ll probably find out the truth about Titans, too. Dammit!"
+        },
+        {
+          "type": "action",
+          "description": "Eren punches the Titan’s bone so hard that it fractures."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Why did he keep it a secret? It’s the intel the Recon Corps has been searching for at the cost of thousands of lives! This is mankind’s last hope! He was just keeping it locked away in the basement? What the hell was he thinking?! Where has he been these past five years, after he abandons us --"
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "Eren. We’ve got more pressing concerns right now."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Yeah."
+        },
+        {
+          "type": "action",
+          "description": "Eren, Mikasa, and Armin move from the area."
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldiers",
+          "line": "The smoke is lifting! We’ll attack once we can see them! Let’s get this over with!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Kitz",
+          "line": "Don’t move yet!"
+        },
+        {
+          "type": "action",
+          "description": "The skeleton continues to crumble. The skull falls to the ground and shatters, spreading more smoke into the area."
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldiers",
+          "line": "Ahhh!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "I’m… going to go away."
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa, Armin",
+          "line": "Huh?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Where to? How?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "For now, anywhere will do. Then I have to get over the wall and find my old basement. Before that, I’ll need to become a Titan again."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "You can do that?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "I don’t know how myself. But I think I can. Just like you can’t explain how you make your arms move. Earlier, I just focused on blocking the cannon fire. That’s why my body had no real functionality or durability. This time, I’ll try something stronger. The 15-meter class form I used to kick the shit out of all those Titans!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "Eren, your nose is bleeding."
+        },
+        {
+          "type": "action",
+          "description": "Eren wipes away the blood from his nose, confused."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "You’re really pale. Your breathing is heavy too. Doing that clearly puts too much strain on your body!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "I don’t care if I’m in bad shape right now. I’ve got two ideas. If you two don’t try to cover for me, they won’t kill you. I’ve caused you enough trouble already. From here on out, I’m doing this alone."
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "Eren. I’m coming too."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "No."
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "If I can’t keep up with you, then don’t concern yourself with me. But I don’t have to do whatever you say either."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Cut the crap already, for fuck’s sake! I’m not your little brother or your kid!"
+        }
+      ]
+    },
+    {
+      "description": "In the area where Eren, Mikasa, and Armin are cornered.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Rico",
+          "line": "Commanding Officer, the next round is almost finished being loaded. What’s the plan of attack?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Kitz",
+          "line": "Wait for my signal!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Rico",
+          "line": "Yes, sir."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "(Thoughts) It doesn’t seem like the Garrison plans to initiate close combat just yet. (Thoughts) Mikasa’s senses are sharper than a stray cat’s, so I’m sure she would have noticed any movements. (Thoughts) Even if they load the next round as quickly as possible, it will still take at least twenty more seconds. (Thoughts) Eren wants to act and leave before then."
+        },
+        {
+          "type": "action",
+          "description": "Armin remembers back to when Eren and Mikasa protected him from bullies."
+        },
+        {
+          "type": "dialogue",
+          "character": "Ah…",
+          "line": "(Thoughts) Why am I remembering that now? (Thoughts) Is it because this is the end for us? (Thoughts) I guess that even in my final moments, I’m still nothing more than a coward. (Thoughts) They’ve helped me out so many times, yet not once was I able to repay them. (Thoughts) How could I consider myself an equal to such friends? (Thoughts) How could I say, “I’m coming, too”? (Thoughts) I’m not even sure if I could keep up with them. (Thoughts) After this… the three of us will never be together again."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Wait, Mikasa. I said I had two ideas. Armin, I want you to make the final call."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Ah… Huh?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "I’m fully aware of how unrealistic this plan is. Even so, our best option would be using this Titan power strategically to aid the army. I know it sounds insane, but if you’re confident that you can convince the Garrison that I’m not a threat, then I’ll believe in you and stay here. That’s my second idea. If you say you can’t do it, then I’ll go with my last resort, the option I described earlier."
+        },
+        {
+          "type": "action",
+          "description": "The soldiers begin aiming the cannons."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "You’ve got fifteen seconds to decide. Can you do it or not? Either way, I’ll respect your opinion."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Eren… why would you entrust such an important decision to me?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "No matter how messed up things get, you always figure out the best solution. I want to rely on you."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "A bunch of times. Five years ago, if you hadn’t gotten Hannes, Mikasa and I would have been eaten by that Titan."
+        },
+        {
+          "type": "action",
+          "description": "The Titan skeleton continues to deteriorate. The spine falls behind Armin."
+        },
+        {
+          "type": "dialogue",
+          "character": "Thoughts) It was all in my head…",
+          "line": "(Thoughts) I had just convinced myself that I was a useless burden… (Thoughts) They didn’t think of me that way at all!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Armin, we’re running out of time."
+        },
+        {
+          "type": "dialogue",
+          "character": "Rico",
+          "line": "The cannon is loaded. We can fire at any time."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "(Thoughts) The two people I trust more than anyone in the world want to entrust their lives to me. (Thoughts) What more evidence could I possibly need?"
+        },
+        {
+          "type": "action",
+          "description": "Armin stands."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "I’ll convince them. Do your best to show them that you don’t intend to resist."
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "Okay."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Yeah."
+        },
+        {
+          "type": "action",
+          "description": "Armin walks forward toward Kitz."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "(Thoughts) Something’s been troubling me ever since I saw Eren fight as a Titan. (Thoughts) I haven’t even sorted out my own thoughts yet, but I’ve got to do this. (Thoughts) I’ll have to think while I speak!"
+        },
+        {
+          "type": "action",
+          "description": "Armin releases the 3DMG from his waist. The fall to the ground noisily."
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldiers",
+          "line": "Woah!"
+        },
+        {
+          "type": "action",
+          "description": "Armin runs through the smoke and out into the open."
+        },
+        {
+          "type": "dialogue",
+          "character": "Kitz",
+          "line": "Wah! Stop!"
+        },
+        {
+          "type": "action",
+          "description": "A soldier aims a gun at Armin as he skids to a stop and raises his arms."
+        },
+        {
+          "type": "dialogue",
+          "character": "Kitz",
+          "line": "You finally showed your true colors, monster. I’ll signal! I’ll signal the cannon!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "He isn’t the enemy of mankind! We’re willing to share all the intelligence we’ve gathered!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Kitz",
+          "line": "Begging for your lives is useless now! He revealed his true form right in front of us! There is nothing left to say! If you say he’s not an enemy, then prove it! If you can’t do that, I will eliminate the threat!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "There’s no need for further proof! (Thoughts) That’s right. It’s unnecessary! The issue isn’t how we see him!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Kitz",
+          "line": "What?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "You said everybody saw him! Then they must have seen him fighting the Titans, too! And they must have seen all the Titans ganging up against him! The Titans see him as prey, just like the rest of mankind! Nothing you say can change that fact!"
+        },
+        {
+          "type": "dialogue",
+          "character": "That’s true…",
+          "line": "A Titan as an ally?"
+        },
+        {
+          "type": "action",
+          "description": "The soldiers begin to lower their weapons."
+        },
+        {
+          "type": "dialogue",
+          "character": "Guh… Urgh…",
+          "line": "Krr… Prepare to attack! Don’t fall for this clever trap!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Ah!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Kitz",
+          "line": "Their actions have always been beyond our comprehension! If they can transform into humans and speak our language, that’s just another way for them to fool us! We can’t let them do as they please!"
+        },
+        {
+          "type": "action",
+          "description": "The soldiers ready their weapons again."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "(Thoughts) It’s no use… He’s stopped thinking entirely…"
+        },
+        {
+          "type": "dialogue",
+          "character": "Thoughts) He’s too scared to think…",
+          "line": "(Thoughts) Eren! Mikasa!"
+        },
+        {
+          "type": "action",
+          "description": "Armin turns back to look at Eren and Mikasa. Their faces are calm. Eren nods at Armin. Armin faces forward with new determination and salutes with his fist over his heart."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "As a soldier, I swore to devote my heart to the resurrection of mankind! There is no greater glory than dying for that belief! If we added his Titan power to the might of our armies, it might even be possible to recapture the town! For the glory of the human race, I beg you in my final moments before I die, permit me to explain his strategic importance!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Kitz",
+          "line": "Silence! (Thoughts) No matter how they plead for their lives, they’re still rebels!"
+        },
+        {
+          "type": "action",
+          "description": "Kitz begins to raise his arm, much to Armin’s horror."
+        },
+        {
+          "type": "dialogue",
+          "character": "Kitz",
+          "line": "(Thoughts) Those who break the rules must be eliminated! (Thoughts) That’s what it means to be a soldier!"
+        },
+        {
+          "type": "action",
+          "description": "Mikasa prepares to draw her blades. Eren prepares to bite his thumb. As Kitz brings his arm down, he is stopped by Pixis."
+        },
+        {
+          "type": "dialogue",
+          "character": "Pixis",
+          "line": "Cut it out already. You haven’t changed. As big as you are, you’ve still got the guts of a scared fawn."
+        },
+        {
+          "type": "dialogue",
+          "character": "Kitz",
+          "line": "Commander Pixis?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Pixis",
+          "line": "Can’t you see how magnificent his salute is? I just arrived, but the situation has already been relayed to me. You go organize the reinforcements. I think it’ll be worthwhile to hear what they’ve got to say."
+        },
+        {
+          "type": "action",
+          "description": "Armin falls to his knees."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "(Narration) Based on the Recon Corps reports, the Titans were predicted to come from the south. (Narration) They originally hit Shiganshina first, in the southern district of Wall Maria. (Narration) Therefore, it was suspected that their next target would be Trost, the southernmost fortified city along Wall Rose. (Narration) Dot Pixis. The Commander-in-Chief of the defense of the southern territories, including Trost. A man entrusted with complete authority over the key area of mankind’s defenses."
+        }
+      ]
+    },
+    {
+      "description": "On the Trost inner wall. Pixis looks over the edge at a gathering of Titans below. Eren, Mikasa, and Armin stand to the side.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Still haven’t seen one…",
+          "line": "I wouldn’t mind being eaten, as long as it was by a scorchingly hot lady Titan."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "(Narration) He’s also known as an inveterate eccentric."
+        },
+        {
+          "type": "dialogue",
+          "character": "Kitz",
+          "line": "What is the Commander thinking? How could he take such dangerous elements up there without any guards?!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Rico",
+          "line": "The Commander’s reasoning is beyond the comprehension of mere men."
+        },
+        {
+          "type": "dialogue",
+          "character": "Ian",
+          "line": "Commanding Officer, the troops are information."
+        },
+        {
+          "type": "dialogue",
+          "character": "Kitz",
+          "line": "Good job."
+        },
+        {
+          "type": "dialogue",
+          "character": "Pixis",
+          "line": "I see. So you believe that the basement holds all the answers you seek?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Yes. Will you believe me, sir?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Pixis",
+          "line": "Since even you yourself can’t say for sure, let’s just say I’ll keep it in mind for now. However, you can prove your true intentions by your actions right now. I’ll guarantee your safety myself."
+        },
+        {
+          "type": "dialogue",
+          "character": "Pixis",
+          "line": "Cadet Arlert, was it?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Yes, sir!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Pixis",
+          "line": "Earlier, you said that by using this “Titan power”, we might be able to retake this city. Do you really believe that, or were you just desperate to stay alive?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "It was… both, sir. I was trying to say that Eren could take on his Titan form, carry that boulder to the wall, and block the gap in the gate."
+        },
+        {
+          "type": "dialogue",
+          "character": "The thought just occurred to me…",
+          "line": "But couldn’t you look at Eren’s power as a change to turn this situation to our favor?"
+        },
+        {
+          "type": "dialogue",
+          "character": "“Desperate to save”…",
+          "line": "Those words are worth more than anything."
+        },
+        {
+          "type": "action",
+          "description": "Pixis takes a swig of drink from his flask."
+        },
+        {
+          "type": "dialogue",
+          "character": "Pixis",
+          "line": "What do you say, Cadet Yeager?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Sir?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Pixis",
+          "line": "Can you close the gap?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa, Armin",
+          "line": "Huh?"
+        },
+        {
+          "type": "dialogue",
+          "character": "I… I…",
+          "line": "I’m not sure. I don’t understand this any more than the rest of you. It’d be irresponsible of me to answer as if I knew either way."
+        },
+        {
+          "type": "dialogue",
+          "character": "Pixis",
+          "line": "Oh right, sorry. I asked the wrong question."
+        },
+        {
+          "type": "dialogue",
+          "character": "Pixis",
+          "line": "Will you do it or not? Which is it?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Ah…!"
+        },
+        {
+          "type": "action",
+          "description": "Pixis stares intently at Eren. As Pixis turns his gaze past Eren, Eren also turns to look out toward the vast expanse of their world."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "I’ll do it. I will do it! I’m not certain that I can close the gap, but I’ll still do it!"
+        }
+      ]
+    }
+  ]
+}

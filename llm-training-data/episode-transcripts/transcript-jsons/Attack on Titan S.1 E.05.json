@@ -1,0 +1,701 @@
+{
+  "title": "Attack on Titan S.1 E.05",
+  "episode_info": {
+    "title": "First Battle: The Struggle for Trost, Part 1"
+  },
+  "scenes": [
+    {
+      "description": "Midday. Eren stands on the wall overlooking the outside territory.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "(Thoughts) Mankind’s counterattack begins now!"
+        },
+        {
+          "type": "action",
+          "description": "The Colossal Titan appears behind the wall."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "The target’s right in front of us! It’s the Colossal Titan! This is our chance! Don’t let it slip away! Hello there. It’s been five years."
+        }
+      ]
+    },
+    {
+      "description": "Midday. Eren is running along the wall to get to the Colossal Titan. The Colossal Titan sweeps along the top of the wall.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "(Thoughts) It aimed for the batteries! (Thoughts) So it wasn’t just a coincidence that he targeted the gate! (Thoughts) He’s actually… intelligent!"
+        },
+        {
+          "type": "action",
+          "description": "The Colossal Titan aims to grab Eren. Eren latches onto its arm with the 3D Maneuver Gear and swings up."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "(Thoughts) Still, this is our chance! This is the only one that can destroy the gates! (Thoughts) If I can just stop him!"
+        },
+        {
+          "type": "action",
+          "description": "Eren moves to cut the back of the Colossal Titan’s neck."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "There! You’re mine!"
+        },
+        {
+          "type": "action",
+          "description": "The Colossal Titan releases a cloud of steam before Eren can cut its neck."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "It’s hot! Go!"
+        },
+        {
+          "type": "action",
+          "description": "Eren moves forward to cut the Colossal Titan’s neck but finds that it’s disappeared."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "(Thoughts) Did I miss?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Thomas",
+          "line": "Eren! Did you get it?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "No! It’s the same as five years ago! He disappeared, just as suddenly as he appeared!"
+        },
+        {
+          "type": "action",
+          "description": "Eren makes his way back up the wall."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "I’m sorry. I let him get away."
+        },
+        {
+          "type": "dialogue",
+          "character": "Thomas",
+          "line": "What are you apologizing for? We couldn’t even move --"
+        },
+        {
+          "type": "dialogue",
+          "character": "Connie",
+          "line": "Hey! There’s no time for chatting! The wall’s been breached. If we don’t fix it quickly, the Titans will get in again!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldier",
+          "line": "What are you waiting for?! The strategy for handling a Colossal Titan’s appearance is already in motion! Return to HQ immediately! Anyone who had contact with it, report every detail!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Yes, sir!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Connie",
+          "line": "I pray for your success!"
+        }
+      ]
+    },
+    {
+      "description": "Within the walls, at the street level. A warning bell sounds. The townspeople are panicking to get within the next enclosed wall.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Soldier 1",
+          "line": "Bring only your most critical possessions! Please remain calm and evacuate!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldier 2",
+          "line": "If they break through, the hellishness of five years ago will be repeated! We must stop the Titans here!"
+        },
+        {
+          "type": "action",
+          "description": "Garrison soldiers ready the cannons from atop the walls."
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldier 2",
+          "line": "Aimed and ready! Fire!"
+        },
+        {
+          "type": "action",
+          "description": "The soldiers fire the cannons at the incoming Titans."
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldier 3",
+          "line": "Attack!"
+        },
+        {
+          "type": "action",
+          "description": "The soldiers charge forward."
+        }
+      ]
+    },
+    {
+      "description": "At headquarters. Eren and the other new recruits are getting ready to head into battle.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Soldier",
+          "line": "You recruits have completed training and graduated into proper soldiers! I expect you to actively participate in this operation, too!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Franz",
+          "line": "Don’t worry, Hanna. I swear I’ll protect you."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Are you okay, Armin?!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "I-I’m fine! I’ll pull it together. But we're still in trouble! We’ve got an eight-meter hole in the wall and no way to fix it quickly! We couldn’t even dig out that giant rock near the front gate! If we can’t close the hole, this city will be abandoned! Then it’s only a matter of time until they break through Wall Rose! If they felt like it, they could annihilate mankind at any time!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Armin! Calm down! This time it’s different. Mankind won’t lose to the Titans!"
+        }
+      ]
+    },
+    {
+      "description": "Within the innermost wall. Lord Balto and Pixis are playing chess.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Balto",
+          "line": "Hey, are you even taking this seriously? See? I win again. I’m kind enough to play with you once every month, yet you fail to improve whatsoever, Pixis."
+        },
+        {
+          "type": "dialogue",
+          "character": "Pixis",
+          "line": "I’m still far below your level, Lord Balto."
+        },
+        {
+          "type": "dialogue",
+          "character": "Balto",
+          "line": "You’re the commander in charge of the Southern District! How do you expect to win against the Titans with your level of skill and brains?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldier",
+          "line": "Commander Pixis! We just got word!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldier",
+          "line": "The Colossal Titan just attacked Trost! The gate has been breached!"
+        },
+        {
+          "type": "action",
+          "description": "Pixis gets up from his seat with Lord Balto and takes a drink of wine."
+        },
+        {
+          "type": "dialogue",
+          "character": "Pixis",
+          "line": "This booze is really top-shelf. As your fellow on the battlefield, I humbly accept it."
+        },
+        {
+          "type": "action",
+          "description": "Pixis and his soldiers leave. Lord Balto runs after them."
+        },
+        {
+          "type": "dialogue",
+          "character": "Balto",
+          "line": "Hey! Wait, Pixis! Pixis! I said wait! You can’t just leave! Gather your men and focus on defending my property! That’s your duty, isn’t it?!"
+        },
+        {
+          "type": "action",
+          "description": "Pixis stops and turns to Lord Balto."
+        },
+        {
+          "type": "dialogue",
+          "character": "Pixis",
+          "line": "Lord Balto, right now soldiers are putting their lives on the line in Trost."
+        },
+        {
+          "type": "dialogue",
+          "character": "Anka",
+          "line": "Commander, I’ll ready your horse."
+        },
+        {
+          "type": "dialogue",
+          "character": "Pixis",
+          "line": "Many of them have probably died already, even at this moment while we speak."
+        },
+        {
+          "type": "dialogue",
+          "character": "Balto",
+          "line": "Who cares about their lives? Just let them die! Not to mention, you can’t even win on the board! Going there yourself would change nothing!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Gustav",
+          "line": "Please, do not worry, Your Grace. On the battlefield against the Titans, the Commander has no need to hold back."
+        },
+        {
+          "type": "dialogue",
+          "character": "Pixis",
+          "line": "Quiet now. Lord Balto. Your Grace, just enjoy your peaceful day in luxurious delight as always."
+        },
+        {
+          "type": "action",
+          "description": "Pixis and Gustav walk away."
+        },
+        {
+          "type": "dialogue",
+          "character": "Balto",
+          "line": "Hey! Pixis! Come back, Pixis! Pixis!"
+        }
+      ]
+    },
+    {
+      "description": "At headquarters.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Kitz",
+          "line": "Just like in training, split up into your individual squads! You will be under Garrison command! Your duties are to assist in providing supplies, communications, and sweeping up the Titans! The first line of defense will be the frontline unit of the Garrison! The second line will be the cadet squads under our command! The rearguard will be the Garrison’s elite units! We’ve already received word that the vanguard has be annihilated! The outer gate was destroyed, and Titans have encroached upon the city! This means that the Armored Titan might show up at any moment to breach the inner gate!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Kitz",
+          "line": "Silence! The frontline guards are already in combat!"
+        },
+        {
+          "type": "dialogue",
+          "character": "There is but one goal in this defensive operation",
+          "line": "Defend Wall Rose until every civilian has evacuated! Also, in case you forgot, let me remind you that desertion is a capital offense! Vow on your hearts to devote your lives! Dismissed!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Cadets",
+          "line": "Yes, sir!"
+        },
+        {
+          "type": "action",
+          "description": "The cadets disperse to prepare for battle."
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "Why does it have to be today? I’m supposed to go to the interior tomorrow!"
+        },
+        {
+          "type": "action",
+          "description": "Daz vomits on the ground."
+        },
+        {
+          "type": "dialogue",
+          "character": "Krista",
+          "line": "Are you okay?"
+        },
+        {
+          "type": "action",
+          "description": "Jean walks away from the scene but bumps into Eren."
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "You’re in the way!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Hey, Jean! What’s with you?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "Don’t give me that crap, you suicidal asshole! You wanted to join the Recon Corps! You were prepared to feed yourself to the Titans already! But I was going to the interior tomorrow, goddammit!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Calm down!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "Just chill out and accept my death?!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "No! Remember our three years of training! We’ve been on the verge of death many times during those three years. Some actually died. Some ran away, and some were sent away. But we survived! Didn’t we?! We’re gonna survive today, too! You’ll survive today, and you’re bloody well going to the interior tomorrow!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "Dammit! Let’s go, Daz! You can’t cower there forever!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "Eren. If the battle gets too chaotic, come find me."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Huh? We’re in totally different squads!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "In the midst of the fray, nothing goes according to plan. I’ll protect you."
+        },
+        {
+          "type": "dialogue",
+          "character": "Dietrich",
+          "line": "Trainee Ackermann! You were specially assigned to the rearguard. Come with me."
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "I’d only be in the way there, sir!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Dietrich",
+          "line": "I didn’t ask for your opinion. The evacuation is going slow. We need as many elite guards as possible protecting the civilians."
+        },
+        {
+          "type": "action",
+          "description": "Eren headbutts Mikasa."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Get real, Mikasa! It’s so unlike you to panic! Mankind is on the brink of extinction! No one gives a damn about what you want!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "I’m sorry. I lost my head. Just one thing. Please. Please… don’t die."
+        },
+        {
+          "type": "action",
+          "description": "Eren walks away."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "(Thoughts) I won’t die. I couldn’t die even if I were killed here. (Thoughts) I don’t know anything about this world yet."
+        }
+      ]
+    },
+    {
+      "description": "A flashback to Eren and the other trainees during a lecture on Titans.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Instructor",
+          "line": "Even the remnants of our historical literature offer no hints about the origins of the Titans. We know next to nothing about them. What little we know about their bodies, we learned from the Recon Corps’ most recent reports. The Titans show no signs of human-like intellect, and, therefore, there are no known instances of successful communication with them. Their body structure is fundamentally different from that of all other creatures. They have no sexual organs, and their method of reproduction is unknown. Most of them have a physique resembling human males. Their bodies exhibit extremely high temperature. To our confusion and dismay, they show no interest in any creatures except humans. They are seemingly driven exclusively by the desire to consume humans, yet from the fact that they survived in an environment devoid of humans for over a century, we can safely conjecture that they have no need to eat. Thus, their likely purpose is not predation, but annihilation. The main factor behind the human race being driven into such a corner is the Titans’ astounding ability to survive. Since long ago, mankind has fought using the technology of cannons, but even such firepower couldn’t stop the Titans. Even if a Titan’s head gets blown off, it will regenerate in one or two minutes, though individual differences do exist."
+        },
+        {
+          "type": "dialogue",
+          "character": "Marco",
+          "line": "Instructor, are the Titans invulnerable?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Instructor",
+          "line": "They are not. There is one way to defeat a Titan. Target them here."
+        },
+        {
+          "type": "action",
+          "description": "The instructor draws a circle around the back of the neck of a drawing of a Titan."
+        },
+        {
+          "type": "dialogue",
+          "character": "Instructor",
+          "line": "If significant damage is inflicted to this area, the Titan will die without regenerating. To cut through their flesh, we use double blades like these. If the attack reaches their weak point, the Titan won’t have time to regenerate and will die soon."
+        }
+      ]
+    },
+    {
+      "description": "Back to present day, on the battlefield. Eren, Armin, Mina, Thomas, Milieus, and Nack are standing on the roof of a building.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Hey, Armin! Don’t you think this is a great chance? If we prove ourselves here in this first battle, before even entering the Recon Corps, surely they’ll promote us right up the ladder!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Yeah! Without a doubt!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Mina",
+          "line": "Not to burst your bubble, but quite a few of us are aiming for the Recon Corps this year!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Thomas",
+          "line": "I lagged behind you earlier, Eren, but I’m not losing this time!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "That’s the spirit, Thomas!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Thomas",
+          "line": "Let’s have a contest to see who can slay more Titans!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "No fudging your numbers!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldier",
+          "line": "Squad 34, advance! Assist the frontline guard!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Right! Let’s go!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Squad 34",
+          "line": "Yeah!"
+        },
+        {
+          "type": "action",
+          "description": "Eren, Armin, Mina, Thomas, Milieus, and Nack fly off the building toward the wall."
+        },
+        {
+          "type": "dialogue",
+          "character": "Mina",
+          "line": "The Titans advanced this far?!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Thomas",
+          "line": "The front guard’s already been crushed?!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Nack",
+          "line": "What are our glory hound seniors doing?!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "(Thoughts) I expected the situation to be bad, but this… An abnormal one! Watch out!"
+        },
+        {
+          "type": "action",
+          "description": "An Abnormal jumps from a building toward the group. Eren, Armin, Mina, Milieus, and Nack land on a nearby building. The Abnormal looks around from behind the building, holding Thomas in its mouth."
+        },
+        {
+          "type": "dialogue",
+          "character": "Thomas",
+          "line": "H-Huh…?"
+        },
+        {
+          "type": "action",
+          "description": "The Abnormal swallows Thomas."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "How dare you!"
+        },
+        {
+          "type": "action",
+          "description": "Eren heads toward the Abnormal."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Eren!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Milieus",
+          "line": "Stop! Don’t go alone!"
+        },
+        {
+          "type": "action",
+          "description": "Armin, Mina, Milieus, and Nack follow Eren."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Stop, you bastard! How dare you eat Thomas! You’re not getting away!"
+        },
+        {
+          "type": "action",
+          "description": "While heading toward the Abnormal, another Titan bites Eren’s leg off from below. Eren lands on the building."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Eren!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Nack",
+          "line": "Ah!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Mina",
+          "line": "Eren!"
+        },
+        {
+          "type": "action",
+          "description": "Another Titan grabs Nack out of the air. A third Titan grabs the wire of Mina’s 3D Maneuver Gear, pulling her back. A fourth Titan grabs Milieus."
+        },
+        {
+          "type": "dialogue",
+          "character": "Milieus",
+          "line": "Stop! Please stop!"
+        },
+        {
+          "type": "action",
+          "description": "Armin falls to his knees on a building upon seeing Eren’s body."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "(Thoughts) Why… am I… watching… as my comrades… get eaten?"
+        },
+        {
+          "type": "action",
+          "description": "A Titan comes up to the building Armin is standing on. It picks up Armin and holds it over its mouth."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "(Thoughts) Why… won’t my body… move?"
+        },
+        {
+          "type": "action",
+          "description": "The Titan drops Armin into its mouth."
+        }
+      ]
+    },
+    {
+      "description": "A flashback to Eren’s childhood days. Armin is holding a book.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Eren! Eren! Eren!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "What is it now, Armin?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Look at this book my grandpa was hiding! It’s all about the outside world!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "The outside world? But that’s forbidden, isn’t it? What if the Military Police find out?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Who cares about that now? According to this book, most of the world is covered by a huge amount of water called “sea”! And it’s all salty water, too!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Salt? You’re making stuff up now! Salt is a treasure! The merchants would’ve exhausted the supply!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "The “sea” is so vast, they can’t ever deplete it all!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "No way."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "There’s more than just mountains of salt! Fire water! A continent of ice! Snowfields of sand! The world out there must be far more vast than the outside of the walls!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "And guess what! This is a secret, but my parents are going to the outside world soon!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Right, Eren? It’d be great if we could explore the outside world, too, someday."
+        }
+      ]
+    },
+    {
+      "description": "Back to present day on the battlefield. Eren musters up the strength to dive into the mouth of the Titan swallowing Armin. He grabs Armin’s wrist and throws him back out to the building.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Eren!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "You think I’m gonna die here?!"
+        },
+        {
+          "type": "action",
+          "description": "Eren reaches out his arm from the Titan’s mouth."
+        },
+        {
+          "type": "action",
+          "description": "Armin crawls forward toward Eren."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Eren! Hurry!"
+        },
+        {
+          "type": "action",
+          "description": "The Titan bites down on Eren’s arm, sending it flying toward Armin."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,985 @@
+{
+  "title": "Attack on Titan S.1 E.08",
+  "episode_info": {
+    "title": "I Can Hear His Heartbeat: The Struggle for Trost, Part 4"
+  },
+  "scenes": [
+    {
+      "description": "On the battlefield. Armin has finished replacing Mikasa’s 3DMG gas tanks with his. Connie waits nearby.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Okay, your maneuver gear is good to go. I’ve given you all my blades, too. Just leave me this one. At the very least, I refuse to be eaten alive."
+        },
+        {
+          "type": "action",
+          "description": "Mikasa takes the blade and throws it off the side of the building."
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "Armin."
+        },
+        {
+          "type": "action",
+          "description": "Mikasa places her hand on Armin’s,"
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Huh?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "I won’t leave you behind."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "B-But with so many Titans around, you can’t possibly carry me along…"
+        },
+        {
+          "type": "dialogue",
+          "character": "Connie",
+          "line": "Let’s get going!"
+        },
+        {
+          "type": "action",
+          "description": "Connie takes Armin by the arm, and the trio runs toward the edge of the building."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Ah! (Thoughts) No! Please, let me go! (Thoughts) I’ll just end up getting more of my friends killed."
+        },
+        {
+          "type": "dialogue",
+          "character": "Attack.Titan",
+          "line": "Aaaah!!"
+        },
+        {
+          "type": "action",
+          "description": "Armin looks back at the Attack Titan and thinks."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Ah! Wait!"
+        },
+        {
+          "type": "action",
+          "description": "Armin breaks away from Connie’s grip, and the trio stops."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Listen to me! I’ve got a suggestion."
+        },
+        {
+          "type": "dialogue",
+          "character": "Connie",
+          "line": "A suggestion?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "It’s a two-person operation, so you two should decide whether to carry it out or not. I know it’s crazy, but… couldn’t we use that Titan?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Connie",
+          "line": "That Titan?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "It’s only attacking other Titans. It seems uninterested in humans. I was thinking of luring it to the supply tower somehow. If it handles the other Titans for us, we could get everyone out of this alive!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Connie",
+          "line": "Lure it? How would we even pull that off?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "I think it acts on instinct. If you two defeat the Titans in its vicinity, then it’ll start looking for other Titans. Most likely, it’ll move towards the Titans swarming around Headquarters!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Connie",
+          "line": "How could we do something so risky based on a mere guess?!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "But if it does work, we could eliminate every Titan at HQ in one fell swoop!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "It’s at least worth a shot."
+        },
+        {
+          "type": "dialogue",
+          "character": "Connie",
+          "line": "Wha?! Are you serious?!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "If we’re facing certain death either way, the path to take is the path with a chance of victory. Let’s go with Armin’s plan."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Ah…!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Connie",
+          "line": "You want to side with a Titan to fight against Titans?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "Yes. Precisely."
+        },
+        {
+          "type": "dialogue",
+          "character": "Connie",
+          "line": "It won’t even be funny if we fail."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "But if we succeed, everyone will be saved."
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "Make up your mind."
+        },
+        {
+          "type": "action",
+          "description": "Mikasa runs in the direction of the Attack Titan. Armin follows after her."
+        },
+        {
+          "type": "dialogue",
+          "character": "Connie",
+          "line": "I get it! Dammit, I get it!"
+        }
+      ]
+    },
+    {
+      "description": "Elsewhere on the battlefield. Jean stands on the rooftop of a building, watching a group of Titans surrounding a soldier.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "(Thoughts) Am I really cut out for this? (Thoughts) Can I handle a position with this much responsibility? (Thoughts) No! Wait! (Thoughts) The Titans are relatively concentrated around there. (Thoughts) This is our chance! Go! Hurry to HQ while you can!"
+        },
+        {
+          "type": "action",
+          "description": "Jean jumps off the roof to a lower building and runs toward HQ. Marco, Sasha, Reiner, Bertolt, and Annie follow."
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "(Thoughts) It’s now or never! We’re finished if our gas runs out! Everyone! Move in!"
+        }
+      ]
+    },
+    {
+      "description": "On the battlefield with Mikasa, Connie, and Armin. The trio is leading the Attack Titan toward remaining Titans and toward the HQ. In the other part of the battlefield, Jean leads the group.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Marco",
+          "line": "Jean!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "Huh?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Marco",
+          "line": "Thanks! I only got out because of you!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "Huh?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Marco",
+          "line": "It’s all thanks to you! I told you before, didn’t I? You’re cut out to be a leader!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Haha…",
+          "line": "I seriously don’t know."
+        },
+        {
+          "type": "action",
+          "description": "Jean and the rest of the soldiers continue to make their way toward HQ. One soldier gets caught by a Titan."
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldier 1",
+          "line": "Ugh! Uwaa!!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Ahh…",
+          "line": "Dammit!"
+        },
+        {
+          "type": "action",
+          "description": "Jean looks back, but only for a moment. He continues forward and bursts through a window of the HQ. Other soldiers follow after him."
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "(Thoughts) How many of us made it?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Thoughts) Using the deaths of our comrades…",
+          "line": "(Thoughts) How many died under my command…?"
+        },
+        {
+          "type": "action",
+          "description": "Jean looks to his left to see two soldiers hiding under a desk."
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "You’re part of the supply squad, aren’t you?"
+        },
+        {
+          "type": "action",
+          "description": "Jean grabs the collar of one of the soldiers and drags him out from under the desk. Jean punches the soldier."
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "Urgh!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldier 2",
+          "line": "Uwaa!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Marco",
+          "line": "Stop it, Jean!"
+        },
+        {
+          "type": "action",
+          "description": "Marco locks Jean’s arms from behind."
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "These bastards abandoned us! Do you even have a clue how many died?!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldier 3",
+          "line": "The Titans invaded the supply depot! What could we have done?!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "It’s your job to figure something out!"
+        },
+        {
+          "type": "action",
+          "description": "The sound of a heavy object flying can be heard"
+        },
+        {
+          "type": "dialogue",
+          "character": "Reiner",
+          "line": "Take cover!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "Huh?"
+        },
+        {
+          "type": "action",
+          "description": "At one end of the HQ, a Titan’s head hits the building wall and breaks it open, sending a soldier flying."
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldier 4",
+          "line": "Ahh!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "Dammit! There are too many people gathered here!"
+        },
+        {
+          "type": "action",
+          "description": "The soldiers in the building panic and run toward the inner rooms. Jean is frozen in place as he stares at the faces of the Titans who wait outside the building."
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldiers",
+          "line": "Hurry! Inside! Run for your lives! Where’s Mikasa?! She crashed back there! She’s been eaten!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "(Thoughts) This is normal… This is reality, isn’t it? (Thoughts) Was I just chasing a delusional dream? (Thoughts) I thought I knew reality."
+        },
+        {
+          "type": "dialogue",
+          "character": "Thoughts) Just thinking about it, it’s obvious…",
+          "line": "(Thoughts) There’s no way to beat these gigantic monstrosities. Ahh…!"
+        },
+        {
+          "type": "action",
+          "description": "A fist slams into the face of the Titan on Jean’s right."
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "What?!"
+        },
+        {
+          "type": "action",
+          "description": "Outside the building, the Attack Titan punches the two Titans away from the hole."
+        },
+        {
+          "type": "dialogue",
+          "character": "Attack.Titan",
+          "line": "Aaaaah!!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "What… is that?"
+        },
+        {
+          "type": "action",
+          "description": "Mikasa, Connie, and Armin smash through a window and land inside the building."
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "Ah… Mikasa!"
+        },
+        {
+          "type": "dialogue",
+          "character": "That was close… It’s empty…",
+          "line": "We did it! We just barely made it!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "You’re… all alive?"
+        },
+        {
+          "type": "action",
+          "description": "Connie pats Armin hard on the back."
+        },
+        {
+          "type": "dialogue",
+          "character": "Connie",
+          "line": "We did it, Armin!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Ouch!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Connie",
+          "line": "Your plan was a success! Everyone! That Titan’s an Aberrant that slaughters other Titans! It’s not even interested in attacking humans! If we play our cards right, we can all get out of here alive!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldier 5",
+          "line": "We’d… use the Titan?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "You’d rely on a Titan’s help? That’s more delusional than any dream!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "It’s not a dream. I don’t care if it’s an Aberrant or whatever. Just let it rampage here for as long as possible."
+        },
+        {
+          "type": "action",
+          "description": "Outside, the Attack Titan continues to attack the other Titans."
+        },
+        {
+          "type": "dialogue",
+          "character": "Attack.Titan",
+          "line": "Aaaaah!!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "Realistically, that’s our best option for survival."
+        }
+      ]
+    },
+    {
+      "description": "At the HQ. The Attack Titan continues to fight other Titans. In the HQ’s basement, a lift to the storage below the basement is being raised while the soldiers are gathered.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Attack.Titan",
+          "line": "Uuaaaaah!!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Connie",
+          "line": "It’s okay. That Titan’s stronger than average. They can’t take over the building while it’s rampaging outside."
+        },
+        {
+          "type": "dialogue",
+          "character": "Reiner",
+          "line": "How much do you know about that Titan?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Connie",
+          "line": "Huh? Shouldn’t we discuss that after we’re safe?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Reiner",
+          "line": "True that. Let’s get out of here alive first."
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "We found some!"
+        },
+        {
+          "type": "action",
+          "description": "Jean and some other soldiers holding some boxes come out of a storage room."
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "They’re Military Police supplies, though they’re covered in dust…"
+        },
+        {
+          "type": "action",
+          "description": "Jean puts together one of the rifles from the storage room."
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "Will these bullets be enough? Do these guns even work against the Titans in the first place?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "It’s better than nothing. Even if there are still seven 3- to 4-meter class Titans in the supply room, blinding them all at once isn’t impossible with this much firepower. First, we’ll use the lift to lower a large number of people into the center of the chamber. Next, they’ll fire directly into the faces of all seven Titans at once. We’ll blind them. The next instance will decide everything. Seven other people hiding near the ceiling will swoop down to attack their weak spots while they’re blind. In other words, if we follow this plan, we’ll be gambling everything on this single attack. The whole point is for seven people to kill all seven Titans simultaneously. The seven people should be the most physically capable ones, but you’ll have to shoulder the burden of everyone’s lives…"
+        },
+        {
+          "type": "dialogue",
+          "character": "Reiner",
+          "line": "No problem."
+        },
+        {
+          "type": "dialogue",
+          "character": "Annie",
+          "line": "Whoever fails, all of us will die. The risk is the same."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "But… I’m a nobody. Is my plan really the best option?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Marco",
+          "line": "We’ve got no other choices except your plan. There’s no time left to think. This idea’s our only shot. Now we’ve just gotta give it everything we’ve got."
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "Don’t worry. Be confident. You’ve got a talent for reasoning out the best solution."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Huh?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "That intuition has saved my life before, and Eren’s life, too."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Huh? When?"
+        },
+        {
+          "type": "action",
+          "description": "A soldier opens the door to the lift."
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldier 1",
+          "line": "The lift’s ready! The guns, too! All of them are loaded!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "You just aren’t aware yet. I’ll tell you more later."
+        },
+        {
+          "type": "action",
+          "description": "The soldiers prepare to reclaim the storage basement."
+        },
+        {
+          "type": "dialogue",
+          "character": "Connie",
+          "line": "But can we really kill the Titans without our 3D Maneuver Gear?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Reiner",
+          "line": "Sure we can. We’re only up against 3- to 4-meter class ones. It’s easy to target their weak spot."
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "Yeah. Who cares how big they are? It’s always the spot at the nape of their necks."
+        },
+        {
+          "type": "dialogue",
+          "character": "Length",
+          "line": "1 meter. Width: 10 centimeters!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Reiner",
+          "line": "Or just ram your blade up their assholes. That’s their only other weak spot."
+        },
+        {
+          "type": "dialogue",
+          "character": "Connie",
+          "line": "What?! I’ve never heard of that move!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Sasha",
+          "line": "First time I’ve heard about it, too."
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "Reiner, those might just be your last words."
+        }
+      ]
+    },
+    {
+      "description": "In the storage basement. The lift is being lowered slowly with seven soldiers inside. The other seven soldiers wait on the supporting beams above.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Marco",
+          "line": "We’re all good. There’s still only seven."
+        },
+        {
+          "type": "action",
+          "description": "Marco, Armin, and five other soldiers ready their rifles."
+        },
+        {
+          "type": "dialogue",
+          "character": "Marco",
+          "line": "Follow the plan!"
+        },
+        {
+          "type": "action",
+          "description": "A grinning Titan walks in front of the lift and stops. It turns suddenly to the soldiers in the lift."
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldier 1",
+          "line": "Eeek!!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Marco",
+          "line": "Calm down! Lure them in closer!"
+        },
+        {
+          "type": "action",
+          "description": "The grinning Titan slowly comes closer to the soldiers in the lfit."
+        },
+        {
+          "type": "dialogue",
+          "character": "Reiner",
+          "line": "(Thoughts) We shouldn’t fight at a disadvantage."
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "(Thoughts) If we want to keep casualties to the bare minimum…"
+        },
+        {
+          "type": "dialogue",
+          "character": "Connie",
+          "line": "(Thoughts) … We must end it in this one strike!"
+        },
+        {
+          "type": "action",
+          "description": "The seven Titans slowly approach the soldiers in the lift."
+        },
+        {
+          "type": "action",
+          "description": "The grinning Titan takes one last step forward toward the lift."
+        },
+        {
+          "type": "dialogue",
+          "character": "Marco",
+          "line": "Fire!"
+        },
+        {
+          "type": "action",
+          "description": "The soldiers in the lift fire their rifles. The other soldiers waiting above descend to cut the necks of the Titans."
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "Uugh!"
+        },
+        {
+          "type": "action",
+          "description": "Mikasa takes down her Titan."
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "(Thoughts) I got mine… What about the others?"
+        },
+        {
+          "type": "action",
+          "description": "Three of the other Titans fall. The Titans that Connie and Sasha attacked do not fall and turn to look at the two. They begin to back away."
+        },
+        {
+          "type": "dialogue",
+          "character": "Sasha",
+          "line": "Pardon me… for suddenly… stabbing you… from behind…"
+        },
+        {
+          "type": "dialogue",
+          "character": "Connie",
+          "line": "Oh shit!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Bertolt",
+          "line": "It’s Sasha and Connie!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "Hurry! Help them!"
+        },
+        {
+          "type": "dialogue",
+          "character": "A-Ah…",
+          "line": "I’m really sorry!"
+        },
+        {
+          "type": "action",
+          "description": "The Titan launches toward Sasha. Sasha rolls out of the way."
+        },
+        {
+          "type": "dialogue",
+          "character": "Sasha",
+          "line": "Ahh! I’m really sorry! Uugh… Ah!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "Ugh!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Annie",
+          "line": "Hrgh!"
+        },
+        {
+          "type": "action",
+          "description": "Mikasa takes down the Titan attacking Sasha. Annie takes down the one attacking Connie."
+        },
+        {
+          "type": "dialogue",
+          "character": "Sasha",
+          "line": "Mikasa!! You saved me!!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "Are you hurt anywhere?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Sasha",
+          "line": "I’m safe, thanks to you!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "Then stand! Now!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Annie",
+          "line": "Never mind."
+        },
+        {
+          "type": "dialogue",
+          "character": "Reiner",
+          "line": "Geez. That was too close, Annie. I’m glad you weren’t injured."
+        },
+        {
+          "type": "action",
+          "description": "Annie walks off."
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "We got them all! Everyone, stock up on supplies!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "We did it!"
+        },
+        {
+          "type": "action",
+          "description": "Marco nearly collapses in the lift. Armin and another soldier help him stand. The soldiers begin refilling their gas canisters."
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldiers",
+          "line": "We’re safe now! No more Titans are coming in! That Aberrant berserker’s keeping them at bay!"
+        },
+        {
+          "type": "dialogue",
+          "character": "I surrendered to a Titan…",
+          "line": "How can I look everyone in the eyes now?!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Connie",
+          "line": "I’ll spank you for that later! Let’s just get out of here quick!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "I don’t think I’m cut out to be a commander. So don’t say that anymore."
+        },
+        {
+          "type": "dialogue",
+          "character": "Marco",
+          "line": "There’s something I’d like to tell you. Don’t get mad, please. You’re not strong, Jean. That’s why you can understand how the weak feel. And you’re good at judging the situation correctly. You always clearly know what you’re supposed to do, don’t you?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Marco",
+          "line": "Your orders were right. That’s why I could run. That’s why I’m alive."
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "Ah…!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldiers",
+          "line": "Are you all ready? Let’s get outta here! We’ve gotta bail now! Go up the walls! We need to meet up with the main units!"
+        },
+        {
+          "type": "action",
+          "description": "The soldiers exit the building and begin making their way toward the walls. Armin exits the building and sees Mikasa standing on the roof of a building."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Ah… Mikasa?"
+        },
+        {
+          "type": "action",
+          "description": "Armin flies up toward Mikasa."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Mikasa, we’ve gotta hurry!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Huh? Wha--?!"
+        },
+        {
+          "type": "action",
+          "description": "Armin looks in the same direction as Mikasa. He sees a group of Titans eating the Attack Titan."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Its body can’t regenerate?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "I thought uncovering the truth about that Titan might be the key to freeing ourselves from this desperate situation."
+        },
+        {
+          "type": "action",
+          "description": "Reiner, Bertolt, Annie, and Jean join Mikasa and Armin on the roof."
+        },
+        {
+          "type": "dialogue",
+          "character": "Reiner",
+          "line": "I agree."
+        },
+        {
+          "type": "dialogue",
+          "character": "Reiner",
+          "line": "If they just rip it to shreds like that, then we won’t have learned a single thing! We should get rid of those Titans currently devouring it and at least try to keep it alive."
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "Are you insane, Reiner?! We can finally escape this deathtrap!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Annie",
+          "line": "But what if that Titan could become an ally? Don’t you think it’d be a weapon more powerful than any cannon?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "Our… ally? Are you for real?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Ah!"
+        },
+        {
+          "type": "action",
+          "description": "Armin turns to see another Titan approaching."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "That’s… the Aberrant that ate Thomas!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Attack.Titan",
+          "line": "Uaaaaaah!!"
+        },
+        {
+          "type": "action",
+          "description": "With the last of its power, the Attack Titan pushes forward. Its arms are ripped off by the Titans trying to eat it, but it lunges toward the Aberrant and bites its neck. The Attack Titan lifts the Aberrant off the ground and throws it into one of the Titans nearby, smashing both into a building."
+        },
+        {
+          "type": "dialogue",
+          "character": "Attack.Titan",
+          "line": "Uoooooh!!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "What was that about helping it?"
+        },
+        {
+          "type": "action",
+          "description": "The Attack Titan collapses to the ground."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Ahh!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "Looks like it burnt itself out. Whatever. Let’s get going! There’s no way that monster’s on our side! Titans are Titans."
+        },
+        {
+          "type": "action",
+          "description": "Mikasa and Armin stare at the Attack Titan down below. Jean notices nobody moving and turns to look back."
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "What is it?"
+        },
+        {
+          "type": "action",
+          "description": "Out from the nape of the neck of the Attack Titan, a body appears. It pulls away from the Attack Titan’s corpse, revealing Eren."
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "Ah… Ahh… Ah…!"
+        },
+        {
+          "type": "action",
+          "description": "Mikasa repels down to Eren."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Mikasa!"
+        },
+        {
+          "type": "action",
+          "description": "Mikasa lands and runs to Eren’s body. She hugs him and listens for his heartbeat. When she hears it, she cries. Armin and the other soldiers descend alongside her. Before long, they all gather again on the top of a building. Mikasa is still holding Eren and crying."
+        },
+        {
+          "type": "dialogue",
+          "character": "Thoughts) He’s even got his limbs back…",
+          "line": "(Thoughts) Eren was eaten by that Titan back then."
+        },
+        {
+          "type": "action",
+          "description": "Armin begins crying as well. He takes Armin’s left arm and clasps his hand."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "What just happened here?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "Then Eren… did all of this?"
+        }
+      ]
+    }
+  ]
+}

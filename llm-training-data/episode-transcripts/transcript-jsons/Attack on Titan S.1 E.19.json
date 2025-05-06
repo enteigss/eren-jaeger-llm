@@ -1,0 +1,1157 @@
+{
+  "title": "Attack on Titan S.1 E.19",
+  "episode_info": {
+    "title": "Bite: The 57th Exterior Scouting Mission, Part 3"
+  },
+  "scenes": [
+    {
+      "description": "In the forest of giant trees. Levi’s squad is being chased by the Female Titan.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Levi",
+          "line": "Everyone, draw your blades. It’ll be over in an instant once it appears."
+        },
+        {
+          "type": "action",
+          "description": "The Female Titan appears and swats a soldier away."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Ah…!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Levi",
+          "line": "Faster!"
+        },
+        {
+          "type": "action",
+          "description": "The Female Titan smashes through a tree near Eren."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Ahh…!"
+        },
+        {
+          "type": "action",
+          "description": "The Female Titan continues chasing after Eren."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Ahh!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Gunther",
+          "line": "Ngh… It’s fast! There’s no way to avoid it in this forest!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eld",
+          "line": "It’s catching up!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Petra",
+          "line": "Lance Corporal, let’s switch to 3D Maneuver Gear! Lance Corporal!"
+        },
+        {
+          "type": "action",
+          "description": "Two soldiers come in from behind the Female Titan."
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldier",
+          "line": "You’re not getting away!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Ah!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Petra",
+          "line": "Reinforcements from the rear!"
+        },
+        {
+          "type": "action",
+          "description": "The soldier tries to shoot his anchors into the Female Titan, but it dodges him, grabbing the wires."
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldier",
+          "line": "Ngh!"
+        },
+        {
+          "type": "action",
+          "description": "The Female Titan swings the soldier into a tree, killing him. It grabs the wires of the other soldier."
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldier",
+          "line": "Ahh! Ahh!"
+        },
+        {
+          "type": "action",
+          "description": "The other soldier is killed."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Ah…!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Petra",
+          "line": "Ah… Lance Corporal, orders!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Oluo",
+          "line": "Let’s do it! It’s dangerous! We should handle this ourselves!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Gunther",
+          "line": "It’ll catch up at this rate!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eld",
+          "line": "We’ll kill it here! We entered this forest to do just that! Right, Lance Corporal?!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Lance Corporal, your orders!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Levi",
+          "line": "Everyone, plug your ears."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Huh?"
+        },
+        {
+          "type": "action",
+          "description": "Levi shoots a round into the air."
+        }
+      ]
+    },
+    {
+      "description": "In the forest of giant trees. Levi shoots a round into the air, which emits a loud ringing sound.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "A sound blast?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Levi",
+          "line": "What are your jobs? Do they involve getting overwhelmed by fickle emotions? That shouldn’t be the case. Our squad’s duty is to keep this brat from getting a single scratch on him. Even if it costs us our lives."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "(Thoughts) Huh? So it wasn’t to watch me?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Levi",
+          "line": "We’ll continue to flee on horse. Got that?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Petra",
+          "line": "Yes, sir!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Ah… Flee? To where exactly?! Besides, it’s already right on our tails… Ah! Again?!"
+        },
+        {
+          "type": "action",
+          "description": "More soldiers arrive to fight the Female Titan."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Reinforcements! They’ll get killed like the others if we don’t help!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Gunther",
+          "line": "Eren! Face forward!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Gunther!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eld",
+          "line": "Don’t slow down! Keep going full speed!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Eld? Why?! If we, the Levi Squad, don’t stop it, who’s going to?!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldier",
+          "line": "Urahhh!"
+        },
+        {
+          "type": "action",
+          "description": "A soldier tries to attack the Female Titan, but it smashes him into a tree."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Ahh… Another person died!"
+        },
+        {
+          "type": "action",
+          "description": "Another soldier moves around the Female Titan."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "There’s someone still fighting! If we go now, we can make it!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Petra",
+          "line": "Eren! Face forward and keep going!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Are you telling me to turn a blind eye?! You want me to run, leaving a comrade to die?!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Petra",
+          "line": "Yes, that’s right! Obey the Lance Corporal’s order!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "I don’t see why we have to abandon him! I don’t get why you won’t explain, either! Tell me why!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Oluo",
+          "line": "It’s because the Lance Corporal decided against it! You don’t understand because you’re still a newbie!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Oluo",
+          "line": "If you do, shut up and obey!"
+        },
+        {
+          "type": "action",
+          "description": "Eren sheathes the blade of his 3DMG and holds his hand up to his mouth."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "(Thoughts) I can fight, even alone, can’t I? (Thoughts) Why am I just relying on others? Couldn’t I fight it on my own?"
+        },
+        {
+          "type": "action",
+          "description": "Eren prepares to bite his hand."
+        },
+        {
+          "type": "dialogue",
+          "character": "Petra",
+          "line": "What are you doing, Eren?!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Petra",
+          "line": "That should only be done when your life is in grave danger. Didn’t you promise us that?"
+        },
+        {
+          "type": "action",
+          "description": "Eren prepares to bite down on his hand."
+        },
+        {
+          "type": "dialogue",
+          "character": "Petra",
+          "line": "Eren!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Levi",
+          "line": "You’re not in the wrong."
+        },
+        {
+          "type": "dialogue",
+          "character": "Levi",
+          "line": "Feel free to do it. It’s clear to me. He’s a true monster. And not because of his Titan abilities. No matter how you try to hold him down, no matter what cage you lock him up in, forcing his mind into submission is an impossible task."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "(Flashback) I want to slaughter the Titans!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Levi",
+          "line": "Eren, the difference between your decision and ours arises from the gap in experience. But you see, you don’t need to depend on such a thing. Decide. Either you believe in yourself or the soldiers of the Survey Corps, myself included."
+        },
+        {
+          "type": "dialogue",
+          "character": "Levi",
+          "line": "I don’t know the right answer. I never have. Even if I believed in myself and the decisions of the comrades who’ve earned my trust, the result was always a complete mystery. That’s why… you should just do your best to make a decision you won’t regret."
+        },
+        {
+          "type": "action",
+          "description": "Eren puts his hand down. Levi’s squad continues to ride on."
+        },
+        {
+          "type": "action",
+          "description": "A soldier continues to fly around the Female Titan."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Ngh…!"
+        },
+        {
+          "type": "action",
+          "description": "Eren puts his hand up to his mouth again."
+        },
+        {
+          "type": "dialogue",
+          "character": "Petra",
+          "line": "Eren!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Petra",
+          "line": "Believe in us."
+        }
+      ]
+    },
+    {
+      "description": "In the past, before the expedition. Levi’s squad has a meeting.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Levi",
+          "line": "I thought of a way to avoid killing you."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "What?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Levi",
+          "line": "I said the only way to stop you in your Titan form is to kill you. But with this method, you’ll only be injured. That said, it requires a certain amount of skill. In essence, you’ll be cut out along with the nape. As a result, the ends of your arms and legs will be severed. Then again, they’ll just grow back like a lizard’s, right? How disgusting."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Ah, wait a minute. I don’t know how they grow back or anything. Isn’t there any other way…"
+        },
+        {
+          "type": "action",
+          "description": "Levi narrows his eyes at Eren."
+        },
+        {
+          "type": "dialogue",
+          "character": "Levi",
+          "line": "So you want there to be no danger and no cost whatsoever?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Levi",
+          "line": "Then prepare yourself. We’re in the same boat. There’s a risk that you’ll kill us. So rest at ease."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Right. I understand."
+        },
+        {
+          "type": "dialogue",
+          "character": "Hange",
+          "line": "S-So I can experiment now, right?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Levi",
+          "line": "The risk is high. But even so, we can’t afford not to inspect him."
+        },
+        {
+          "type": "dialogue",
+          "character": "Hange",
+          "line": "I can take care of the planning, right? Eren, if you’re confused about anything, figure it out. There’s plenty of reason to risk our lives for this."
+        }
+      ]
+    },
+    {
+      "description": "In a field. Eren stands at the bottom of a well for Hange’s experiment.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Hange",
+          "line": "Ready to start, Eren? Once we’re ready, we’ll fire a smoke signal. What you do after that is up to you."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Understood!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Hange",
+          "line": "Nice. This dry well will be able to restrain a Titan even if it’s out of control. Probably."
+        },
+        {
+          "type": "action",
+          "description": "Hange fires a smoke signal."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "That’s the signal. (Thoughts) Controlling a Titan… I haven’t done that since sealing the wall. (Thoughts) If I go berserk again, I might be killed by the Levi Squad, huh?"
+        },
+        {
+          "type": "action",
+          "description": "Eren bites into his hand."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Ngh!"
+        },
+        {
+          "type": "action",
+          "description": "Levi and Hange wait for something to happen."
+        },
+        {
+          "type": "dialogue",
+          "character": "Hange",
+          "line": "Hm? I wonder if he didn’t see the signal."
+        },
+        {
+          "type": "dialogue",
+          "character": "Levi",
+          "line": "No. We weren’t even particularly certain of this in the first place."
+        },
+        {
+          "type": "action",
+          "description": "Levi rides his horse closer to the well."
+        },
+        {
+          "type": "dialogue",
+          "character": "Levi",
+          "line": "Hey, Eren! The experiment’s on hold!"
+        },
+        {
+          "type": "action",
+          "description": "Levi and Hange look into the well."
+        },
+        {
+          "type": "dialogue",
+          "character": "Hange",
+          "line": "Is something wrong? Ah…!"
+        },
+        {
+          "type": "action",
+          "description": "Eren’s hands and mouth are bloodied."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Hange… I can’t turn into a Titan."
+        }
+      ]
+    },
+    {
+      "description": "Sometime later. Levi’s squad is sitting at a table for tea.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Levi",
+          "line": "The wounds you got from biting yourself aren’t healing?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Yes."
+        },
+        {
+          "type": "dialogue",
+          "character": "Levi",
+          "line": "If you can’t turn into a Titan, sealing Wall Maria and all is nothing but a dream. This is an order. Do something about it."
+        },
+        {
+          "type": "action",
+          "description": "Levi walks away."
+        },
+        {
+          "type": "dialogue",
+          "character": "Gunther",
+          "line": "Don’t be so depressed, Eren."
+        },
+        {
+          "type": "dialogue",
+          "character": "Oluo",
+          "line": "Well, this just means you’re more human than we thought."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eld",
+          "line": "I prefer this to hurrying matters and losing our lives. This wasn’t meaningless."
+        },
+        {
+          "type": "dialogue",
+          "character": "Gunther",
+          "line": "Yeah. You can never be too careful."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "(Thoughts) How can they all be so relaxed? Is it okay if I can’t turn into a Titan?"
+        },
+        {
+          "type": "action",
+          "description": "Eren picks up his tea spoon, but the motion hurts his hand."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Ngh…!"
+        },
+        {
+          "type": "action",
+          "description": "Eren drops the spoon on the ground."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eld",
+          "line": "You all right?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Yes."
+        },
+        {
+          "type": "action",
+          "description": "Eren reaches for the spoon. When he grabs it, a spark goes off."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Ngh…!"
+        },
+        {
+          "type": "action",
+          "description": "An explosion occurs, blasting Eld away."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eld",
+          "line": "Gah…!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Oluo, Gunther",
+          "line": "Urgh…!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldiers",
+          "line": "Hey! What happened?! What’s with that explosion?"
+        },
+        {
+          "type": "action",
+          "description": "The smoke begins to clear, revealing a partially formed Attack Titan. Eren’s arm is stuck in the body."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Grr… Ugh! Ngh… Ugh! Why now?!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Levi",
+          "line": "Calm down."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Lance Corporal Levi! This is… Ah!"
+        },
+        {
+          "type": "action",
+          "description": "Eren turns to see Petra, Oluo, Gunther, and Eld with their blades drawn."
+        },
+        {
+          "type": "dialogue",
+          "character": "Levi",
+          "line": "I’m telling you to calm down. All of you."
+        },
+        {
+          "type": "dialogue",
+          "character": "Gunther",
+          "line": "Ngh…!"
+        }
+      ]
+    },
+    {
+      "description": "In the past, at the experiment station. Eren has his arm stuck in the partially formed Attack Titan. Hange runs from the forest.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Hange",
+          "line": "What? What was that sound? Ah… Ah! Woah!! Woohoo!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eld",
+          "line": "Eren… What is the meaning of this?!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Sir?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eld",
+          "line": "Why’d you transform without permission? Answer me!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Levi",
+          "line": "Eld, hold on."
+        },
+        {
+          "type": "dialogue",
+          "character": "Oluo",
+          "line": "Answer him, Eren! What are you thinking?!"
+        },
+        {
+          "type": "action",
+          "description": "Gunther marches up to Eren."
+        },
+        {
+          "type": "dialogue",
+          "character": "Gunther",
+          "line": "No, save that for later! Prove to us that you’re not our enemy… mankind’s enemy!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Huh?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Gunther",
+          "line": "Hurry up and prove it to us! It’s your responsibility to do so!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Oluo",
+          "line": "Don’t you so much as dare twitch that arm! The moment you do, your head will roll!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Oluo",
+          "line": "I’ll do it! I’m serious! Want to try me?!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Levi",
+          "line": "Oluo! I’m telling you to calm down."
+        },
+        {
+          "type": "dialogue",
+          "character": "Petra",
+          "line": "Lance Corporal! Please step away from Eren! You’re too close!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Levi",
+          "line": "No, you’re the ones who should step away. Stand down."
+        },
+        {
+          "type": "dialogue",
+          "character": "Petra",
+          "line": "Why?!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Levi",
+          "line": "My instincts tell me so."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eld",
+          "line": "Well, Eren?! Say something!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Oluo",
+          "line": "Don’t make any funny moves!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Gunther",
+          "line": "Prove it already!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Oluo",
+          "line": "Eren!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eld",
+          "line": "Answer me!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Gunther",
+          "line": "You think we can’t kill you?!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Oluo",
+          "line": "I’m serious!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eld",
+          "line": "Hurry up!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Gunther",
+          "line": "You hear me?!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Oluo",
+          "line": "Look, I’ll do it!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Please shut up for a minute!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Hange",
+          "line": "Eren!!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Huh?"
+        },
+        {
+          "type": "action",
+          "description": "Hange runs up to Eren and pushes Gunther aside."
+        },
+        {
+          "type": "dialogue",
+          "character": "Hange",
+          "line": "Can I touch that arm?! Hey, is it okay? It’s okay, right? I’m just gonna touch it!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "H-Hange! Wait a second!"
+        },
+        {
+          "type": "action",
+          "description": "Hange touches Eren’s Titan arm. It begins to steam."
+        },
+        {
+          "type": "dialogue",
+          "character": "Hange",
+          "line": "Wahh… Huh? H-Hot!! It’s damn how when there’s no skin! It’s super hot! Hahaha~!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Moblit",
+          "line": "Squad Leader! You’re being too reckless!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Hange",
+          "line": "Say, isn’t it hot, Eren?! How exactly are you connected to that arm?! I really want to see!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "(Thoughts) Ah… That’s right. I have to pull my arm out quickly!"
+        },
+        {
+          "type": "action",
+          "description": "Eren struggles to pull his arm out from the Titan body."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Damn it! Ngh… Urgh…!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Oluo",
+          "line": "H-Hey, Eren! No funny business!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Urah!"
+        },
+        {
+          "type": "action",
+          "description": "Eren pulls his arm out from the Titan body and falls to the ground."
+        },
+        {
+          "type": "action",
+          "description": "The body begins to steam."
+        },
+        {
+          "type": "dialogue",
+          "character": "Hange",
+          "line": "What?! Wait, Eren, that’s too soon!"
+        },
+        {
+          "type": "action",
+          "description": "Hange notices the tea spoon in the Titan hand."
+        },
+        {
+          "type": "dialogue",
+          "character": "Levi",
+          "line": "How do you feel?"
+        }
+      ]
+    },
+    {
+      "description": "At night, at the experimental grounds. Eren and Levi talk at the bottom of a staircase.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "I didn’t notice until they really turned on me."
+        },
+        {
+          "type": "dialogue",
+          "character": "Levi",
+          "line": "Obviously. I nicked them because they’re such people."
+        },
+        {
+          "type": "dialogue",
+          "character": "Levi",
+          "line": "It’s popular opinion within the Survey Corps that you’re not one of us until after a mission. But when confronting Titans, you always lack intel. There are far too many situations where you can’t make sense out of anything. So quick action and extraordinary determination are emphasized instead. Even so, it’s not as if they lack blood and tears. I doubt they felt nothing when they turned their blades on you."
+        },
+        {
+          "type": "action",
+          "description": "Moblit comes down the stairs."
+        },
+        {
+          "type": "dialogue",
+          "character": "Moblit",
+          "line": "Lance Corporal Levi."
+        },
+        {
+          "type": "dialogue",
+          "character": "Levi",
+          "line": "Hm?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Moblit",
+          "line": "Squad Leader Hange called for you."
+        },
+        {
+          "type": "action",
+          "description": "Eren and Levi meet with Hange and the rest of Levi’s squad."
+        },
+        {
+          "type": "dialogue",
+          "character": "Levi",
+          "line": "Constipated or something?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Hange",
+          "line": "Not at all. It was nice and smooth. Explaining to the higher-ups took some time. Well, anyway… take a look at this."
+        },
+        {
+          "type": "action",
+          "description": "Hange puts a bundle down on the table. They unwrap it to reveal the tea spoon."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "A tea spoon?"
+        },
+        {
+          "type": "action",
+          "description": "Hange picks up the tea spoon."
+        },
+        {
+          "type": "dialogue",
+          "character": "Hange",
+          "line": "Yes. Eren’s Titan arm was holding onto this. Like this, between the index finger and thumb."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Huh?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Hange",
+          "line": "It’s hard to believe it was a mere coincidence. And for some reason, there’s no deformation from heat or pressure. Does anything come to mind?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Ah… I believe I was trying to pick that up when I transformed."
+        },
+        {
+          "type": "dialogue",
+          "character": "Hange",
+          "line": "I see. Then that could explain why you weren’t able to transform into a Titan before."
+        },
+        {
+          "type": "dialogue",
+          "character": "Hange",
+          "line": "“Kill the Titans”. “Defend against the cannon”. “Lift the boulder”. In every instance, you had a clear goal before you transformed. It’s likely that self-injury isn’t the trigger on its own, and you need some sort of objective as well."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "It’s true that this is similar to when I defended against the cannon. But still… turning into a Titan to pick up a spoon… What the hell’s up with that?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Gunther",
+          "line": "So basically, you didn’t act against orders on purpose, right?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Yes."
+        },
+        {
+          "type": "action",
+          "description": "Gunther and Eld nod at each other. Petra and Oluo do the same. The four soldiers bite their hands like Eren does."
+        },
+        {
+          "type": "dialogue",
+          "character": "Hange",
+          "line": "Huh? Huh?!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Wait, what are you doing?!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eld",
+          "line": "This is tough. Eren, I’m surprised you can bite yourself like that."
+        },
+        {
+          "type": "dialogue",
+          "character": "Gunther",
+          "line": "It was the wrong call on our part. This is our modest way of apologizing. Not that it really makes a difference, though."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Huh?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Oluo",
+          "line": "Our job is to keep you in check, after all. We made no mistakes about that! Don’t get too cocky, brat!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Petra",
+          "line": "I’m sorry, Eren. We were too on edge. You must be upset by our indiscretion. But, despite that… as we rely on you, we also want you to rely on us. So… believe… in us."
+        }
+      ]
+    },
+    {
+      "description": "In the present, in the forest of giant trees. Eren sees the bite mark on Petra’s hand as the Female Titan chases them.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Levi",
+          "line": "Eren!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Levi",
+          "line": "Hurry up! Decide already!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Ngh… I’ll keep going!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldier",
+          "line": "Ahh!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Ah…!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldier",
+          "line": "Let go!"
+        },
+        {
+          "type": "action",
+          "description": "The Female Titan kills another soldier."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Ngh! (Thoughts) I’m sorry!"
+        },
+        {
+          "type": "action",
+          "description": "The Female Titan begins running faster."
+        },
+        {
+          "type": "dialogue",
+          "character": "Gunther",
+          "line": "The target is accelerating!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Levi",
+          "line": "Faster! We’ll outrun it!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "(Thoughts) It’s impossible for us to outrun it. (Thoughts) If we keep going with our backs turned, we’ll all be crushed flat! (Thoughts) But… even in the face of death, after abandoning comrades, everyone decided to continue forward. (Thoughts) Lance Corporal Levi is still looking ahead. The others are believing in him and risking it all. So I, too, will believe in them."
+        },
+        {
+          "type": "action",
+          "description": "Eren tilts his head back to look at the Female Titan."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "(Thoughts) Just like how… they believed in me. Ngh…!"
+        },
+        {
+          "type": "action",
+          "description": "Levi’s squad rides past a group of soldiers with weapons pointed at the Female Titan. The Female Titan stops in its tracks."
+        },
+        {
+          "type": "dialogue",
+          "character": "Group",
+          "line": "Ahh…!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Erwin",
+          "line": "Fire!!"
+        },
+        {
+          "type": "action",
+          "description": "A barrage of hooks are shot into the Female Titan."
+        },
+        {
+          "type": "dialogue",
+          "character": "Levi",
+          "line": "After securing the horses up ahead, switch to your 3D Maneuver Gear. I’ll act separately for a while. Eld will take charge of the squad. Hide Eren a good distance away from that Titan. I’ll leave the horses to you."
+        },
+        {
+          "type": "action",
+          "description": "Levi launches away into the trees."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Huh? Could they be… capturing that Titan… alive?"
+        },
+        {
+          "type": "action",
+          "description": "Eren looks to Petra and Oluo, but neither have answers."
+        },
+        {
+          "type": "dialogue",
+          "character": "Gunther",
+          "line": "Well, Eren? See that? We captured that Titan!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Oluo",
+          "line": "This is the power of the Survey Corps! Don’t underestimate us, you dolt! Well? Do you get it now?!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Yes!"
+        },
+        {
+          "type": "action",
+          "description": "Levi’s squad continues on. Levi regroups with Erwin."
+        },
+        {
+          "type": "dialogue",
+          "character": "Levi",
+          "line": "Looks like it’s immobilized."
+        },
+        {
+          "type": "dialogue",
+          "character": "Erwin",
+          "line": "We can’t let our guard down yet. At any rate, good work guiding it to this point."
+        },
+        {
+          "type": "dialogue",
+          "character": "Levi",
+          "line": "We were able to buy time thanks to the rear squad that gave their lives fighting. Without them, it wouldn’t have been possible."
+        },
+        {
+          "type": "dialogue",
+          "character": "Erwin",
+          "line": "Is that so?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Levi",
+          "line": "That’s right. Thanks to them, we can meet the one in this thing’s nape. I just hope they’re not pissing themselves inside."
+        }
+      ]
+    }
+  ]
+}

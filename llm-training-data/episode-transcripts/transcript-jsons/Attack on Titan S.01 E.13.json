@@ -1,0 +1,838 @@
+{
+  "title": "Attack on Titan S.01 E.13",
+  "episode_info": {
+    "title": "Primal Desire: The Struggle for Trost, Part 9"
+  },
+  "scenes": [
+    {
+      "description": "Within the walls. Pixis and Eren stand on the wall while other soldiers await instruction below.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Pixis",
+          "line": "Attention! I will now elaborate on the plan to recapture Trost District! First, allow me to introduce someone. Belonging to the Training Corps, this is Eren Yeager!"
+        },
+        {
+          "type": "action",
+          "description": "Eren salutes by placing his fist over his heart."
+        },
+        {
+          "type": "dialogue",
+          "character": "Pixis",
+          "line": "He is the product of successful top-secret Titan transformation research. In his Titan form, he’ll lift the large boulder, carry it to the destroyed gate, and seal it! Your duty is… to protect him from other Titans while he is carrying the boulder! When this plan succeeds, mankind will recapture territory from the Titans for the first time in history!"
+        },
+        {
+          "type": "action",
+          "description": "Mikasa and Eren fly through the city toward the boulder that Eren is to lift."
+        },
+        {
+          "type": "dialogue",
+          "character": "Pixis",
+          "line": "Compared to all that mankind has lost thus far, this may be overwhelmingly insignificant. However, despite that, to mankind it will be a great advance."
+        },
+        {
+          "type": "action",
+          "description": "Eren transforms into his Attack Titan form. Instead of lifting the boulder, he attacks Mikasa. Mikasa dodges Eren’s punch and uses her 3DMG to approach Eren."
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "Eren, don’t you recognize me?! It’s Mikasa! Your family!"
+        },
+        {
+          "type": "action",
+          "description": "Eren’s Attack Titan fist shakes. Ian notices."
+        },
+        {
+          "type": "dialogue",
+          "character": "Ian",
+          "line": "Dodge, Ackerman!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "Ugh!"
+        },
+        {
+          "type": "action",
+          "description": "Eren’s Attack Titan punches itself in the face."
+        },
+        {
+          "type": "dialogue",
+          "character": "Attack Titan",
+          "line": "Uraaah!"
+        },
+        {
+          "type": "action",
+          "description": "As Mikasa regroups with the other soldiers, Eren’s Attack Titan falls to the ground."
+        },
+        {
+          "type": "dialogue",
+          "character": "Mitabi",
+          "line": "What’s with him?! He’s just another stupid Titan, huh?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Ian",
+          "line": "We’ll modify the plan. Until we can recover Yeager, we’ll protect him from the Titans. He holds valuable potential for mankind. We can’t give up on him that easily."
+        },
+        {
+          "type": "action",
+          "description": "Eren has a flashback to his younger days with his family."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "(Thoughts) Where am I? (Thoughts) I’m at home?"
+        },
+        {
+          "type": "action",
+          "description": "Jean runs through the streets. Connie and Annie watch from the wall. Mikasa watches from a rooftop, while Armin stands on Eren’s Attack Titan shoulder."
+        },
+        {
+          "type": "dialogue",
+          "character": "Connie",
+          "line": "Jean! Why isn’t he using his 3DMG? Ah! Don’t tell me…! Is his equipment acting up?!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "I’ll figure something out!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Mikasa!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "What’s going on with the plan?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "It failed. We can’t just leave Eren, so everyone’s fighting! But at this rate… the Titans will overwhelm us with numbers!"
+        },
+        {
+          "type": "dialogue",
+          "character": "From the back of the head to the nape…",
+          "line": "One meter long and ten centimeters wide!"
+        },
+        {
+          "type": "action",
+          "description": "Armin takes one of his swords and stabs through the neck of Eren’s Attack Titan, hitting Eren’s real body inside. Eren is awoken."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Eren, answer me. Why do you want to see the outside world so badly, knowing that with even a step beyond the walls, a living hell and cruel death might be the only things that await?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "“Why”? It’s because I was born into this world!"
+        },
+        {
+          "type": "action",
+          "description": "Eren’s Attack Titan awakens."
+        },
+        {
+          "type": "dialogue",
+          "character": "Attack Titan",
+          "line": "Uraaaaah!!"
+        },
+        {
+          "type": "action",
+          "description": "Armin lands on a nearby rooftop."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Ah… Eren!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Attack Titan",
+          "line": "Uraaahh!!"
+        }
+      ]
+    },
+    {
+      "description": "In a building. Jean rests against a wall.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Damn…",
+          "line": "How can I afford to be dead weight?"
+        },
+        {
+          "type": "action",
+          "description": "A Titan approaches the building. As Jean looks out the window, he notices a soldier who has been crushed by a boulder."
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "Will this work out somehow?"
+        }
+      ]
+    },
+    {
+      "description": "Elsewhere in the city. Rico and a single soldier in her group retreat to a rooftop.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Soldier 1",
+          "line": "Squad Leader, this is it! There’s no one left but us!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Rico",
+          "line": "Withdraw to the boulder for now!"
+        },
+        {
+          "type": "action",
+          "description": "Ian and his group of soldiers move to a rooftop and watch the gate."
+        },
+        {
+          "type": "dialogue",
+          "character": "Ian",
+          "line": "Status?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldier 2",
+          "line": "Five Titans approaching from the gate!"
+        }
+      ]
+    },
+    {
+      "description": "In Jean’s part of the city. Jean gets up and runs to the crushed soldier. Connie, Annie, and Marco continue watching from the wall.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "As if I’m gonna wait until the Titans are gone!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Connie",
+          "line": "Jean! So it was his gear."
+        },
+        {
+          "type": "dialogue",
+          "character": "Marco",
+          "line": "What’s wrong?"
+        },
+        {
+          "type": "action",
+          "description": "Jean has trouble removing the dead soldier’s 3DMG as a Titan approaches from behind."
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "Dammit. What the hell? You’re kidding me! Why now?! Urgh! Ugh… urgh!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Marco",
+          "line": "Jean! Calm down!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "Huh?"
+        },
+        {
+          "type": "action",
+          "description": "Marco approaches Jean and the Titan with his 3DMG."
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "Marco! What are you doing?!"
+        },
+        {
+          "type": "action",
+          "description": "As Marco flies around, the Titan focuses on him and follows him away from Jean. Jean can finally take the dead soldier’s 3DMG."
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "Ugh… Urgh!"
+        },
+        {
+          "type": "action",
+          "description": "Connie flies onto a rooftop and runs along it. Annie joins him."
+        },
+        {
+          "type": "dialogue",
+          "character": "Connie",
+          "line": "Sheesh, quit pulling our legs!"
+        },
+        {
+          "type": "action",
+          "description": "Jean tries to use the new 3DMG but falls to the ground after trying to dodge a Titan."
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "Ah… Urgh! Damn, why is the trigger so stiff?"
+        },
+        {
+          "type": "action",
+          "description": "As the Titan approaches Jean, Connie and Annie arrive."
+        },
+        {
+          "type": "dialogue",
+          "character": "Connie",
+          "line": "Jean!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "Ah!"
+        },
+        {
+          "type": "action",
+          "description": "Connie jumps off the roof with his 3DMG and flies into the Titan’s head."
+        },
+        {
+          "type": "dialogue",
+          "character": "Connie",
+          "line": "Ah! Ouch!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "What the hell was that?!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Connie",
+          "line": "Right back at you! Hurry and go!"
+        },
+        {
+          "type": "action",
+          "description": "Jean gets up to regroup with the others. He dodges a Titan in the nick of time, only to be flying right toward the mouth of another. Annie comes in from above to knock the second Titan down. Jean, Connie, Annie, and Marco regroup on the wall."
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "You’re all insane!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Connie",
+          "line": "You’re one to talk! Can’t believe we made it!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Annie",
+          "line": "Ah…! Look over there."
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "Ah!"
+        },
+        {
+          "type": "action",
+          "description": "All the soldiers around the town turn toward the wall and the hole."
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "Ah…!"
+        },
+        {
+          "type": "action",
+          "description": "Eren’s Attack Titan carries the boulder toward the hole in the wall."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Mikasa!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "Armin!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Eren’s in control! He’s trying to fulfill his duty. Now, if we can just escort him to the gate, victory will be ours!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Ian",
+          "line": "Defend him! Even if we have to die in the process, protect Eren until he reaches the gate! Keep the Titans away at all costs!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "Don’t let them stop him! We’ll back Eren up!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Ian",
+          "line": "You two, head over to Eren. That’s an order! Understand?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa, Armin",
+          "line": "Yes, sir!"
+        },
+        {
+          "type": "action",
+          "description": "Ian prepares to jump off the roof, but he stops after noticing Mitabi’s squad approaching from the opposite direction."
+        },
+        {
+          "type": "dialogue",
+          "character": "Ian",
+          "line": "Ah…!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Mitabi",
+          "line": "The Titans aren’t paying attention to us! We’ll have to get closer until they do!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldier 3",
+          "line": "Turn this way, damn it!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldier 4",
+          "line": "If you don’t, we’ll kill you by sticking blades up your asses!"
+        },
+        {
+          "type": "action",
+          "description": "Two Titans turn toward Mitabi’s group."
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldier 3",
+          "line": "Here they come!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldier 5",
+          "line": "We got two!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Mitabi",
+          "line": "Hurry! Run to a building!"
+        },
+        {
+          "type": "dialogue",
+          "character": "No way…",
+          "line": "It’s suicidal to stay on the ground. They can’t fight without horses or buildings."
+        },
+        {
+          "type": "dialogue",
+          "character": "Ian",
+          "line": "No, we have… no other choice. Grr!"
+        },
+        {
+          "type": "action",
+          "description": "Ian and his group jump off the roof and head toward Mitabi and his squad."
+        },
+        {
+          "type": "dialogue",
+          "character": "Ian",
+          "line": "Follow Mitabi’s squad!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "Armin, us too."
+        },
+        {
+          "type": "action",
+          "description": "Mikasa and Armin follow after them. On the ground, Ian avoids a Titan’s grasp."
+        },
+        {
+          "type": "dialogue",
+          "character": "Ian",
+          "line": "Ugh! This way! Follow me!"
+        },
+        {
+          "type": "action",
+          "description": "The Titan follows Ian out of the way of Eren’s Attack Titan."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "(Thoughts) My body… feels like it’s gonna be crushed. (Thoughts) Ah… Mikasa? Armin? (Thoughts) What are you doing? If you’re down there, the Titans will…"
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldier 5",
+          "line": "Come on! Hurry up, you blockhead! This way!"
+        },
+        {
+          "type": "action",
+          "description": "While leading a Titan away, the soldier is picked up by another Titan."
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldier 5",
+          "line": "Ahhh!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Mitabi",
+          "line": "H-Hey!"
+        },
+        {
+          "type": "action",
+          "description": "While calling out to the other soldier, Mitabi is crushed by another Titan."
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldier 3",
+          "line": "No, Mitabi!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "(Flashback) Why do you want to see the outside world so badly?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "(Thoughts) We’re all free from the moment we’re born. (Thoughts) It doesn’t matter how strong the opposition is. (Thoughts) There doesn’t need to be flaming water or land made of ice. (Thoughts) Those who witness the outside are free like no other. (Thoughts) Fight. (Thoughts) My life is second to that desire. (Thoughts) It doesn’t matter how fearsome the world is. (Thoughts) It doesn’t matter how cruel the world is. (Thoughts) Fight. Fight! Fight! Fight!"
+        },
+        {
+          "type": "action",
+          "description": "Mikasa and Armin continue to lead Eren’s Attack Titan."
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa, Armin",
+          "line": "Ah!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "There’s one more left!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "Leave it to me! Ah…!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Rico",
+          "line": "Out of the way!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Titan",
+          "line": "Uraah!"
+        },
+        {
+          "type": "action",
+          "description": "Rico flies in from the side and slices the Titan’s eye. It falls to the ground, and Mikasa slices its nape."
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "Yahhh!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Go for it, Eren!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Attack Titan",
+          "line": "Uraaah!!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "(Thoughts) Fight!"
+        },
+        {
+          "type": "action",
+          "description": "Eren’s Attack Titan smashes the boulder into the hole in the wall, sealing it. Rico falls to her knees."
+        },
+        {
+          "type": "dialogue",
+          "character": "Rico",
+          "line": "Everyone… your deaths… weren’t in vain."
+        },
+        {
+          "type": "action",
+          "description": "Rico fires a green flare."
+        },
+        {
+          "type": "dialogue",
+          "character": "Rico",
+          "line": "Today, for the first time, mankind has… defeated the Titans!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Anka",
+          "line": "Yellow signal confirmed. It appears the plan was a success!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Pixis",
+          "line": "Send in reinforcements! Rescue the elite squad!"
+        }
+      ]
+    },
+    {
+      "description": "In the town, near the sealed gate. Eren’s Attack Titan sits facing the boulder.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Rico",
+          "line": "The remaining Titans are coming! Let’s climb the wall!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "I will once we recover Eren. Armin, how’s Eren doing?"
+        },
+        {
+          "type": "action",
+          "description": "Armin begins pulling out Eren’s real body from the Attack Titan."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "He’s practically burning up! We have to hurry over the wall."
+        },
+        {
+          "type": "action",
+          "description": "Mikasa and Rico make their way to Armin."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "A part of his body won’t separate. It won’t come off!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Rico",
+          "line": "We’ll have to cut it."
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "P-Please wait!"
+        },
+        {
+          "type": "action",
+          "description": "Rico cuts Eren away from the Attack Titan, causing Armin and Eren to fall to the ground below, where Titans await them."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Urgh! Ah!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "Eren! Armin!"
+        },
+        {
+          "type": "action",
+          "description": "Mikasa moves to rescue Eren and Armin, but before she can, a soldier with a green cape cuts the napes of both Titans and lands on one’s back."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Mikasa?"
+        },
+        {
+          "type": "action",
+          "description": "Mikasa lands to Armin’s side."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Huh?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Levi",
+          "line": "Hey, you brats. What’s going on here?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "(Narration) Afterwards, thanks to the Survey Corps and the Garrison engineers’ quick response, Wall Rose had once again repelled the Titan’s advance. (Narration) An entire day was required to eradicate the Titans from the Trost District, with the wall’s fixed cannons firing around the clock. (Narration) High-explosive shells annihilated the majority of the Titans swarming the wall, and the Survey Corps eliminated the few that remained. (Narration) Furthermore, a 4-meter-class and 7-meter-class Titan were captured alive. (Narration) On the other hand, 207 soldiers were killed or missing in action, and another 897 were injured. (Narration) Repelling the Titans for the first time in history was a noteworthy feat, but simply far too many lives had been lost to allow for celebration."
+        }
+      ]
+    },
+    {
+      "description": "In the city. Soldiers are cleaning up and recovering dead bodies from the streets. As Jean wanders around, he finds a familiar body.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Hey…",
+          "line": "Is that you… Marco?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldier 1",
+          "line": "Recruit, do you know his name?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Marco…",
+          "line": "What happened? S-Someone… Did someone see his last moments?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldier 1",
+          "line": "What’s his name? If you know, answer already. Don’t you understand, Recruit? It’s already been two days since the gate was sealed, but we’re still not done collecting the corpses yet. If we delay any longer, an epidemic could break out. We must prevent a second disaster. There’s no time to mourn just yet. Understand?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "Belonging to the 104th Training Corps, Leader of the 19th Squad, Marco Bodt."
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldier 1",
+          "line": "Marco, huh? I’m glad you knew. Let’s move on."
+        }
+      ]
+    },
+    {
+      "description": "Elsewhere in the city. Sasha works with another group of soldiers. They find a ball of red substance with a white web-like structure.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Sasha",
+          "line": "What… is this?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldier 2",
+          "line": "A Titan threw it up. They don’t have a digestive system, so after eating their fill of humans, they throw them back up."
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldier 2",
+          "line": "Damn, we won’t be able to identify anyone like this."
+        }
+      ]
+    },
+    {
+      "description": "In another part of the city, Annie, Reiner, and Bertholdt work together to recover bodies.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Reiner",
+          "line": "Apologizing won’t help. We need to put them to rest."
+        }
+      ]
+    },
+    {
+      "description": "Underground, in a building. Eren wakes up, startled by his surroundings. On the other side of the cell he sits in are two men, Erwin Smith and Levi Ackerman.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Ah!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Erwin",
+          "line": "Do you have any questions?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "(Thoughts) The head of the Survey Corps, Commander Erwin, and Lance Corporal Levi…"
+        },
+        {
+          "type": "dialogue",
+          "character": "U-Um…",
+          "line": "Where… am I?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Erwin",
+          "line": "As you can see, it’s a dungeon. You’re currently in the Military Police Brigade’s custody. We’ve only just received permission to see you."
+        },
+        {
+          "type": "action",
+          "description": "As Eren looks around for something, Erwin holds up the key that usually hangs around his neck."
+        },
+        {
+          "type": "dialogue",
+          "character": "Erwin",
+          "line": "Yes, it’s yours. I’ll return it later. Your home -- Dr. Yeager’s basement in Shiganshina is where the secret of the Titans lies. Correct?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Yes, probably. That’s what my father said."
+        },
+        {
+          "type": "dialogue",
+          "character": "Levi",
+          "line": "You have amnesia, and your father is missing, huh? Sounds awfully convenient."
+        },
+        {
+          "type": "dialogue",
+          "character": "Erwin",
+          "line": "Levi, I believe we’ve already concluded that he has no reason to lie. We’re still very much in the dark, but I think what’s best for us now is to question your intentions."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "My… intentions?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Erwin",
+          "line": "In order to investigate your home, we must recapture Shiganshina District and Wall Maria. Drastic measures are necessary to quickly seal the gate. Your Titan power will be crucial. It seems our fate is controlled by the Titans, after all. Whether it’s the Colossus Titan or the Armored Titan, they’re likely to be the same as you. Your intentions are the key here. The key to freeing mankind from this despair."
+        },
+        {
+          "type": "dialogue",
+          "character": "I…",
+          "line": "(Flashback) I’ll exterminate them… from this world… I won’t spare a single one!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Levi",
+          "line": "Hey, answer already, scum. What is it you want to do?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "I want to join the Survey Corps… and slaughter some Titans!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Levi",
+          "line": "Oh? Not bad. Erwin, I’ll take responsibility for him. Tell that to the top brass. It’s not that I trust him. If he betrays us or goes berserk, I’ll kill him immediately."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Ah…!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Levi",
+          "line": "I doubt anyone will object. There’s no one better suited for this, after all. I’ll accept your enlistment into the Survey Corps."
+        }
+      ]
+    }
+  ]
+}

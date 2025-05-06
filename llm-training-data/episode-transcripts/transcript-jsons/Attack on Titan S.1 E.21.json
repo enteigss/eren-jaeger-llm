@@ -1,0 +1,958 @@
+{
+  "title": "Attack on Titan S.1 E.21",
+  "episode_info": {
+    "title": "Crushing Blow: The 57th Exterior Scouting Mission, Part 5"
+  },
+  "scenes": [
+    {
+      "description": "In the city. The Survey Corps prepares to head out for their expedition.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Erwin",
+          "line": "We will now begin the 57th expedition beyond the walls! Onward!"
+        },
+        {
+          "type": "action",
+          "description": "The soldiers head out."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "(Narration) The Survey Corps left to find a route to Shiganshina but encountered a Female Titan, a transformed human like Eren."
+        },
+        {
+          "type": "action",
+          "description": "Armin sees the Female Titan."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "That’s no Aberrant. It’s a human in the body of a Titan! (Narration) As soldiers died, one after the next, they headed into a forest of giant trees, none of them knowing why."
+        },
+        {
+          "type": "action",
+          "description": "The Female Titan kills soldiers in the forest of giant trees."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "If Squad Levi doesn’t defeat it, who will?!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Levi",
+          "line": "Choose. Believe in yourself, or believe in the Survey Corps and me."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Ngh… I’ll go forward!"
+        },
+        {
+          "type": "action",
+          "description": "Levi’s squad leads the Female Titan into Erwin’s trap."
+        },
+        {
+          "type": "dialogue",
+          "character": "Erwin",
+          "line": "Fire!!"
+        },
+        {
+          "type": "action",
+          "description": "The soldiers fire a barrage of hooks into the Female Titan."
+        },
+        {
+          "type": "dialogue",
+          "character": "Levi",
+          "line": "Oh, right… I wanted to ask you something. Is it okay if we cut off your hands and legs? They’ll grow back, right? I’m talking about your limbs, not the Titan’s."
+        },
+        {
+          "type": "dialogue",
+          "character": "Female Titan",
+          "line": "Urahhh! Urahhh!!"
+        },
+        {
+          "type": "action",
+          "description": "A small Titan begins eating the Female Titan’s leg. Other Titans follow."
+        },
+        {
+          "type": "dialogue",
+          "character": "Erwin",
+          "line": "The enemy was willing to sacrifice everything. I didn’t expect the enemy to destroy itself along with the evidence by making Titans devour itself. Retreat, men! Back into formation! Return to Karanes!"
+        },
+        {
+          "type": "action",
+          "description": "A soldier shoots a blue flare. Levi’s group shoots a green flare as a cloaked soldier watches."
+        },
+        {
+          "type": "dialogue",
+          "character": "Hange",
+          "line": "Erwin… Why did you order Levi to resupply? There’s no time to waste."
+        },
+        {
+          "type": "dialogue",
+          "character": "Erwin",
+          "line": "The Female Titan was eaten. But did you see the person inside get eaten? I didn’t."
+        },
+        {
+          "type": "dialogue",
+          "character": "Hange",
+          "line": "Ah… You can’t mean…!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Erwin",
+          "line": "Yes… If your original hypothesis is correct and they can still move to a degree after regaining their human form…"
+        },
+        {
+          "type": "dialogue",
+          "character": "Hange",
+          "line": "Ah…!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Erwin",
+          "line": "… and if they equipped 3D Maneuver Gear in advance… the one within the Female Titan is wearing our uniform right now…"
+        }
+      ]
+    },
+    {
+      "description": "Elsewhere in the forest. Levi’s squad meets up with the cloaked soldier.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Gunther",
+          "line": "Lance Corporal Levi? No, it’s not! Who are you?!"
+        },
+        {
+          "type": "action",
+          "description": "The cloaked soldier turns and cuts down Gunther."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eld",
+          "line": "Huh?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Ahh! Gunther! Ahh…!"
+        },
+        {
+          "type": "action",
+          "description": "Eren finds that Gunther has been killed."
+        },
+        {
+          "type": "dialogue",
+          "character": "Erwin",
+          "line": "… and the enemy is now camouflaged as one of our men."
+        }
+      ]
+    },
+    {
+      "description": "In the forest of giant trees. Erwin, Hange, and other soldiers ride out.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Erwin",
+          "line": "When the Colossal Titan vanished, whoever was inside had been wearing 3D Maneuver Gear so that they could escape in the steam. Don’t you think the same possibility applies here?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Hange",
+          "line": "But at the time, based on what we saw when Eren emerged from the Titan, we concluded it would be impossible. His equipment was destroyed, and his uniform was gone. Above all, Eren was so weak, he couldn’t even stand unassisted."
+        },
+        {
+          "type": "dialogue",
+          "character": "Erwin",
+          "line": "The Female Titan was able to attract other Titans with its cry. We failed to predict this, and the operation failed. If Titan abilities vary depending on skill, it was a mistake to use Eren, a total novice, as the basis for our assumptions. If we are to outwit our enemy, we’ll need to think outside the box."
+        }
+      ]
+    },
+    {
+      "description": "Outside the forest. The soldiers are withdrawing.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "If we’re withdrawing, does that mean the mission succeeded?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "If so, then we may already know who was inside the Female Titan."
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "I’d like to see who it is… But why was the commander so sure that the enemy would come after Eren if he left the walls?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "I think it’s because, for some reason, they suddenly stopped their advance in the midst of the last assault."
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "Huh?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Even though they managed to break through Trost’s gate, they didn’t even try for the inner gate. And when Eren sealed the gate, they let him. It could mean that they now have bigger concerns."
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "Ah… Bigger concerns?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Something more important to them than breaching the walls. Something unexpected that happened."
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "Ah… Eren’s transformation into a Titan?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "I think that’s the only answer."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Someone who was there, who saw Eren transform, is the Titan."
+        }
+      ]
+    },
+    {
+      "description": "In the forest of giant trees. Eren calls to Gunther.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Gunther!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Oluo",
+          "line": "Eren, don’t stop!"
+        },
+        {
+          "type": "action",
+          "description": "Oluo pulls Eren onward."
+        },
+        {
+          "type": "dialogue",
+          "character": "Oluo",
+          "line": "Onward! Ngh!"
+        },
+        {
+          "type": "action",
+          "description": "Oluo throws Eren forward."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Ah! But Gunther…!"
+        },
+        {
+          "type": "action",
+          "description": "The cloaked soldier appears behind Eren."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Ah!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Petra",
+          "line": "Who’s there?!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eld",
+          "line": "Protect Eren!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Oluo",
+          "line": "Damn it, what do we do?! Eld, where should we go?!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eld",
+          "line": "There isn’t time to reach the horses! Head for HQ as fast as you can!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Oluo",
+          "line": "Is it from the Female Titan? Or is there more than one?!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Petra",
+          "line": "Damn you… How dare you! Come at me! I’ll defeat you, even if it kills me!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "(Thoughts) The Female Titan? Impossible… Why? Didn’t we catch it?!"
+        }
+      ]
+    },
+    {
+      "description": "At Erwin’s location.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Erwin",
+          "line": "If the enemy has some way to retain its strength… it may be able to transform once more."
+        }
+      ]
+    },
+    {
+      "description": "At Levi’s squad’s location. An explosion occurs in the forest.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Eld",
+          "line": "It’s coming! The Female Titan!"
+        },
+        {
+          "type": "action",
+          "description": "The Female Titan emerges from the forest and sprints after Levi’s squad."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Damn you… How dare you! This time, I will defeat it!"
+        },
+        {
+          "type": "action",
+          "description": "Eren prepares to bite his hand."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eld",
+          "line": "No!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Huh?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eld",
+          "line": "The three of us will kill the Female Titan! You will continue to head straight for HQ at top speed!"
+        }
+      ]
+    },
+    {
+      "description": "At Erwin’s location.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Erwin",
+          "line": "Here’s what I have gleaned from this battle. If we only focus on making the best moves, we will never get the best of our opponent. When necessary, we must be willing to take big risks and be prepared to lose everything."
+        }
+      ]
+    },
+    {
+      "description": "At Levi’s squad’s location. The Female Titan continues its pursuit.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "I’ll fight, too!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eld",
+          "line": "No! This is the best move! Your power is too risky!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Oluo",
+          "line": "What? Do you doubt us?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Petra",
+          "line": "Do you, Eren? Do you find it that hard to trust us?"
+        }
+      ]
+    },
+    {
+      "description": "At Erwin’s location.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Erwin",
+          "line": "Unless we change how we fight, humanity cannot win."
+        }
+      ]
+    },
+    {
+      "description": "At Levi’s squad’s location. The squad continues on.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Ngh… Urgh! I believe my squad will be victorious. Good luck!"
+        },
+        {
+          "type": "action",
+          "description": "Eren flies past Levi’s squad."
+        },
+        {
+          "type": "action",
+          "description": "Petra, Eld, and Oluo turn back toward the Female Titan."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eld",
+          "line": "Urahhh!!"
+        },
+        {
+          "type": "action",
+          "description": "Eld moves to attack the Female Titan’s face. The Female Titan moves to grab him, but he shoots back. Petra and Oluo shoot their hooks into the Female Titan’s face."
+        },
+        {
+          "type": "dialogue",
+          "character": "Petra, Oluo",
+          "line": "Ngh…!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Oluo",
+          "line": "Grr!"
+        },
+        {
+          "type": "action",
+          "description": "Petra and Oluo blind the Female Titan."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Ah!"
+        },
+        {
+          "type": "action",
+          "description": "The Female Titan leans back against a tree and covers its neck."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eld",
+          "line": "(Thoughts) We took its sight. For at least a minute, it’ll be in total darkness!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Petra",
+          "line": "(Thoughts) Kill it during this time!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Oluo",
+          "line": "(Thoughts) Screw capturing it!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eld",
+          "line": "(Thoughts) Kill it now!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Petra",
+          "line": "(Thoughts) Die here without honor!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Oluo",
+          "line": "(Thoughts) Make that bitch of a Titan pay!"
+        },
+        {
+          "type": "action",
+          "description": "Petra, Eld, and Oluo fly around the Female Titan as it covers its nape with both hands."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eld",
+          "line": "(Thoughts) We won’t let your eyes regenerate!"
+        },
+        {
+          "type": "action",
+          "description": "Eld makes a motion to Oluo and Petra. The two hook into a tree and cut into the Female Titan’s arms."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eld",
+          "line": "(Thoughts) We’ll shear off so much muscle around your shoulders, you won’t be able to keep your arms up! Urahh!"
+        },
+        {
+          "type": "action",
+          "description": "Eld slices into the Female Titan’s shoulders. Petra and Oluo do the same."
+        },
+        {
+          "type": "dialogue",
+          "character": "Petra",
+          "line": "(Thoughts) Shear it off!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eld",
+          "line": "(Thoughts) … fall!"
+        },
+        {
+          "type": "action",
+          "description": "The Female Titan’s arms fall to its side."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eld",
+          "line": "They’re down! Now the neck!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Petra",
+          "line": "… and we can strike its weak point!"
+        },
+        {
+          "type": "action",
+          "description": "Petra, Eld, and Oluo rush toward the Female Titan."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "(Thoughts) They’re so strong… The Female Titan is totally on the defensive. (Thoughts) How can they launch co-op attacks like that without even speaking to each other? I bet it’s only possible because they believe in one another. (Thoughts) They’ve overcome many hardships that way. That’s why they’re so strong, even right after losing Gunther. (Thoughts) Ngh… I’ll go forward. If I go forward and believe in them without turning back, then… I’m sure that’s the right answer! I finally understand!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Levi",
+          "line": "(Flashback) I don’t know."
+        },
+        {
+          "type": "dialogue",
+          "character": "Levi",
+          "line": "(Flashback) I never have. I can believe in my own abilities and the choices of companions I trust… but no one ever knows how it will turn out."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Ah…!"
+        },
+        {
+          "type": "action",
+          "description": "Eren turns back toward Eld, Petra, and Oluo."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eld",
+          "line": "Strike the neck, now!"
+        },
+        {
+          "type": "action",
+          "description": "The Female Titan regains its sight in one eye and bites Eld."
+        },
+        {
+          "type": "dialogue",
+          "character": "Petra",
+          "line": "Eld!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Ah…!"
+        },
+        {
+          "type": "action",
+          "description": "Eren hooks into a tree and turns around."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Ahh… Ahhh!!"
+        },
+        {
+          "type": "action",
+          "description": "Petra begins to back off."
+        },
+        {
+          "type": "dialogue",
+          "character": "Petra",
+          "line": "How? It can’t possibly see! It hasn’t even been thirty seconds… Ah! Only one eye? It prioritized one eye to accelerate the healing… Is that even possible?"
+        },
+        {
+          "type": "action",
+          "description": "The Female Titan rushes toward Petra."
+        },
+        {
+          "type": "dialogue",
+          "character": "Oluo",
+          "line": "Petra! We need to regroup! Petra, hurry!"
+        },
+        {
+          "type": "action",
+          "description": "The Female Titan stomps Petra against a tree."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Ahhh!!"
+        },
+        {
+          "type": "action",
+          "description": "Oluo shoots his hook into the back of the Female Titan’s neck."
+        },
+        {
+          "type": "dialogue",
+          "character": "Oluo",
+          "line": "Hey… Die!"
+        },
+        {
+          "type": "action",
+          "description": "Oluo slices at the Female Titan’s neck, but its neck crystallizes, breaking the blades."
+        },
+        {
+          "type": "dialogue",
+          "character": "Oluo",
+          "line": "How? My blade can’t pierce it… Gah!"
+        },
+        {
+          "type": "action",
+          "description": "The Female Titan smashes Oluo against another tree."
+        },
+        {
+          "type": "dialogue",
+          "character": "Ahh…",
+          "line": "I… I will… I’ll kill it!!"
+        },
+        {
+          "type": "action",
+          "description": "Eren bites his hand, triggering his Titan transformation."
+        },
+        {
+          "type": "dialogue",
+          "character": "Attack Titan",
+          "line": "Urahhhh!!"
+        },
+        {
+          "type": "action",
+          "description": "The other soldiers in other parts of the forest hear Eren’s Attack Titan’s roar."
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "Ah… Eren? Ngh!"
+        },
+        {
+          "type": "action",
+          "description": "Mikasa turns back around."
+        },
+        {
+          "type": "dialogue",
+          "character": "Sasha",
+          "line": "Wait… Mikasa?!"
+        },
+        {
+          "type": "action",
+          "description": "Levi turns back around toward his squad’s location. Eren’s Attack Titan charges toward the Female Titan."
+        },
+        {
+          "type": "dialogue",
+          "character": "Attack Titan",
+          "line": "Urahhh!! Urahh… Urahhh!!"
+        }
+      ]
+    },
+    {
+      "description": "In the forest of giant trees. Eren has transformed into the Attack Titan to fight the Female Titan.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Attack Titan",
+          "line": "Urahhhh! Urahhhh!"
+        },
+        {
+          "type": "action",
+          "description": "Eren’s Attack Titan tries to punch the Female Titan, but it moves out of the way. The Female Titan kicks Eren’s Attack Titan in the stomach."
+        },
+        {
+          "type": "action",
+          "description": "Eren’s Attack Titan aims for the Female Titan again. The Female Titan stumbles back into a tree."
+        },
+        {
+          "type": "dialogue",
+          "character": "Attack Titan",
+          "line": "Urah… Urahh!"
+        },
+        {
+          "type": "action",
+          "description": "Eren’s Attack Titan goes on the offensive, throwing multiple punches at the Female Titan but landing none."
+        },
+        {
+          "type": "dialogue",
+          "character": "Attack Titan",
+          "line": "Urah… Urahh! Urahh… Urahh! Urahh… Urahh… Urahhh! Urahhhh!"
+        },
+        {
+          "type": "action",
+          "description": "The Female Titan rolls away and flees."
+        },
+        {
+          "type": "dialogue",
+          "character": "Attack Titan",
+          "line": "Urahhh!! Urahh… Urahh… Urahh!"
+        },
+        {
+          "type": "action",
+          "description": "Levi makes his way toward Eren’s location. He sees the dead bodies of his comrades where they fell. Eren’s Attack Titan continues to fight the Female Titan."
+        },
+        {
+          "type": "dialogue",
+          "character": "Attack Titan",
+          "line": "Urahh! Urahhh!"
+        },
+        {
+          "type": "action",
+          "description": "The Attack Titan punches at the Female Titan, who dodges the attacks. It stumbles backward and falls. Eren’s Attack Titan climbs over it."
+        },
+        {
+          "type": "dialogue",
+          "character": "Attack Titan",
+          "line": "Urahhh… Urahhh!!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Thoughts) I made the wrong choice…",
+          "line": "(Thoughts) I wanted to believe in my companions… Because of that, everyone died!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Attack Titan",
+          "line": "Urahhh!!"
+        },
+        {
+          "type": "action",
+          "description": "Eren’s Attack Titan punches at the Female Titan’s head, but it dodges and it punches the ground. The Attack Titan’s arm breaks, and its fist is bloodied."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "(Thoughts) If I had believed in myself from the start and fought… If I’d only killed it at the beginning!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Attack Titan",
+          "line": "Urahhh!"
+        },
+        {
+          "type": "action",
+          "description": "Eren’s Attack Titan punches the ground again, damaging its other hand."
+        },
+        {
+          "type": "dialogue",
+          "character": "Attack Titan",
+          "line": "Urahhh!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Thoughts) No… If I’d fought… even before that…",
+          "line": "(Thoughts) Lance Corporal Levi was there, too. We would have won. Maybe we could’ve captured it!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Levi",
+          "line": "(Flashback) You aren’t wrong. If you want to, do it."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "(Thoughts) I… I made a choice. And it killed everyone. It’s my fault they died. (Thoughts) But despite all that… it’s still your fault!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Attack Titan",
+          "line": "Urahhh! Urahh! Urahhh!!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "(Thoughts) I’ll tear you apart… Once my hand heals, I’ll rip you apart… tear you to shreds… rip you into tiny pieces… and eat you!"
+        },
+        {
+          "type": "action",
+          "description": "The Female Titan regenerates its other eye. It grabs Eren’s Attack Titan’s arm and gets out of its hold. The Female Titan kicks Eren’s Attack Titan into a tree."
+        },
+        {
+          "type": "dialogue",
+          "character": "Urohhh…",
+          "line": "Urahhh!"
+        },
+        {
+          "type": "action",
+          "description": "Eren’s Attack Titan gets back up and grazes the Female Titan’s face. The two continue to spar until the Female Titan is backed into a tree."
+        },
+        {
+          "type": "dialogue",
+          "character": "Attack Titan",
+          "line": "Urahhh!!"
+        },
+        {
+          "type": "action",
+          "description": "Eren’s Attack Titan punches at the Female Titan, but it dodges. The two continue to spar. Eren’s Attack Titan winds up for a hard punch."
+        },
+        {
+          "type": "dialogue",
+          "character": "Attack Titan",
+          "line": "Urahh… Urahhh! Urahhh!!"
+        },
+        {
+          "type": "action",
+          "description": "The Female Titan crystallizes its fist and punches Eren’s Attack Titan in the mouth."
+        },
+        {
+          "type": "dialogue",
+          "character": "Attack Titan",
+          "line": "Urah… Urahhh!"
+        },
+        {
+          "type": "action",
+          "description": "Eren’s Attack Titan punches the Female Titan into the air. It falls against a tree. The Attack Titan charges toward it."
+        },
+        {
+          "type": "dialogue",
+          "character": "Attack Titan",
+          "line": "Urahhh!!"
+        },
+        {
+          "type": "action",
+          "description": "The Attack Titan aims for the Female Titan’s head with its knee, but it dodges again. Eren’s Attack Titan rests against the tree with fatigue."
+        },
+        {
+          "type": "action",
+          "description": "The Female Titan turns back toward Eren’s Attack Titan and gets into position to attack."
+        },
+        {
+          "type": "action",
+          "description": "The Female Titan kicks through the tree that Eren’s Attack Titan leans against, beheading it. Eren’s Attack Titan slumps over, and the Female Titan bites into its neck, revealing Eren. Mikasa races over to Eren’s location."
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "Eren!! Ah!"
+        },
+        {
+          "type": "action",
+          "description": "The Female Titan bites Eren out of his Titan’s body."
+        },
+        {
+          "type": "action",
+          "description": "The Female Titan swallows Eren."
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "Ah!"
+        },
+        {
+          "type": "action",
+          "description": "The Female Titan flees."
+        },
+        {
+          "type": "dialogue",
+          "character": "Don’t go…",
+          "line": "Ngh!"
+        },
+        {
+          "type": "action",
+          "description": "Mikasa chases after the Female Titan."
+        },
+        {
+          "type": "action",
+          "description": "The Female Titan covers its neck."
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "Give… Eren back!"
+        },
+        {
+          "type": "action",
+          "description": "Mikasa attacks the Female Titan, inflicting several cuts to its body."
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "Ngh… Urah! Urah! Urgh… Ngh! Urah! Ngh… Give him back!!"
+        },
+        {
+          "type": "action",
+          "description": "Mikasa cuts into the Female Titan’s leg, and it stumbles."
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "Urgh! Ngh!"
+        },
+        {
+          "type": "action",
+          "description": "Mikasa aims for the Female Titan’s hand, but the Female Titan crystallizes it, shattering her blades. Mikasa retreats against a tree."
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "Why won’t my blade penetrate? I know that he’s alive… I know that Eren’s alive!"
+        },
+        {
+          "type": "action",
+          "description": "Mikasa replaces her blades."
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "No matter where she goes, I’ll kill her, rip her apart, and get you out of that filth."
+        },
+        {
+          "type": "action",
+          "description": "The Female Titan punches at Mikasa, but she dodges. The Female Titan continues to flee."
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "Wait!"
+        },
+        {
+          "type": "action",
+          "description": "Levi grabs Mikasa and drags her off."
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "Urgh! Wh-What are you…!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Levi",
+          "line": "Fall back for now."
+        },
+        {
+          "type": "action",
+          "description": "Mikasa and Levi follow after the Female Titan at a distance."
+        },
+        {
+          "type": "dialogue",
+          "character": "Levi",
+          "line": "Maintain this distance. It may be tired. It does not appear to be going very fast. He seems to have been bit right out of the neck. Is Eren dead?"
+        }
+      ]
+    }
+  ]
+}

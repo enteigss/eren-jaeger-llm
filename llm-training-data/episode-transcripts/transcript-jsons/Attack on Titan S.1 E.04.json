@@ -1,0 +1,953 @@
+{
+  "title": "Attack on Titan S.1 E.04",
+  "episode_info": {
+    "title": "The Night of the Closing Ceremony: Humanity's Comeback, Part 2"
+  },
+  "scenes": [
+    {
+      "description": "In a forest for training, two years after enlisting.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Shadis",
+          "line": "You’re slow! Run, you shitheads! What’s wrong, Arlert? You’re falling behind! Is it too hard for you? Do you want to be the only one who puts down his equipment? If this was a real mission, you’d be Titan food already!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Dammit!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Reiner",
+          "line": "Give it to me!"
+        },
+        {
+          "type": "action",
+          "description": "Reiner takes Armin’s pack."
+        },
+        {
+          "type": "dialogue",
+          "character": "Reiner",
+          "line": "You’ll end up dropping out this way! We’re being downgraded on today’s training!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "But now, they’re gonna punish you, too!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Reiner",
+          "line": "Then do your best so they won’t find out! Don’t make me change my mind!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Shadis",
+          "line": "(Thoughts) Reiner Braun. He possesses great mental and physical fortitude. His comrades trust him deeply."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "I’d rather die than live as a burden!"
+        },
+        {
+          "type": "action",
+          "description": "Armin runs up to Reiner and takes back his pack."
+        },
+        {
+          "type": "dialogue",
+          "character": "Shadis",
+          "line": "(Thoughts) Armin Arlert. While he lacks in physical strength, he makes up for with extraordinary academic aptitude."
+        }
+      ]
+    },
+    {
+      "description": "In the forest during the day, the recruits are cutting up dummy titans.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Shadis",
+          "line": "(Thoughts) Annie Leonhart. While her fighting skills are outstanding, she doesn’t work well as part of a team. A lone wolf. (Thoughts) Bertolt Hoover. He is highly talented, but he lacks initiative. (Thoughts) Jean Kirstein. His 3D control skills are top class, but his overtly blunt personality causes friction."
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "I can’t fight like them. I need to find my own Titan first! (Thoughts) I will get accepted into the Military Police!"
+        },
+        {
+          "type": "action",
+          "description": "Jean finds a titan dummy to cut."
+        },
+        {
+          "type": "dialogue",
+          "character": "Connie",
+          "line": "Thanks, Jean! I knew following you would work!"
+        },
+        {
+          "type": "action",
+          "description": "Sasha cuts the dummy before Jean or Connie."
+        },
+        {
+          "type": "dialogue",
+          "character": "Sasha",
+          "line": "I did it! Haha!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Shadis",
+          "line": "(Thoughts) Sasha Blouse. She’s talented at operating unconventionally, but that mentality makes her unfit for organized activity. (Thoughts) Connie Springer. He’s skilled at making sharp turns, but his mind is nowhere near sharp enough."
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldier",
+          "line": "Here they come!"
+        },
+        {
+          "type": "action",
+          "description": "More titan dummies are lifted. Eren and Mikasa arrive."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "(Thoughts) Shit! I still didn’t cut deep enough."
+        },
+        {
+          "type": "dialogue",
+          "character": "Shadis",
+          "line": "(Thoughts) Mikasa Ackerman. Her performance is exemplary in every subject. She is truly a genius of historically-unprecedented significance. (Thoughts) Eren Jaeger. While he lacks any outstanding talents, he improved his grades through outstanding diligence. In addition, he possesses an exceptional sense of purpose."
+        }
+      ]
+    },
+    {
+      "description": "At the training grounds, where trainees are sparring. Eren flips over Reiner.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Reiner",
+          "line": "Ouch!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Sorry, man. I suck at holding back."
+        },
+        {
+          "type": "dialogue",
+          "character": "Reiner",
+          "line": "You play the bad guy next."
+        },
+        {
+          "type": "action",
+          "description": "Reiner holds out a wooden dagger to Eren, but Eren hesitates to take it."
+        },
+        {
+          "type": "dialogue",
+          "character": "Reiner",
+          "line": "What’s wrong?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "I just don’t see the point of training like this. It’s not like soldiers fight other humans. Plus, only a fool would go bare-handed against an armed opponent."
+        },
+        {
+          "type": "dialogue",
+          "character": "Reiner",
+          "line": "That’s irresponsible thinking. We’re soldiers. There are times we can’t back down, no matter how hopeless the situation. We can’t always be sure who or what we’re up against, so we master artillery and hand-to-hand combat, too. That’s our responsibility as soldiers. Would ya look at that?"
+        },
+        {
+          "type": "action",
+          "description": "Eren and Reiner watch Annie walk by."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Oh, it’s Annie. The officers never notice her sneaking off like that."
+        },
+        {
+          "type": "dialogue",
+          "character": "Reiner",
+          "line": "Hey, Eren. Let’s teach that slacker a lesson. We’ll show her how true soldiers ought to behave."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Huh?"
+        },
+        {
+          "type": "action",
+          "description": "Reiner moves to stand in front of Annie as she’s looking around."
+        },
+        {
+          "type": "dialogue",
+          "character": "Reiner",
+          "line": "You looking for a headbutt from the instructor? If you don’t wanna get any shorter, I suggest you recall your first day here and get serious."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "What are you talking about? (Thoughts) She’s furious. I’ve always thought she wore a scary face, but that’s nothing compared to right now."
+        },
+        {
+          "type": "dialogue",
+          "character": "Reiner",
+          "line": "Let’s get moving, Eren."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Me?"
+        },
+        {
+          "type": "action",
+          "description": "Annie gets into her fighting stance."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Annie, you know what to do, right? Here I come!"
+        },
+        {
+          "type": "action",
+          "description": "Eren charges at Annie, but she kicks his leg. Eren falls over."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "What? She kicked me in the leg?"
+        },
+        {
+          "type": "action",
+          "description": "Eren tries to get up but falls back down in pain."
+        },
+        {
+          "type": "dialogue",
+          "character": "Annie",
+          "line": "Can I go now?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Reiner",
+          "line": "No. It’s not over until he lets go of the dagger."
+        },
+        {
+          "type": "action",
+          "description": "Annie sweeps Eren’s legs, resulting in Eren falling with his behind in the air. Annie walks away. Annie tosses the dagger to Reiner."
+        },
+        {
+          "type": "dialogue",
+          "character": "Annie",
+          "line": "Here. Now it’s your turn to attack me."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Do it, Reiner. You’re gonna teach her the responsibility of being a soldier, right?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Reiner",
+          "line": "Yeah. Sometimes a soldier can’t back down. Like right now!"
+        },
+        {
+          "type": "action",
+          "description": "Reiner lands like Eren. Annie walks away."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Your technique is incredible… Who taught you how to fight?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Annie",
+          "line": "My dad."
+        },
+        {
+          "type": "dialogue",
+          "character": "Annie",
+          "line": "Who cares? Doing this is pointless."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "You mean this training?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Annie",
+          "line": "Anti-personnel techniques don’t factor into our scores. So people just take it easy until it’s over. The right to join the Military Police and live in the secure Inner District is only granted to the top scoring ten graduates. The people who bother participating in this are either stupidly serious like you, or seriously stupid."
+        },
+        {
+          "type": "action",
+          "description": "Shadis walks up to Sasha and Connie, who are goofing off."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Crap, it’s the instructor!"
+        },
+        {
+          "type": "action",
+          "description": "Annie grabs the wooden dagger and points it at Eren’s throat. Eren struggles to keep her from pushing it further."
+        },
+        {
+          "type": "dialogue",
+          "character": "Annie",
+          "line": "Why in this world are the people most capable of opposing the Titans the only ones given the privilege of avoiding them entirely? How do you think it got to be such a farce?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Who knows?"
+        },
+        {
+          "type": "action",
+          "description": "Annie sweeps Eren’s legs again as he’s attacking, putting the wooden dagger to his throat."
+        },
+        {
+          "type": "dialogue",
+          "character": "Annie",
+          "line": "Maybe it’s just human nature? Point is, I can’t even pretend to be stupid enough to play soldier in this insane world."
+        },
+        {
+          "type": "action",
+          "description": "Annie gets off Eren and walks away."
+        },
+        {
+          "type": "dialogue",
+          "character": "Reiner",
+          "line": "Then you’re not fit to be a soldier."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "(Thoughts) I was so obsessed with getting stronger that I didn’t notice. It’s such an obvious contradiction. (Thoughts) They’re just improving their Titan-killing skills so they have a chance to get further away from them."
+        }
+      ]
+    },
+    {
+      "description": "At the mess hall, at night.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "It’s just natural. Before the fall of Wall Maria, only the few soldiers of the Recon Corps actually utilized the 3D Maneuver Gear. With limited usage or innovation, the entire practice would naturally fall into decline…"
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "You should rev it up hard, but just for a second. Using inertia that way, you can minimize gas consumption."
+        },
+        {
+          "type": "dialogue",
+          "character": "Daz",
+          "line": "You make it sound so simple."
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "Sure, it’s not something anyone could master. But it’s still worth remembering if you’re trying to get into the Military Police."
+        },
+        {
+          "type": "dialogue",
+          "character": "It’d be great if I could get in…",
+          "line": "There’s no higher honor than working near the King."
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "C’mon, Marco! Stop being such a goody-goody and just tell the truth. You want to join the Military Police so you can live a simple, comfortable life within the Inner District."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "So interior life’s simple and comfortable?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "Huh?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Five years ago, this place was also part of the interior."
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "What’s your point, Eren?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Jean, you’re such a simpleton, you’d be comfortable wherever you go."
+        },
+        {
+          "type": "action",
+          "description": "The other soldiers laugh quietly."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Don’t you think it’s crazy? Learning how to kill Titans just to run away from them?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "You bring that up now? This farce should be kept going for my sake if nothing else!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "You damn bastard!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "Fuck off and face reality!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Eren, stop it!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "Stop this."
+        },
+        {
+          "type": "action",
+          "description": "Mikasa slaps Jean’s hand away and takes Eren’s hand."
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "Dammit, you asshole!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Fuck you! I backed off!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "Who cares! I’m so jealous!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "What the hell are you even talking about?!"
+        },
+        {
+          "type": "action",
+          "description": "Eren pauses to see Reiner and Annie eyeing him."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "(Thoughts) I see… He’s just blowing off steam, just like I did back then. (Thoughts) But not this time. I’ll use my skills to resolve the situation."
+        },
+        {
+          "type": "action",
+          "description": "Eren uses the same hand-to-hand skills that Annie used to topple Jean."
+        },
+        {
+          "type": "dialogue",
+          "character": "That hurt…",
+          "line": "What the hell was that?!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "That was a move I learned while you were slacking off. If you really think reality is just living comfortably and following your own whims, can you seriously dare to call yourself a soldier?"
+        },
+        {
+          "type": "action",
+          "description": "Shadis opens the door to the mess hall."
+        },
+        {
+          "type": "dialogue",
+          "character": "Shadis",
+          "line": "I thought I just heard some kind of loud noise. Someone care to enlighten me as to what’s going on?"
+        },
+        {
+          "type": "action",
+          "description": "Jean and Eren return to their seats. Mikasa raises her hand."
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "Sasha just ripped a giant fart, sir."
+        },
+        {
+          "type": "dialogue",
+          "character": "Sasha",
+          "line": "What?!"
+        },
+        {
+          "type": "action",
+          "description": "The soldiers laugh quietly."
+        },
+        {
+          "type": "dialogue",
+          "character": "Shadis",
+          "line": "You again? Learn some self-control!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "(Narration) Thus, the graduation of the 218 trainees drew near."
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldier",
+          "line": "Hands on your hearts!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Trainees",
+          "line": "Yes, sir!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldier",
+          "line": "For you trainees graduating today, three paths now open before you. You can be stationed at the walls and defend the cities as members of the Garrison! You can put your lives on the line to fight the Titans in their own territory as members of the Recon Corps! And you can serve the King by controlling the crowds and protecting order as members of the Military Police Brigade! Of course, only ten people with top scores as announced earlier are allowed into the Military Police!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "(Thoughts) Finally, I made it this far. (Thoughts) Now, it’ll be our turn to devour the Titans!"
+        }
+      ]
+    },
+    {
+      "description": "At the mess hall, later that night. All the trainees are celebrating.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Connie",
+          "line": "I did it! I’m in the Military Police now!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Sasha",
+          "line": "We’ll never have to worry about having food again!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Thomas",
+          "line": "You don’t wanna join the Military Police, Eren? Are you serious?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Samuel",
+          "line": "But you’ve got one of the top ten scores!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "I’ve been dead-set on my goal since the very beginning. I didn’t train to live comfortably within the Inner District. I worked this hard so I could fight the Titans."
+        },
+        {
+          "type": "dialogue",
+          "character": "Thomas",
+          "line": "But you can’t possibly win!"
+        },
+        {
+          "type": "action",
+          "description": "The trainees all go silent."
+        },
+        {
+          "type": "dialogue",
+          "character": "Thomas",
+          "line": "You know full well… You know just how many have been eaten by them. We’ve lost more than twenty percent of the entire population already. Mankind doesn’t stand a chance against them."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "So?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Thomas",
+          "line": "Huh?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "You’re just giving up because you think you can’t win?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "It’s true. We’ve suffered only defeats so far. That’s because we hardly knew anything about them! We can’t defeat them using sheer numbers. We may have lost, but the knowledge we obtained from those battles is our guiding beacon of hope. Yet you’d discard the tactical progress bought by hundreds of thousands of sacrifices, just to serve yourself up on a silver platter? You’ve gotta be kidding me. I’ll kill every last one of them and break free of these walls! That is my dream! Mankind hasn’t lost everything yet!"
+        },
+        {
+          "type": "action",
+          "description": "Eren runs out of the mess hall. Armin and Mikasa run after him."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Wait, Eren!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "(Thoughts) Go outside those walls, if you’re so keen on it. I’m going to the Military Police."
+        }
+      ]
+    },
+    {
+      "description": "Outside the building. Eren is sitting on the stairs. Armin and Mikasa approach him.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Eren, can we talk about your dream?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Yeah. After all, I got it from you. Breaking free of the walls and all that…"
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "I’m going to enlist in the Recon Corps."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Are you for real, Armin? You’re our top theoretician! Put that to better use!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "I don’t care if I die as long as I can be useful."
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "I’m going to be in the Recon Corps, too."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "You got the top score, didn’t you? Go to the Military Police!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "I’ll go to the Military Police if you do. If you go to the Garrisons, so will I. You’ll die an early death if I’m not there for you."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "I never asked for that."
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "I don’t want to lose what’s left of my family."
+        }
+      ]
+    },
+    {
+      "description": "At the gates the next day. The Recon Corps is leaving.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Man 1",
+          "line": "They’re here! The main force of the Recon Corps is here!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Man 2",
+          "line": "Commander Erwin! Kick their Titan asses for me!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Man 3",
+          "line": "Look! There’s Commander Levi!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Man 4",
+          "line": "They say he alone counts for a full unit!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Levi",
+          "line": "Tsk… Can they shut up?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "They look completely different from five years ago. People really count on the Recon Corps a lot."
+        },
+        {
+          "type": "dialogue",
+          "character": "Hanna",
+          "line": "It’s cheering everyone up. The past won’t have to be repeated."
+        },
+        {
+          "type": "dialogue",
+          "character": "Franz",
+          "line": "The artillery has been improved as well. That Colossal Titan won’t come again, right?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Hanna",
+          "line": "Yeah."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "How can you be so naive, you old married couple?!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Hanna",
+          "line": "Don’t call us a couple!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Franz",
+          "line": "Don’t be so hasty, Eren."
+        },
+        {
+          "type": "dialogue",
+          "character": "Hannes",
+          "line": "Hey, you there."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Hannes!"
+        },
+        {
+          "type": "action",
+          "description": "Hannes walks toward Eren, Mikasa, and Armin through the crowd."
+        },
+        {
+          "type": "dialogue",
+          "character": "Hannes",
+          "line": "You guys graduated yesterday, right? I can’t believe they really let you kids through."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "I heard they made a drunkard like you Captain of a Garrison."
+        },
+        {
+          "type": "dialogue",
+          "character": "Hannes",
+          "line": "Touche! Sorry. I’m sorry I couldn’t save your mother."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "It’s not your fault, Hannes. I’m no longer ignorant. I won’t let that sort of tragedy happen again. I will defeat the Titans."
+        },
+        {
+          "type": "action",
+          "description": "Eren runs off, leaving Mikasa and Armin behind. Hannes watches on."
+        },
+        {
+          "type": "dialogue",
+          "character": "Hannes",
+          "line": "(Thoughts) Should I be happy or not that he’s grown into a man? (Thoughts) Just don’t die."
+        }
+      ]
+    },
+    {
+      "description": "On top of the walls, with the Garrison.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "What? You enlisted in the Recon Corps? Connie! You were going on and on about joining the Military Police!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Mina",
+          "line": "Seems like he was listening to your lecture yesterday."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Huh?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Connie",
+          "line": "Shut up! This is my own decision!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Thomas",
+          "line": "Don’t be so shy about it. You’re not the only one."
+        },
+        {
+          "type": "dialogue",
+          "character": "Um, guys…",
+          "line": "I borrowed some meat from the officers’ morning rations."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Sasha… You wanna get solitary confinement?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Samuel",
+          "line": "You’re a real idiot!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Sasha",
+          "line": "Let’s all split it up together later. We’ll slice it up and eat it with bread!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Connie",
+          "line": "Bring it back!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Mina",
+          "line": "Yeah. Meat is a luxury now that we’ve lost so much land!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Sasha",
+          "line": "Don’t worry about it. Once we retake the land, we can keep cows and sheep again."
+        },
+        {
+          "type": "dialogue",
+          "character": "Samuel",
+          "line": "I’ll take the meat!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Connie",
+          "line": "Me, too, so save my part!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Mina",
+          "line": "That goes for me, too."
+        },
+        {
+          "type": "dialogue",
+          "character": "Samuel",
+          "line": "What do you say, Eren? They’ll find us out if we don’t get back to work."
+        },
+        {
+          "type": "dialogue",
+          "character": "Mina",
+          "line": "It’s still a while before lunch."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "(Thoughts) Five years have passed since then. Mankind’s finally regaining its dignity. (Thoughts) We can win. Mankind’s counterattack starts now!"
+        },
+        {
+          "type": "action",
+          "description": "Thunder sounds, and the Colossal Titan appears at the wall. Rocks from the wall break from the gate."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Ah!"
+        },
+        {
+          "type": "action",
+          "description": "Steam from the Colossal Titan blows all the cadets off the wall."
+        },
+        {
+          "type": "dialogue",
+          "character": "Samuel, Mina",
+          "line": "Ah!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "What the?!"
+        },
+        {
+          "type": "action",
+          "description": "Eren and the other cadets grapple to the wall. Connie sees Samuel falling and tries to save him."
+        },
+        {
+          "type": "dialogue",
+          "character": "Connie",
+          "line": "Samuel!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Mina",
+          "line": "Sasha!"
+        },
+        {
+          "type": "action",
+          "description": "Sasha unhooks from the wall and goes to save Samuel. She hooks his leg."
+        },
+        {
+          "type": "dialogue",
+          "character": "Sasha",
+          "line": "Samuel! Don’t move!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "That was close."
+        },
+        {
+          "type": "dialogue",
+          "character": "Connie",
+          "line": "Again… The Titans will get in again!"
+        },
+        {
+          "type": "action",
+          "description": "Eren flashes back to the scene where his mom is eaten by the Titan."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "(Flashback) I’ll kill them all! Every single one of them!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Every… fucking… one…",
+          "line": "Ready the artillery! Four groups! Prepare for battle!"
+        },
+        {
+          "type": "action",
+          "description": "Eren swings up toward the top of the wall."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "The target’s right in front of us! It’s the Colossal Titan! This is our chance! Don’t let it slip away!"
+        },
+        {
+          "type": "action",
+          "description": "Eren lands on top of the wall, facing the Colossal Titan."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Hey, there. It’s been five years."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1035 @@
+{
+  "title": "Attack on Titan S.1 E.20",
+  "episode_info": {
+    "title": "Erwin Smith: The 57th Exterior Scouting Mission, Part 4"
+  },
+  "scenes": [
+    {
+      "description": "In the forest of giant trees. Levi’s squad leads the Female Titan.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "If Squad Levi doesn’t defeat it, who will?! Ahh… Another one’s dead! Maybe we could’ve saved him!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Levi",
+          "line": "Choose. Believe in yourself, or believe in the Survey Corps and me."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Ngh… I’ll continue forward!"
+        },
+        {
+          "type": "action",
+          "description": "Levi’s squad leads the Female Titan to a group of soldiers with a barricade of weapons."
+        },
+        {
+          "type": "dialogue",
+          "character": "Erwin",
+          "line": "Fire!!"
+        },
+        {
+          "type": "action",
+          "description": "A flurry of hooks shoots into the Female Titan, holding it in place."
+        },
+        {
+          "type": "dialogue",
+          "character": "Gunther",
+          "line": "Well, Eren? See that? We caught that Titan!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Oluo",
+          "line": "This is the power of the Survey Corps! Don’t underestimate us, fool! Well? Do you get it now?!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Yes!"
+        },
+        {
+          "type": "action",
+          "description": "Levi regroups with Erwin."
+        },
+        {
+          "type": "dialogue",
+          "character": "Erwin",
+          "line": "We can’t lower our guard. But you did well, leading it here."
+        },
+        {
+          "type": "dialogue",
+          "character": "Levi",
+          "line": "Men in the rearguard squads died buying us the time we needed. We couldn’t have done it without them."
+        },
+        {
+          "type": "dialogue",
+          "character": "Erwin",
+          "line": "Is that so?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Levi",
+          "line": "It is. Thanks to them, we’ll be able to see who’s inside this thing."
+        }
+      ]
+    },
+    {
+      "description": "In the forest of giant trees. The Female Titan is trapped by the soldiers.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "An Aberrant? Or is it like the Colossal Titan?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Oluo",
+          "line": "Hey!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Oluo",
+          "line": "Snap out of it!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Petra",
+          "line": "Eren!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Petra",
+          "line": "Think later! We need to get farther in and stand by!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Ah, right!"
+        },
+        {
+          "type": "action",
+          "description": "Levi’s squad rides on. Levi draws a blade."
+        },
+        {
+          "type": "dialogue",
+          "character": "Erwin",
+          "line": "Wait, Levi. An eye for an eye. Waves 2 and 3, fire!"
+        },
+        {
+          "type": "action",
+          "description": "The soldiers fire more hooks into the Female Titan."
+        },
+        {
+          "type": "dialogue",
+          "character": "Erwin",
+          "line": "Fire the spare rounds!"
+        }
+      ]
+    },
+    {
+      "description": "On the perimeter of the forest of giant trees. Other soldiers stand guard on the trees, but Titans search below them. One Titan climbs up a tree.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Nanaba",
+          "line": "Yeah. If it gets this far, I’ll move out of the way. But I don’t think it will be long before they issue withdrawal orders."
+        },
+        {
+          "type": "dialogue",
+          "character": "Christa",
+          "line": "Does that have something to do with the explosions we’ve been hearing from deep within the forest?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Nanaba",
+          "line": "I don’t know."
+        },
+        {
+          "type": "action",
+          "description": "More explosions can be heard from the forest."
+        },
+        {
+          "type": "dialogue",
+          "character": "Sasha",
+          "line": "Mikasa, what do you think that sound is? Are they firing cannons in the forest?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Reiner",
+          "line": "(Thoughts) It didn’t seem like they’d brought cannons, though."
+        },
+        {
+          "type": "dialogue",
+          "character": "Ymir",
+          "line": "It’s really loud back there. Hey, Bertholdt, do you know where Christa went?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Bertholdt",
+          "line": "Sorry, I don’t know."
+        },
+        {
+          "type": "dialogue",
+          "character": "Connie",
+          "line": "(Thoughts) I have no idea what’s going on. What am I doing and why? I want to go home."
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "We’re going to shift position, Armin!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Okay!"
+        },
+        {
+          "type": "action",
+          "description": "Armin and Jean move from their trees as a Titan climbs their way."
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "They’ve started to figure it out. They seem to keep getting better and better at climbing."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "That means, scary as it sounds, that they can learn. Although some are better than others, I’m sure."
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "Armin… Sounds like something is going on deeper in the forest. I think I have some idea what. They lured that Female Titan all the way here in order to capture it."
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "More precisely… to capture whoever is inside of it."
+        }
+      ]
+    },
+    {
+      "description": "In the forest. Eren speaks with Levi’s squad.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "… from the very start. Right? I can see why he wouldn’t have told the new troops, but why wouldn’t he tell you when you’ve all been with the Survey Corps for so long?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Oluo",
+          "line": "Shut up!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Petra",
+          "line": "Are you saying the commander and the lance corporal don’t trust us?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Huh? No, but that’s what this means!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Oluo",
+          "line": "Ngh… Petra, rip out his teeth! Swap the front and back teeth when you shove ‘em back in!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eld",
+          "line": "No, Eren’s right."
+        },
+        {
+          "type": "dialogue",
+          "character": "Oluo",
+          "line": "What?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eld",
+          "line": "I think there was a reason the commander couldn’t trust us."
+        },
+        {
+          "type": "dialogue",
+          "character": "Gunther",
+          "line": "Like what?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eld",
+          "line": "There’s only one reason he wouldn’t trust his fellow soldiers. There's someone who can become a Titan or a spy helping them in the Survey Corps."
+        }
+      ]
+    },
+    {
+      "description": "On the perimeter of the forest. Jean speaks with Armin.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "You think so, too, right? It has to be one of us."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Yeah. I think so."
+        }
+      ]
+    },
+    {
+      "description": "In the forest. Levi’s squad continues to ruminate.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Gunther",
+          "line": "A spy? Is that possible?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eld",
+          "line": "At any rate, the commander is certain. I’d imagine the only soldiers who were told of the plan were those who’ve stayed alive for the past five years."
+        },
+        {
+          "type": "dialogue",
+          "character": "Gunther",
+          "line": "I see. So that’s it."
+        },
+        {
+          "type": "dialogue",
+          "character": "Oluo",
+          "line": "Must be. Understand, Eren? That’s why."
+        },
+        {
+          "type": "dialogue",
+          "character": "Petra",
+          "line": "Yeah, if that’s the reason, I understand."
+        },
+        {
+          "type": "dialogue",
+          "character": "Petra",
+          "line": "He’s assuming that five years ago, when the first wall fell, a spy infiltrated our ranks, and that’s how he narrowed down the possibilities."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eld",
+          "line": "Then the spy killed Sawney and Bean?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Petra",
+          "line": "Ah… Back then, the commander asked me about that."
+        },
+        {
+          "type": "dialogue",
+          "character": "Erwin",
+          "line": "(Flashback) What do you see? What do you think the enemy is?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "That’s what that question meant?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eld",
+          "line": "If we could’ve answered it, maybe we could’ve participated in this plan. I doubt that anyone could’ve back then, though."
+        },
+        {
+          "type": "dialogue",
+          "character": "Oluo",
+          "line": "I knew. But I didn’t say anything. Do you know why?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Petra",
+          "line": "Why?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Oluo",
+          "line": "Haa… What, you can’t tell? Well, I shouldn’t expect that much from the likes of you. You have yet to reach my level."
+        },
+        {
+          "type": "dialogue",
+          "character": "Petra",
+          "line": "Hey, are you copying Lance Corporal Levi again? The lance corporal wouldn’t say anything like that."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "(Thoughts) If this succeeds, I can get closer to the truth of this world. But… too many died, regardless."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eld",
+          "line": "Do you think the commander was wrong?"
+        }
+      ]
+    },
+    {
+      "description": "On the perimeter of the forest. The Titan climbing toward Armin and Jean falls to the ground.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "I can’t say he was right. If we’d known there was a Titan informed of our operations, we would’ve dealt with this in a different way. Your team’s squad leader and the others would’ve, too."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "No, it wasn’t wrong."
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "What? What wasn’t wrong? How many do you think died for no reason?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Jean, after the fact, it’s easy to say, “We should’ve done something else.” However, no one knows how things will turn out. And even so, you have to make a choice. You must."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "The lives of a hundred fellow soldiers, or the lives of all the humans within the walls… The commander made his choice. He chose to let those hundred die."
+        }
+      ]
+    },
+    {
+      "description": "In the forest. Eld addresses Eren.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Eld",
+          "line": "Eren, you don’t know it yet, but you will soon… the reason that Erwin Smith is entrusted with humanity’s hope, the Survey Corps."
+        },
+        {
+          "type": "dialogue",
+          "character": "Petra",
+          "line": "Just look at how much Lance Corporal Levi trusts him!"
+        }
+      ]
+    },
+    {
+      "description": "On the perimeter of the forest. Armin and Jean speak.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "I haven’t lived that long, but I’m certain of one thing. If there’s anyone who can bring change, it will be someone willing to sacrifice what they care for. It will be someone who can throw aside their humanity in order to defeat monsters. Someone who can’t sacrifice anything can’t ever change anything!"
+        }
+      ]
+    },
+    {
+      "description": "In the forest of giant trees. Erwin commands the soldiers near the Female Titan.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Erwin",
+          "line": "Fire!"
+        },
+        {
+          "type": "action",
+          "description": "The soldiers fire more hooks into the Female Titan."
+        },
+        {
+          "type": "dialogue",
+          "character": "Hange",
+          "line": "How do you like that? You won’t even be able to scratch an itch now. You won’t be able to make a single move, probably for the rest of your life. They’re designed so that the more you heal your wounds, the more immobilized your joints become! Hehehehe… But they still can’t draw out whoever is inside? What are Levi and Miche doing?"
+        },
+        {
+          "type": "action",
+          "description": "Levi and Miche aim for the Female Titan’s hands, which are covering its nape. Before they can reach the hands, the Female Titan crystallizes them."
+        },
+        {
+          "type": "dialogue",
+          "character": "Levi, Miche",
+          "line": "Ngh!"
+        },
+        {
+          "type": "action",
+          "description": "Levi and Miche attack, but their blades break."
+        },
+        {
+          "type": "dialogue",
+          "character": "Levi",
+          "line": "Urgh!"
+        },
+        {
+          "type": "action",
+          "description": "Miche lands next to Erwin and shakes his head as he shows the broken blades."
+        },
+        {
+          "type": "dialogue",
+          "character": "Erwin",
+          "line": "(Thoughts) It can selectively harden its skin to protect specific parts of its body? It’s similar to what I’ve heard of the Armored Titan. (Thoughts) If we continue using the 3D Maneuver Gear and blades, will it weaken? (Thoughts) We don’t have time to find out. In that case…"
+        },
+        {
+          "type": "action",
+          "description": "Erwin raises his hand. Keiji approaches."
+        },
+        {
+          "type": "dialogue",
+          "character": "Keiji",
+          "line": "Yes, sir?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Erwin",
+          "line": "Prepare the explosives. Blow off its hands."
+        },
+        {
+          "type": "dialogue",
+          "character": "Keiji",
+          "line": "Yes, sir… But there’s a chance that the amount we carry has enough firepower to also blow up what’s inside."
+        },
+        {
+          "type": "dialogue",
+          "character": "Erwin",
+          "line": "Then set them to amputate the wrists. Set them all off at once on my signal."
+        },
+        {
+          "type": "dialogue",
+          "character": "Keiji",
+          "line": "Roger."
+        },
+        {
+          "type": "action",
+          "description": "Keiji signals to the soldiers manning the explosives to ready them. Levi stands on the Female Titan’s head."
+        },
+        {
+          "type": "dialogue",
+          "character": "Levi",
+          "line": "Hey… Why not just come out? We don’t have time to waste. So… what do you think will happen to you now? Do you believe you can escape? I wish you’d consider all the trouble we’re going through… As I recall, you killed my troops in various ways. Did you find it fun? Right now, I’m having fun. Well, so are you, right? I think you can understand me. Oh, right. I wanted to ask you something. Is it okay if we cut off your hands and legs? They’ll grow back, right? I’m talking about your limbs, not the Titan’s."
+        },
+        {
+          "type": "action",
+          "description": "The Female Titan moves."
+        },
+        {
+          "type": "action",
+          "description": "The Female Titan lets out a series of yells."
+        },
+        {
+          "type": "dialogue",
+          "character": "Female Titan",
+          "line": "Urahhh!! Urahhh!! Urahh… Urahhh!!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Levi",
+          "line": "Well, that was a surprise."
+        },
+        {
+          "type": "dialogue",
+          "character": "Moblit",
+          "line": "Were those her dying screams?"
+        },
+        {
+          "type": "action",
+          "description": "Miche lands next to Erwin."
+        },
+        {
+          "type": "dialogue",
+          "character": "Miche",
+          "line": "Erwin, it stinks."
+        },
+        {
+          "type": "dialogue",
+          "character": "Erwin",
+          "line": "What direction?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Miche",
+          "line": "Multiple sources, from all directions at once!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Erwin",
+          "line": "Ngh…!"
+        }
+      ]
+    },
+    {
+      "description": "Along the perimeter of the forest. The Titans begin stampeding into the forest.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Huh?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "What’s up with them? They’re all running into the forest! Why did they suddenly start ignoring us?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Ymir",
+          "line": "What?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Connie",
+          "line": "They’re all Aberrants?!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldiers",
+          "line": "It doesn’t matter! Don’t let them through! Begin combat!"
+        },
+        {
+          "type": "action",
+          "description": "The soldiers chase after the Titans."
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "What just happened?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Sasha",
+          "line": "Wait!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Sasha",
+          "line": "I’ve heard that scream before. In the forests where I’m from… it’s the cry of a cornered animal that has nothing to lose! I was taught to exercise greater caution once a hunt drew to a close!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "So be careful?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Sasha",
+          "line": "A hundred times more than usual! If you underestimate the forest, you’ll die!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "I grew up in the mountains, too."
+        },
+        {
+          "type": "dialogue",
+          "character": "Sasha",
+          "line": "Someone who grew crops wouldn’t understand!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "I see. (Thoughts) It’s true that Sasha’s intuition is usually good. Especially when she predicts things are going sour. (Thoughts) Armin thought Eren would be in the center, toward the rear…"
+        }
+      ]
+    },
+    {
+      "description": "In the forest. Titans continue stampeding toward the Female Titan’s location. Erwin commands the soldiers.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Erwin",
+          "line": "Ready the explosives, now!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Miche",
+          "line": "Erwin!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Miche",
+          "line": "The first wave will come from the east! They’re almost here!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Erwin",
+          "line": "Cart guard team, intercept!"
+        },
+        {
+          "type": "action",
+          "description": "The cart guard team flies toward the Titans, but the Titans don’t stop and run past them."
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldiers",
+          "line": "Huh?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Abel",
+          "line": "They ignored us? Are they Aberrants?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldier",
+          "line": "Three are breaking through! Lance Corporal Levi!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Levi",
+          "line": "You just did something, didn’t you, bitch?"
+        },
+        {
+          "type": "action",
+          "description": "Levi launches off from the Female Titan’s head."
+        },
+        {
+          "type": "dialogue",
+          "character": "Levi",
+          "line": "Ngh!"
+        },
+        {
+          "type": "action",
+          "description": "Levi cuts down the three Titans. A small Titan latches onto the Female Titan’s leg and begins eating it."
+        },
+        {
+          "type": "dialogue",
+          "character": "Erwin",
+          "line": "Hm? (Thoughts) So they’re after the Female Titan? Ah!"
+        },
+        {
+          "type": "action",
+          "description": "More Titans approach the Female Titan."
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldier",
+          "line": "Titans from all directions!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Erwin",
+          "line": "All men, engage!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Erwin",
+          "line": "Defend the Female Titan, even if it means your lives!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldiers",
+          "line": "Ngh!"
+        },
+        {
+          "type": "action",
+          "description": "The soldiers engage. Many Titans are killed, but there are too many."
+        },
+        {
+          "type": "dialogue",
+          "character": "Levi",
+          "line": "Ngh… Urah!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Hange",
+          "line": "Ahh! It’s no use!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Levi",
+          "line": "Ngh!"
+        },
+        {
+          "type": "action",
+          "description": "Erwin sees the futility of the situation."
+        },
+        {
+          "type": "dialogue",
+          "character": "Erwin",
+          "line": "Retreat, men! Back into formation! Return to Karanes!"
+        },
+        {
+          "type": "action",
+          "description": "The soldiers rest on the trees as the Female Titan is surrounded by other Titans and eaten."
+        },
+        {
+          "type": "dialogue",
+          "character": "Erwin",
+          "line": "We’ve been had."
+        },
+        {
+          "type": "dialogue",
+          "character": "Erwin",
+          "line": "The enemy… was willing to sacrifice everything. I didn’t expect the enemy to destroy itself along with the evidence by making Titans devour itself."
+        },
+        {
+          "type": "dialogue",
+          "character": "Levi",
+          "line": "All our talk at the court martial, and this is what happens. If we return empty-handed, who knows what will happen to Eren or us."
+        },
+        {
+          "type": "dialogue",
+          "character": "Erwin",
+          "line": "We can think about that after we return. Our priority now is getting home without additional casualties. For now… (Thoughts) The steam from the corpse is limiting visibility. It could interfere with our signal flare message relay system."
+        },
+        {
+          "type": "dialogue",
+          "character": "Levi",
+          "line": "I’ll call my team."
+        },
+        {
+          "type": "dialogue",
+          "character": "Erwin",
+          "line": "Wait, Levi. Refill your gas and blades."
+        },
+        {
+          "type": "dialogue",
+          "character": "Levi",
+          "line": "There isn’t time. I think I have plenty. Why?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Erwin",
+          "line": "That’s an order. Follow it."
+        },
+        {
+          "type": "dialogue",
+          "character": "Levi",
+          "line": "Roger, Erwin. I trust your decision."
+        },
+        {
+          "type": "action",
+          "description": "A blue smoke flare is shot into the air. Several more follow. The soldiers in the forest see the flares."
+        },
+        {
+          "type": "dialogue",
+          "character": "Nanaba",
+          "line": "We’re retreating. Everyone, retreat. Get back on your horse and retreat."
+        },
+        {
+          "type": "dialogue",
+          "character": "Christa",
+          "line": "Right!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "What? It’s already over?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Connie",
+          "line": "We can go home! All right!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "(Thoughts) What’s going on? Where’s Eren?"
+        }
+      ]
+    },
+    {
+      "description": "At Levi’s squad’s location. Levi’s squad sees the flare.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Gunther",
+          "line": "Looks like it’s over. Back to the horses! Prepare to retreat!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Oluo",
+          "line": "You heard the man. Let’s go see what the bastard inside looks like."
+        },
+        {
+          "type": "action",
+          "description": "Eren knocks on his gas canister."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Will we really find out who it is?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Petra",
+          "line": "It’s thanks to you."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Ah… I didn’t really do anything."
+        },
+        {
+          "type": "dialogue",
+          "character": "Petra",
+          "line": "You had faith in us. This is the result of your choice to trust us back then. Making the right choice isn’t easy."
+        },
+        {
+          "type": "dialogue",
+          "character": "Oluo",
+          "line": "Hey, don’t spoil him, Petra. What did he do, anyway? He was pathetic. He just kept whining. Well, coming back alive on your first excursion is pretty good. But it doesn't count until the mission’s over. Listen, kiddo, the expedition lasts until you’re at home in bed."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Jeez, I know that!"
+        },
+        {
+          "type": "action",
+          "description": "Oluo walks off."
+        },
+        {
+          "type": "action",
+          "description": "After resupplying, Levi’s squad moves out."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eld",
+          "line": "Oluo! Petra! You guys pissed your pants and cried on your first mission. You’re all grown up now!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Petra",
+          "line": "Gahhh!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Huh?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Petra",
+          "line": "Don’t say that! What if he stops respecting me?!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "(Thoughts) Ah… It’s true?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eld",
+          "line": "That’s the truth. And I didn’t, by the way, Eren."
+        },
+        {
+          "type": "dialogue",
+          "character": "Oluo",
+          "line": "Idiot! I’ve killed more of them than you! More of them than you, idiot!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eld",
+          "line": "Kill count isn’t all that makes a soldier."
+        },
+        {
+          "type": "dialogue",
+          "character": "Oluo",
+          "line": "Shut up, idiot!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Petra! Does that mean you sprayed it everywhere while mid-air?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Gunther",
+          "line": "Shut up! Do you think you’re on a picnic?! We’re outside the walls! I didn’t piss my pants, either, Eren!"
+        },
+        {
+          "type": "action",
+          "description": "A cloaked soldier somewhere in the forest shoots a green smoke flare. Gunther sees it."
+        },
+        {
+          "type": "dialogue",
+          "character": "Gunther",
+          "line": "Ah… Oh, I’m sure that’s the signal from Lance Corporal Levi. We’ll rendezvous with the lance corporal! Cut the chatter until we get back!"
+        }
+      ]
+    },
+    {
+      "description": "Elsewhere in the forest. Erwin, Hange, and the other soldiers ride out of the forest.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Hange",
+          "line": "Erwin, why did you order Levi to resupply? There’s no time to waste."
+        },
+        {
+          "type": "dialogue",
+          "character": "Erwin",
+          "line": "The Female Titan was eaten. But did you see the person inside get eaten? I didn’t."
+        },
+        {
+          "type": "dialogue",
+          "character": "Hange",
+          "line": "Ah… You can’t mean…!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Erwin",
+          "line": "Yes… If your original hypothesis was correct and they can still move to a degree after regaining human form…"
+        },
+        {
+          "type": "dialogue",
+          "character": "Hange",
+          "line": "Ah…!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Erwin",
+          "line": "… and if they equipped 3D Maneuver Gear in advance… the one within the Female Titan is wearing our uniform right now…"
+        }
+      ]
+    },
+    {
+      "description": "Elsewhere in the forest. The cloaked soldier finds Levi’s squad.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Gunther",
+          "line": "Lance Corporal Levi? No… it’s not! Who are you?!"
+        },
+        {
+          "type": "action",
+          "description": "The cloaked soldier cuts down Gunther."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eld",
+          "line": "Hm?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Huh?"
+        },
+        {
+          "type": "action",
+          "description": "Gunther is swung back against a tree."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "G-Gunther! What? Why?! Gunther!"
+        },
+        {
+          "type": "action",
+          "description": "Eren swings down to Gunther."
+        },
+        {
+          "type": "action",
+          "description": "Eren sees that Gunther has been killed."
+        },
+        {
+          "type": "dialogue",
+          "character": "Erwin",
+          "line": "… and is now camouflaged as one of our men."
+        }
+      ]
+    }
+  ]
+}

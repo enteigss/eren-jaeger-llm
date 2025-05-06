@@ -1,0 +1,1035 @@
+{
+  "title": "Attack on Titan S.1 E.23",
+  "episode_info": {
+    "title": "Smile: Assault on Stohess, Part 1"
+  },
+  "scenes": [
+    {
+      "description": "In the past. Annie trains in martial arts with her father.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Father",
+          "line": "Looking good, Annie!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Urgh! Ngh…",
+          "line": "Haah… Ngh!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Father",
+          "line": "That’s my girl! What are you doing, Annie? No breaks!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Annie",
+          "line": "Ngh!"
+        }
+      ]
+    },
+    {
+      "description": "In the present, within Wall Sina. Two men talk to each other.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Man 1",
+          "line": "What? You hadn’t heard? That Titan kid and the main leadership have been summoned to the capital. They’ll be coming through town today."
+        },
+        {
+          "type": "dialogue",
+          "character": "Man 2",
+          "line": "I see. Then I’m sure he’ll end up dissected this time."
+        },
+        {
+          "type": "dialogue",
+          "character": "Man 1",
+          "line": "Either way, I hope things work out and they seal the gate."
+        },
+        {
+          "type": "dialogue",
+          "character": "Wallist",
+          "line": "Did you say seal the gate?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Man 1",
+          "line": "Huh?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Wallist",
+          "line": "You still insist on defiling the gods with human hands?!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Man 1",
+          "line": "Ahh…!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Wallist",
+          "line": "Maria! Rose! Sina! Defiling the three goddesses with human hands is unforgivable!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Man 2",
+          "line": "Those people love the walls and worship them as gods. Stay away from them."
+        },
+        {
+          "type": "dialogue",
+          "character": "Man 3",
+          "line": "Ah… I didn’t realize any of them were still around."
+        },
+        {
+          "type": "dialogue",
+          "character": "Man 1",
+          "line": "Damn it."
+        },
+        {
+          "type": "dialogue",
+          "character": "Wallist",
+          "line": "Only the walls will protect us!"
+        }
+      ]
+    },
+    {
+      "description": "At the Stohess Military Police Headquarters. Annie walks downstairs to join the rest of the Military Police members.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Hitch",
+          "line": "You finally woke up. You look so scary when you sleep, I couldn’t wake you. Sorry, Annie."
+        },
+        {
+          "type": "dialogue",
+          "character": "Marlo",
+          "line": "Lately, you’ve been too lax."
+        },
+        {
+          "type": "dialogue",
+          "character": "Hitch",
+          "line": "What? Are you mad? Are you?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Marlo",
+          "line": "Well, aren’t you a friendly one?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Boris",
+          "line": "Leave her alone. Annie’s from Trost District, and she’s the only one in this HQ who’s been in a fight. She just came back from hell. It’ll take her a while to recover."
+        },
+        {
+          "type": "dialogue",
+          "character": "Hitch",
+          "line": "Oh? I get it… You like her. Haha… What’s so great about her?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Boris",
+          "line": "Haa… Hitch, there’s only one way a moron like you makes it into the Military Police."
+        },
+        {
+          "type": "dialogue",
+          "character": "Hitch",
+          "line": "What’s that? I wouldn’t know. Tell me."
+        },
+        {
+          "type": "dialogue",
+          "character": "Marlo",
+          "line": "Stop it, you two!"
+        },
+        {
+          "type": "action",
+          "description": "Dennis walks past the Military Police members. They salute him."
+        },
+        {
+          "type": "dialogue",
+          "character": "Dennis",
+          "line": "Don’t bother. Today, we have a different task from the normal busywork. That’s why I had all of you come here. It’s about the Survey Corps group that’s being summoned to the capital. They’ll be passing through the city’s main street today. Escorting them is a Military Police HQ job, so we just need to handle them as they come through town. Temporary permission for in-city use of 3D Maneuver Gear has been granted. You will guard them in tandem with their own security. You’ll travel by barge to the area where your mission will begin. That is all."
+        },
+        {
+          "type": "dialogue",
+          "character": "Marlo",
+          "line": "May I ask something?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Dennis",
+          "line": "Hmm? What?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Marlo",
+          "line": "What are we protecting them from?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Dennis",
+          "line": "Huh?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Marlo",
+          "line": "I’ve never heard of anyone within the walls acting against the monarchy. There are minor criminals, but it’s hard to imagine any real organization unless they were based outside the walls, and I can’t imagine any possible motive."
+        },
+        {
+          "type": "dialogue",
+          "character": "Dennis",
+          "line": "Woah! You’re so serious! Okay, you’re in charge of everything."
+        },
+        {
+          "type": "action",
+          "description": "Dennis pushes the report papers into Marlo’s chest."
+        },
+        {
+          "type": "dialogue",
+          "character": "Dennis",
+          "line": "Here are the details."
+        },
+        {
+          "type": "action",
+          "description": "Dennis walks off."
+        },
+        {
+          "type": "dialogue",
+          "character": "Marlo",
+          "line": "Huh?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Dennis",
+          "line": "We ranking officers are busy. You guys, handle this on your own. But don’t screw up. Sorry I held up your game. Let’s get back to it. Whose turn was it?"
+        },
+        {
+          "type": "action",
+          "description": "Dennis leaves to join other Military Police members in a gambling game."
+        }
+      ]
+    },
+    {
+      "description": "Sometime later, in the city. The Military Police members are preparing for their duty.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Marlo",
+          "line": "Damn! He’s just screwing around!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Hitch",
+          "line": "Yeah… This organization is more rotten than I’d imagined. Of course, that’s why I chose it. But when you’re a rookie, they make you do almost everything. I didn’t know that before."
+        },
+        {
+          "type": "dialogue",
+          "character": "Marlo",
+          "line": "Ngh… Scum. Damn scum who can only think of themselves!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Boris",
+          "line": "Huh? What are you talking about, Marlo? Since you chose the MPs, you’re no better."
+        },
+        {
+          "type": "dialogue",
+          "character": "Marlo",
+          "line": "Ngh! I am better. I’m not trash like you. I came here to correct the Military Police!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Hitch",
+          "line": "Oh? Wow, Marlo. I had no idea you were this way."
+        },
+        {
+          "type": "dialogue",
+          "character": "Boris",
+          "line": "And how will you do that?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Marlo",
+          "line": "I’ll have to work my way up. When I’m in charge, I’ll fix the discipline issues and punish those who are corrupt. It’s simple. I’ll make MP a place for normal human beings again. That’s all. The way humans are supposed to be."
+        },
+        {
+          "type": "action",
+          "description": "Hitch falls to her knees, laughing."
+        },
+        {
+          "type": "dialogue",
+          "character": "Hitch",
+          "line": "Hahahaha! Wow, you’re the real deal! And here I thought you were boring! Sorry! Hahahaha…"
+        },
+        {
+          "type": "dialogue",
+          "character": "Boris",
+          "line": "That’s quite a noble goal you’ve got there. Good luck."
+        },
+        {
+          "type": "dialogue",
+          "character": "Annie",
+          "line": "I’m not so sure."
+        },
+        {
+          "type": "dialogue",
+          "character": "Boris",
+          "line": "Huh?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Annie",
+          "line": "If a “good person” like you ends up in control, I think that’d be the end for us."
+        },
+        {
+          "type": "dialogue",
+          "character": "Marlo",
+          "line": "What’s this? You actually have something to say?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Annie",
+          "line": "I think you’re right because you say the right things. I know someone like that. Going against the flow takes a lot of courage. I respect that."
+        },
+        {
+          "type": "dialogue",
+          "character": "Marlo",
+          "line": "Hmph! Maybe it’s just that the other guy you know is an idiot. But I’m not like him. Tsk… We’ve wasted too much time on idle chitchat. Let’s go!"
+        }
+      ]
+    },
+    {
+      "description": "Sometime later. The Military Police members prepare to escort the Survey Corps.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Marlo",
+          "line": "The escort wagons will pass through the outer gate in 45 minutes. When we reach the staging area, everyone should confirm positions. Got it?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Hitch",
+          "line": "Uh-huh."
+        },
+        {
+          "type": "action",
+          "description": "Hitch yawns and bumps into Marlo when he stops. Some Military Police members are loading a crate of equipment onto a Merchant Association boat."
+        },
+        {
+          "type": "dialogue",
+          "character": "Hitch",
+          "line": "Ngh… Hey! Huh? What’s that? That’s our equipment."
+        },
+        {
+          "type": "dialogue",
+          "character": "Boris",
+          "line": "Aren’t they taking it deeper within the walls?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Marlo",
+          "line": "But that doesn’t explain the Merchant Association’s involvement. What’s going on?"
+        },
+        {
+          "type": "action",
+          "description": "A merchant opens a satchel. A Military Police member takes a coin from the satchel."
+        },
+        {
+          "type": "dialogue",
+          "character": "Marlo",
+          "line": "Ah… They’re selling our equipment on the black market?!"
+        },
+        {
+          "type": "action",
+          "description": "Marlo marches toward the Military Police members and merchant."
+        },
+        {
+          "type": "dialogue",
+          "character": "Boris",
+          "line": "Ah… Hey, what about the mission?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Hitch",
+          "line": "Oh, crap… He really is the real deal!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Boris",
+          "line": "Well, for better or worse, we have time. Let’s enjoy the show."
+        },
+        {
+          "type": "action",
+          "description": "The boat leaves."
+        },
+        {
+          "type": "dialogue",
+          "character": "MP Officer",
+          "line": "Okay, let’s go get a drink."
+        },
+        {
+          "type": "action",
+          "description": "The officers turn to Marlo."
+        },
+        {
+          "type": "dialogue",
+          "character": "MP Officers",
+          "line": "Hm? What’s going on, rookie? What do you want?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Marlo",
+          "line": "S-Selling government equipment is a crime."
+        },
+        {
+          "type": "dialogue",
+          "character": "MP Officer",
+          "line": "And?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Marlo",
+          "line": "Huh?"
+        },
+        {
+          "type": "dialogue",
+          "character": "MP Officer",
+          "line": "Hahahaha! So you’re threatening your superiors, rookie? I’m looking forward to your future."
+        },
+        {
+          "type": "dialogue",
+          "character": "Marlo",
+          "line": "Huh?"
+        },
+        {
+          "type": "action",
+          "description": "One of the officers walks up to Marlo and sticks a coin in his pocket."
+        },
+        {
+          "type": "dialogue",
+          "character": "MP Officer",
+          "line": "Go buy yourself a woman and relax a little."
+        },
+        {
+          "type": "action",
+          "description": "The officers walk off."
+        },
+        {
+          "type": "dialogue",
+          "character": "Marlo",
+          "line": "Wha… Wait!"
+        },
+        {
+          "type": "action",
+          "description": "Marlo grabs the shoulder of one of the officers."
+        },
+        {
+          "type": "dialogue",
+          "character": "Marlo",
+          "line": "Selling government equipment… Gah!"
+        },
+        {
+          "type": "action",
+          "description": "The officer hits Marlo in the stomach with the butt of his rifle. He hits him over the head as well."
+        },
+        {
+          "type": "dialogue",
+          "character": "MP Officer",
+          "line": "Ngh!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Marlo",
+          "line": "Urgh!"
+        },
+        {
+          "type": "action",
+          "description": "Marlo falls to his knees."
+        },
+        {
+          "type": "action",
+          "description": "The officer kicks Marlo and continues to beat him."
+        },
+        {
+          "type": "dialogue",
+          "character": "MP Officer",
+          "line": "Ngh!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Marlo",
+          "line": "Urgh!"
+        },
+        {
+          "type": "action",
+          "description": "The Military Police soldiers watch the officer beat Marlo. Annie walks forward."
+        },
+        {
+          "type": "action",
+          "description": "The officer kicks Marlo one more time. Marlo falls to his side."
+        },
+        {
+          "type": "dialogue",
+          "character": "MP Officer",
+          "line": "Ngh!"
+        },
+        {
+          "type": "dialogue",
+          "character": "MP Officer",
+          "line": "We’ll arrest you for opposing a superior officer."
+        },
+        {
+          "type": "dialogue",
+          "character": "MP Officer",
+          "line": "And no one will care."
+        },
+        {
+          "type": "dialogue",
+          "character": "MP Officer",
+          "line": "Not here!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Marlo",
+          "line": "Ngh…!"
+        },
+        {
+          "type": "action",
+          "description": "The officer prepares to hit Marlo with the butt of his gun again, but Annie stops him."
+        },
+        {
+          "type": "dialogue",
+          "character": "Annie",
+          "line": "Could you let him go with that?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Hitch",
+          "line": "Oh, I’m sorry… It seems our idiot is causing problems for you."
+        },
+        {
+          "type": "dialogue",
+          "character": "Hitch",
+          "line": "We’ll teach him a harsh lesson."
+        },
+        {
+          "type": "dialogue",
+          "character": "Hitch",
+          "line": "Or… would you prefer to make a bigger scene?"
+        },
+        {
+          "type": "action",
+          "description": "The officers notice the growing crowd of townspeople watching them with disdain."
+        },
+        {
+          "type": "dialogue",
+          "character": "MP Officer",
+          "line": "Mm… This is the last time."
+        },
+        {
+          "type": "dialogue",
+          "character": "MPs",
+          "line": "Yes, sir!"
+        },
+        {
+          "type": "action",
+          "description": "The two officers walk off."
+        },
+        {
+          "type": "dialogue",
+          "character": "MP Officers",
+          "line": "All right, let’s get that drink. Yeah, it’s been a hard day’s work."
+        },
+        {
+          "type": "action",
+          "description": "Marlo reaches for his rifle."
+        },
+        {
+          "type": "dialogue",
+          "character": "Annie",
+          "line": "So do it."
+        },
+        {
+          "type": "dialogue",
+          "character": "Marlo",
+          "line": "Ah!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Annie",
+          "line": "Aren’t you going to punish the corrupt? If you want, I’ll help you."
+        },
+        {
+          "type": "action",
+          "description": "The Military Police officers continue to walk away."
+        },
+        {
+          "type": "dialogue",
+          "character": "Marlo",
+          "line": "Grr… Damn it!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Man",
+          "line": "We know you’re doing your best, missy."
+        },
+        {
+          "type": "dialogue",
+          "character": "Marlo",
+          "line": "That idiot you know… The one you talked about… Would he have done it?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Annie",
+          "line": "Maybe."
+        },
+        {
+          "type": "dialogue",
+          "character": "Ah… Ngh…",
+          "line": "Then I’m one of those pieces of trash you were talking about, the ones who just go with the flow, right?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Annie",
+          "line": "I don’t know. But isn’t that what normal human beings do, too?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Annie",
+          "line": "I just want the weak who do get swept along with the flow to be considered human, too."
+        }
+      ]
+    },
+    {
+      "description": "At the gates of Stohess. The Military Police begin their assignment of escorting the Survey Corps members. Annie moves to follow the carts.",
+      "dialogue": [
+        {
+          "type": "action",
+          "description": "Annie stops. When the other Military Police members leave, she turns and runs down an alleyway to find Armin."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Hey. You’re one of the Military Police now, aren’t you?"
+        }
+      ]
+    },
+    {
+      "description": "In Stohess, in an alleyway. Armin meets with Annie.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Annie",
+          "line": "Why are you dressed like that?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "I’m a pack bearer. I have my 3D Maneuver Gear hidden under my raincoat. Look."
+        },
+        {
+          "type": "action",
+          "description": "Armin shows Annie his gear."
+        },
+        {
+          "type": "dialogue",
+          "character": "Annie",
+          "line": "What’s going on?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Annie, would you assist me in helping Eren escape?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Annie",
+          "line": "Escape where? If you disobey the monarchy, where will you go inside these walls?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "We’ll just hide for a while. I don’t intend to fight the monarchy head-on. It will be reported as a rebellion by a portion of the Survey Corps. It’ll buy time, time we’ll spend finding enough ammunition to counter the other factions at the tribunal. And we will find it."
+        },
+        {
+          "type": "dialogue",
+          "character": "Annie",
+          "line": "Enough ammunition? Is something so convenient just lying around? What’s your evidence?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Ngh… I’m sorry, but I can’t say."
+        },
+        {
+          "type": "dialogue",
+          "character": "Annie",
+          "line": "Haa… Sorry, but I can’t help you. I won’t tell anyone, but you’ll have to do it on your own."
+        },
+        {
+          "type": "action",
+          "description": "Annie turns and walks away."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Annie! Please! Eren will be killed!"
+        },
+        {
+          "type": "action",
+          "description": "Annie stops."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Clueless people who only care about saving their own skin will unwittingly set humanity on a path toward self-destruction! I know I can’t convince you. But even so… I have to make a big wager! Of course, I’ll do my best to avoid causing you trouble. But to get through the checkpoints in Wall Sina, I need Military Police help! This is the only way!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Annie",
+          "line": "Armin… Do I really look like such a good person to you?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "A good person? Well… I don’t really like that term. Because to me, it just seems to mean someone who’s good for you. And I don’t think there’s any one person who’s good for everyone. So if you don’t help me… then, to me, you’re a bad person, right?"
+        },
+        {
+          "type": "action",
+          "description": "Annie takes her rifle off her shoulder."
+        },
+        {
+          "type": "dialogue",
+          "character": "Annie",
+          "line": "Fine."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Ah!"
+        },
+        {
+          "type": "action",
+          "description": "Armin looks away. Annie slips a silver ring on her finger."
+        },
+        {
+          "type": "dialogue",
+          "character": "Annie",
+          "line": "I’m in."
+        }
+      ]
+    },
+    {
+      "description": "Sometime later, in the streets of Stohess. Eren, Mikasa, Armin, and Annie are walking together.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "That was easier than I thought it’d be."
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "Shh!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "That’s the Military Police for you. You can see how hard they work every day."
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "Stop staring."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Let’s just hope they won’t find out that Jean’s taken my place. That won’t last long, though. We don’t look alike at all."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "It’s fine. Both of you look like criminals with the same nasty look in your eyes."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "I don’t have a horse face like him."
+        },
+        {
+          "type": "dialogue",
+          "character": "Annie",
+          "line": "Hey, if I hadn’t helped you, how did you plan to get over the wall?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "I was going to use the 3D Maneuver Gear to get through."
+        },
+        {
+          "type": "dialogue",
+          "character": "Annie",
+          "line": "That’s insane. Wouldn’t it have been easier to escape before you reached Stohess? Why here? And why now?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "I felt that the complicated layout of this city would give us a better chance of swapping Eren with Jean. And I thought pretending to go along with it, rather than an outright opposition, would prevent suspicion and buy our escape more time."
+        },
+        {
+          "type": "dialogue",
+          "character": "Annie",
+          "line": "I see. I get it now."
+        },
+        {
+          "type": "action",
+          "description": "Eren and Mikasa exchange glances."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Ah… There!"
+        },
+        {
+          "type": "action",
+          "description": "Armin runs off to a passage leading to an underground tunnel. Eren, Mikasa, and Annie follow."
+        },
+        {
+          "type": "dialogue",
+          "character": "Annie",
+          "line": "Ah… Here?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Yeah, we go through here. The remains of an underground city they planned and abandoned are still down here."
+        },
+        {
+          "type": "action",
+          "description": "Armin goes down the steps. Eren and Mikasa follow. Annie does not."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "This takes us close to the outer gate."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Really? Wow."
+        },
+        {
+          "type": "action",
+          "description": "Eren turns back toward the top of the stairs."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Ah… Annie? What’s wrong? Don’t tell me you’re afraid of dark, cramped places."
+        },
+        {
+          "type": "dialogue",
+          "character": "Annie",
+          "line": "Yes, I am. I’m sure that a brave, suicidal bastard like you wouldn’t understand how a weak girl like me feels."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "A girl who can spin a man around in mid-air isn’t weak. Stop being an idiot. Hurry up!"
+        },
+        {
+          "type": "action",
+          "description": "Eren, Armin, and Mikasa continue further down."
+        },
+        {
+          "type": "dialogue",
+          "character": "Annie",
+          "line": "No, I won’t go that way."
+        },
+        {
+          "type": "dialogue",
+          "character": "Annie",
+          "line": "It scares me. If we aren’t going above ground, I won’t help."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "What are you saying?! Get down here! Stop screwing around!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "Eren, don’t shout."
+        },
+        {
+          "type": "dialogue",
+          "character": "Annie",
+          "line": "It’s not a problem, is it, Mikasa?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Annie",
+          "line": "For some reason, there hasn’t been anyone nearby for a while."
+        },
+        {
+          "type": "action",
+          "description": "Survey Corps members lie in wait around the area."
+        },
+        {
+          "type": "dialogue",
+          "character": "Annie",
+          "line": "Jeez. I’m hurt. When did you start looking at me that way, Armin?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Annie, why? Why did you have Marco’s 3D Maneuver Gear?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "I remember even the tiniest marks and dings because we’d repaired them together. That’s why I recognized them."
+        },
+        {
+          "type": "dialogue",
+          "character": "Annie",
+          "line": "I see… Well, I happened to find it."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Ngh… Then you killed the two Titans we captured?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Annie",
+          "line": "Who knows… But if you thought that a month ago, why didn’t you act then?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Because I still can’t believe it! I wanted to think that my eyes had deceived me, and because of that… But… what about you? You didn’t kill me back then. And that’s why this is happening now."
+        },
+        {
+          "type": "dialogue",
+          "character": "Annie",
+          "line": "Yeah, I think so, too. I never expected you to push me this far. Why didn’t I kill you back then?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Hey, Annie! There’s still a chance you’re an idiot who’s just going along with this because you have a shitty sense of humor! So get down here now! Ngh… You can prove something just by going underground! Get down here and prove it!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Annie",
+          "line": "I can’t. I have failed to become a warrior."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "I said this isn’t funny!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "That’s enough. I can’t listen to any more of this."
+        },
+        {
+          "type": "action",
+          "description": "Mikasa takes off her cloak and draws a blade."
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "It’s pointless. I’ll tear you apart again, Female Titan!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Annie",
+          "line": "Fufufu… Hahahaha! Hahahaha!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Hahaha! Hahahaha! Fufufu…",
+          "line": "Armin, I’m glad I could be a good person to you. You’ve won your bet. But… this is where my bet begins!"
+        },
+        {
+          "type": "action",
+          "description": "Annie prepares to bite her finger."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Ah… Ngh!"
+        },
+        {
+          "type": "action",
+          "description": "Armin fires a shot from the flare gun. Survey Corps members swarm the area and grab Annie."
+        },
+        {
+          "type": "dialogue",
+          "character": "Urgh…",
+          "line": "Urahh!"
+        },
+        {
+          "type": "action",
+          "description": "One of the soldiers gags Annie’s mouth."
+        },
+        {
+          "type": "action",
+          "description": "Eren moves to run up the steps, but Mikasa stops him."
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "Eren!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Annie",
+          "line": "Ngh…!"
+        },
+        {
+          "type": "action",
+          "description": "A spike comes out of Annie’s ring."
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "Ah…!"
+        },
+        {
+          "type": "action",
+          "description": "Mikasa grabs Eren’s and Armin’s cloaks and pulls them deeper into the tunnel."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren, Armin",
+          "line": "Ah!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Mikasa!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "We were too late!"
+        },
+        {
+          "type": "action",
+          "description": "Annie slices her finger on her ring. An explosion occurs as she transforms into the Female Titan."
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldiers",
+          "line": "Ahhh!!"
+        }
+      ]
+    }
+  ]
+}

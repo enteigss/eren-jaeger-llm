@@ -1,0 +1,1074 @@
+{
+  "title": "Attack on Titan S.1 E.03",
+  "episode_info": {
+    "title": "A Dim Light Amid Despair: Humanity's Comeback, Part 1"
+  },
+  "scenes": [
+    {
+      "description": "At the training field, during the day.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Shadis",
+          "line": "You there!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Yes, sir!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Shadis",
+          "line": "Who are you?!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Armin Arlert, from Shiganshina!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Shadis",
+          "line": "Yeah? That’s a stupid name. Your parents give you that?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "My grandfather did!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Shadis",
+          "line": "Arlert, what are you doing here?!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Trying to aid in humanity’s victory!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Shadis",
+          "line": "That is indeed wonderful… Then you will feed the Titans! Row 3, about face! Who are you?!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Thomas",
+          "line": "Thomas Wagner, from Trost."
+        },
+        {
+          "type": "dialogue",
+          "character": "Shadis",
+          "line": "I can’t hear you!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Shadis",
+          "line": "Too soft! Go practice in the cattle shed! You, next!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Mina",
+          "line": "Mina Karolina, from Karanes!"
+        },
+        {
+          "type": "action",
+          "description": "Two soldiers walk by while watching the Entrance Ceremony."
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldier 1",
+          "line": "There he goes… When you were a trainee, your first day was just the same."
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldier 2",
+          "line": "It brings back memories."
+        },
+        {
+          "type": "dialogue",
+          "character": "Shadis",
+          "line": "Wrong! You are from the pig shed, worth less than cattle!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Mina",
+          "line": "Yes, sir! I am less than cattle!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldier 2",
+          "line": "What’s the point of screaming at them?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Mina",
+          "line": "Yes, sir!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Shadis",
+          "line": "You, next!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Samuel",
+          "line": "Yes, sir! Samuel Linke-Jackson, from Snate Village!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldier 1",
+          "line": "It’s a right of passage. We force them to abandon who they are."
+        },
+        {
+          "type": "dialogue",
+          "character": "Shadis",
+          "line": "A horrible name! Change it now! What are you doing here?!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldier 1",
+          "line": "Then, we raise them from nothing as pure soldiers. It is a necessary process."
+        },
+        {
+          "type": "dialogue",
+          "character": "Samuel",
+          "line": "Sacrificing myself for humanity!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Shadis",
+          "line": "Row 4, about face!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldier 2",
+          "line": "It seems not all of them are being subjected to that process."
+        },
+        {
+          "type": "dialogue",
+          "character": "Shadis",
+          "line": "Listen up! I’ve seen a lot of shit in my time, but you are the sorriest pieces of shit I’ve ever seen!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldier 1",
+          "line": "There is no need for those who have already undergone the right of passage. If I were to guess, they probably lived through hell two years ago. You can see it in their eyes. Well, let’s go."
+        },
+        {
+          "type": "dialogue",
+          "character": "Shadis",
+          "line": "Who are you?!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "Jean Kirschstein, from Trost!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Shadis",
+          "line": "What are you doing here?!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "Joining the Military Police for a life deep within the walls."
+        },
+        {
+          "type": "dialogue",
+          "character": "Shadis",
+          "line": "Oh, I see… you want access to the Interior?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "Yes!"
+        },
+        {
+          "type": "action",
+          "description": "Shadis headbutts Jean, and Jean falls to the ground."
+        },
+        {
+          "type": "dialogue",
+          "character": "Shadis",
+          "line": "Who said you could sit down?! Anyone who can’t handle this will never make it into the Military Police! Who are you?! What are you doing here?!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Marco",
+          "line": "Marco Bott, Jinae City, Wall Rose South District! I want to join the Military Police to offer the King my body and self in service!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Really… I’m glad to hear that. Good luck. However…",
+          "line": "The King doesn’t want your body. Next, you! Who are you?!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Connie",
+          "line": "Connie Springer, of Ragako Villages, Wall Rose South District!"
+        },
+        {
+          "type": "action",
+          "description": "Shadis grabs Connie and squeezes his head."
+        },
+        {
+          "type": "dialogue",
+          "character": "Shadis",
+          "line": "I explained that this salute demonstrates your resolve to devote your entire heart to the people… Is your heart on your right side?!"
+        },
+        {
+          "type": "action",
+          "description": "Sasha eats a potato."
+        },
+        {
+          "type": "dialogue",
+          "character": "Shadis",
+          "line": "Hey, you…  What are you doing?"
+        },
+        {
+          "type": "action",
+          "description": "Sasha doesn’t answer and continues eating the potato."
+        },
+        {
+          "type": "dialogue",
+          "character": "Shadis",
+          "line": "You’re the one I’m talking to! You! Who are you?!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Sasha",
+          "line": "Sasha Blause, from Dauper Village, Wall Rose South District!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Shadis",
+          "line": "Sasha Blause, what are you holding in your right hand?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Sasha",
+          "line": "A boiled potato! The kitchen had a fresh batch, and I couldn’t resist."
+        },
+        {
+          "type": "dialogue",
+          "character": "Shadis",
+          "line": "Did you steal it? Why? Why would you choose to eat a potato now?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Sasha",
+          "line": "Letting it get cold would’ve been a waste, so I decided I should eat it now."
+        },
+        {
+          "type": "dialogue",
+          "character": "Shadis",
+          "line": "Well, I still don’t understand… Why would you eat that potato?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Sasha",
+          "line": "Are you asking me why people eat potatoes?"
+        },
+        {
+          "type": "action",
+          "description": "Sasha offers half the potato."
+        },
+        {
+          "type": "dialogue",
+          "character": "Shadis",
+          "line": "Half..."
+        }
+      ]
+    },
+    {
+      "description": "At noon at the training compound.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Connie",
+          "line": "He’s still making that potato girl run."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Wow, five straight hours? But she seemed more distraught when told she wouldn’t get dinner than when told she must run until she dropped.."
+        },
+        {
+          "type": "dialogue",
+          "character": "Connie",
+          "line": "If I remember correctly, Dauper Village is a tiny hunting village, deep in the mountains."
+        },
+        {
+          "type": "action",
+          "description": "A wagon carrying people goes past."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "What’s that?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Mina",
+          "line": "The dropouts. They requested a transfer to the frontier."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "What? But it’s only the first day!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "It was only a matter of time… If you aren’t strong enough, you have to leave. Hard to believe they’d rather go back to weeding and picking up rocks."
+        },
+        {
+          "type": "dialogue",
+          "character": "Marko",
+          "line": "Hey, he didn’t ask where you were from, did he?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Shiganshina, the same as him."
+        },
+        {
+          "type": "dialogue",
+          "character": "Connie",
+          "line": "Then, weren’t you there that day?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Marko",
+          "line": "Hey!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Connie",
+          "line": "Did you see the Colossal Titan?"
+        }
+      ]
+    },
+    {
+      "description": "At night in the cafeteria.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "I already told you I saw it."
+        },
+        {
+          "type": "dialogue",
+          "character": "Thomas",
+          "line": "Really?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Samuel",
+          "line": "How big was it?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Big enough to look over the walls."
+        },
+        {
+          "type": "dialogue",
+          "character": "Samuel",
+          "line": "What?! I heard it stepped right over them!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Hannah",
+          "line": "Me, too!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Franz",
+          "line": "That’s what they said in my village!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "No, it wasn’t that tall."
+        },
+        {
+          "type": "dialogue",
+          "character": "Mina",
+          "line": "What did it look like?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "It barely had any skin, but it had a huge mouth."
+        },
+        {
+          "type": "dialogue",
+          "character": "Boy",
+          "line": "What about the Armored Titan that broke Wall Maria?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "They call it that, but it looked like a normal Titan to me."
+        },
+        {
+          "type": "dialogue",
+          "character": "Samuel",
+          "line": "Th-then what’s a normal Titan like?"
+        },
+        {
+          "type": "action",
+          "description": "Eren looks like he’s going to throw up."
+        },
+        {
+          "type": "dialogue",
+          "character": "Marko",
+          "line": "Guys, let’s stop with the questions. I’m sure he’d prefer to forget some things."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Don’t be! The Titans aren’t all that tough... If we can master the 3-D Maneuver Gear, they won’t stand a chance! Finally, I’m able to train as a soldier… I was just so excited, I forgot myself for a second! I’m joining the Survey Corps, so I can wipe the Titans off the face of this earth! I’ll kill them all --"
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "Hey, are you nuts? Did you just say you want to join the Survey Corps?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Yeah, I did. And you said you wanted to join the Military Police to take it easy, right?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "I’m no liar... I’m a straight talker, unlike someone who pretends to have balls of steel, even when he’s about to piss himself."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Are you talking about me?"
+        },
+        {
+          "type": "action",
+          "description": "Eren makes a move to punch Jean."
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "Hey, I didn’t... Well, I’m sorry. I didn’t want to say you’re doing the wrong thing. Peace?"
+        },
+        {
+          "type": "action",
+          "description": "Jean holds out his hand to Eren."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Yeah.  I’m sorry, too."
+        },
+        {
+          "type": "action",
+          "description": "Eren whacks Jean’s hand away and walks out. Mikasa moves to follow."
+        },
+        {
+          "type": "action",
+          "description": "Mikasa turns to Jean."
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "W-w-well, uh... It’s just that you look different from the rest of us. I’m s-sorry… Your hair is very pretty..."
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "Thanks."
+        },
+        {
+          "type": "action",
+          "description": "Mikasa leaves and catches up to Eren walking away."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "I’m fine, leave me alone."
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "You’re always so impulsive when you’re riled up."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "This again? Anyway, isn’t your hair a little long? It could cause an accident when you’re practicing with the Maneuver Gear."
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "Very well. I’ll cut it. But how short should it be?"
+        },
+        {
+          "type": "action",
+          "description": "Jean wipes his hand on Connie’s shirt as he watches Mikasa and Eren."
+        },
+        {
+          "type": "dialogue",
+          "character": "Connie",
+          "line": "H-hey! That’s my shirt! What did you wipe on my shirt?!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "My trust."
+        }
+      ]
+    },
+    {
+      "description": "Outside the sleep quarters at night. Krista is carrying bread. Sasha has just finished running.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Sasha",
+          "line": "I’m finally finished..."
+        },
+        {
+          "type": "action",
+          "description": "Sasha sniffs the air and nabs the bread from Krista."
+        },
+        {
+          "type": "dialogue",
+          "character": "Sasha",
+          "line": "This is… bread!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Krista",
+          "line": "That’s all I could get, but I saved it for you... But you should drink some water first."
+        },
+        {
+          "type": "dialogue",
+          "character": "Sasha",
+          "line": "Are you a god?!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Sasha",
+          "line": "God!"
+        },
+        {
+          "type": "action",
+          "description": "Sasha is running like a crazy person."
+        },
+        {
+          "type": "dialogue",
+          "character": "Ymir",
+          "line": "Hey, what are you two doing?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Krista",
+          "line": "Um, she spent the whole day running…!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Ymir",
+          "line": "So you’re trying to do a good deed? Did you do that for the potato girl? Was the effort worth what you got out of it? Well, it doesn’t matter… Anyway, I’m carrying her to bed."
+        },
+        {
+          "type": "action",
+          "description": "Ymir picks up Sasha."
+        },
+        {
+          "type": "dialogue",
+          "character": "Krista",
+          "line": "Are you doing a good deed, too?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Ymir",
+          "line": "I’m doing her a favor so she’ll owe me. I’m looking forward to a lot of fun from this idiot."
+        }
+      ]
+    },
+    {
+      "description": "At the training compound the next day.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Shadis",
+          "line": "First, we’ll evaluate what you have! Anyone unable to do this can’t even serve as a decoy! They will be sent to the frontier!"
+        }
+      ]
+    },
+    {
+      "description": "Soldiers walking while watching the Training.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Soldier 1",
+          "line": "These involve only the rudimentary basics, but even at this stage, you can see their potential with the Maneuver Gear."
+        },
+        {
+          "type": "action",
+          "description": "The soldiers watch Mikasa."
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldier 1",
+          "line": "Look. She’s steady as a rock. She knows exactly what to do. That’s what I mean by potential. Looks like we have a lot of talent this year."
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldier 2",
+          "line": "Um, what about him?"
+        },
+        {
+          "type": "action",
+          "description": "The soldiers look at Eren, who is upside down in the setup."
+        },
+        {
+          "type": "dialogue",
+          "character": "Soldier 1",
+          "line": "That’s exactly my point. You may have the will, but not necessarily the talent."
+        }
+      ]
+    },
+    {
+      "description": "At the training compound.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Shadis",
+          "line": "What are you doing, Eren Jaeger?! Pick yourself up!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "(Thoughts) What is this…? How am I supposed to do this?! This can’t be happening…"
+        }
+      ]
+    },
+    {
+      "description": "Eren, Mikasa, and Armin are practicing together after training.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "Stick to the basics and you should be fine. Don’t worry about doing well. Watch the balance and stay centered. Slowly rest your weight on the belts attached to your hips and feet."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Stay calm, and you can do it. I was able to."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Okay, I think I can do it this time! Raise me, Armin!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Okay."
+        },
+        {
+          "type": "action",
+          "description": "Armin raises Eren in the setup, but Eren falls flat on his face."
+        }
+      ]
+    },
+    {
+      "description": "In the cafeteria at night.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Franz",
+          "line": "Hey, Daz. Isn’t that the kid from yesterday who said he’d kill all the Titans?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Daz",
+          "line": "Well, I bet he’ll be off to the frontier tomorrow. We don’t have enough food to feed worthless rejects."
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "Eren?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "There’s no point in worrying. You just have to figure it out tomorrow."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "I’m pathetic… I’ll never be able to kill them all like this."
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "You should let that idea go."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "What?!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "You should give up on being a soldier. There are other ways to fight than by throwing away your life."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Listen here... I saw what happened that day! You really think you’ll convince me this way?!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "But it doesn’t matter how much you want it."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "What?!  Why not?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "It isn’t your decision whether you end up a soldier or not, Eren. I’m not saying you should return to the frontier alone."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Let’s go, Armin."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "S-sure."
+        },
+        {
+          "type": "action",
+          "description": "Eren and Armin walk away from the table without Mikasa noticing."
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "Don’t worry… I will go with you."
+        },
+        {
+          "type": "action",
+          "description": "Mikasa notices that Eren and Armin are gone. Sasha is staring at her."
+        },
+        {
+          "type": "dialogue",
+          "character": "Sasha",
+          "line": "Um, anyway… So, can I take that?"
+        }
+      ]
+    },
+    {
+      "description": "Inside Connie’s and Jean’s room at night.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Connie",
+          "line": "The trick to staying upright? Sorry, but I’m a genius. All I can say is to feel it."
+        },
+        {
+          "type": "dialogue",
+          "character": "Jean",
+          "line": "Actually, I’d like you to tell me... How are you still sane, after you humiliated yourself like that?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Guys, I’m begging you here…!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Connie",
+          "line": "But didn’t you say just yesterday something like, “People who aren’t strong enough should leave”? Am I wrong? Or was it, “If you don’t have the talent, you have to leave”?  Which was it?"
+        }
+      ]
+    },
+    {
+      "description": "At Reiner’s and Bertolt’s room at night.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Please! I’ve heard you two are really good! Bertolt… Reiner!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Reiner",
+          "line": "Sorry, but I just can’t imagine any trick to just hanging there. I don’t think I can give you the advice you’re looking for."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Okay..."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "We’ll just have to hope for the best tomorrow."
+        },
+        {
+          "type": "dialogue",
+          "character": "Bertolt",
+          "line": "You two are from Shiganshina, aren’t you?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Yes…  Why?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Bertolt",
+          "line": "Then you should know how terrifying the Titans are. Why did you decide to be soldiers?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "I’m not like Eren. I didn’t see them at close range. But when I thought about how the government forced people into that insane plan to retake Titan territory, I had to do something."
+        },
+        {
+          "type": "dialogue",
+          "character": "Bertolt",
+          "line": "I see."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "Where are you two from?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Bertolt",
+          "line": "Reiner and I come from a small village in the mountains of southeast Wall Maria."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "But… that means..."
+        },
+        {
+          "type": "dialogue",
+          "character": "Bertolt",
+          "line": "Yeah. It isn’t like the big towns by the rivers… The news was slow to reach us. In fact, the Titans reached us first. It was dawn. The animals were unusually restless, and we heard a rumbling we’d never heard before. Eventually, as it got louder, we realized it was the sound of footsteps. And when I rushed to open the window... Beyond that… I don’t really remember. Everyone was in a panic."
+        },
+        {
+          "type": "dialogue",
+          "character": "Reiner",
+          "line": "Hey… why are you discussing this now?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Bertolt",
+          "line": "I’m sorry…  What I mean to say is this... You aren’t like the others."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "The others?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Bertolt",
+          "line": "Those here who don’t understand how terrifying the Titans really are."
+        },
+        {
+          "type": "dialogue",
+          "character": "Reiner",
+          "line": "Enough."
+        },
+        {
+          "type": "dialogue",
+          "character": "Bertolt",
+          "line": "The vast majority are here because they don’t want to lose face. Told they’d be admitting they were cowards if they chose to be workers, after turning twelve, they became trainees. But we’re not really so different. We chose this hoping to join the Military Police because they’re safe, deep within the Interior. If that doesn’t work, we may just give it all up. I don’t have any will of my own..."
+        },
+        {
+          "type": "dialogue",
+          "character": "Armin",
+          "line": "There’s nothing wrong with valuing your own life."
+        },
+        {
+          "type": "dialogue",
+          "character": "Reiner",
+          "line": "I just want to return to the homeland I lost. That’s all I have left to go on. I’m going back, no matter what."
+        },
+        {
+          "type": "dialogue",
+          "character": "Bertolt",
+          "line": "You…  Why did you become a soldier?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "I… I decided I had to kill them. I had to kill all the Titans myself... That was what I decided."
+        },
+        {
+          "type": "dialogue",
+          "character": "Reiner",
+          "line": "So even after seeing the Titans, you didn’t surrender to despair?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "No… Though I don’t know if I can even become a soldier now."
+        },
+        {
+          "type": "dialogue",
+          "character": "Reiner",
+          "line": "Review and recheck everything, starting with your belt. Tomorrow will go fine. You can do it. Eren Jaeger, was it?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Yeah, thank you.Reiner Braun, right?"
+        }
+      ]
+    },
+    {
+      "description": "At the training grounds the next day.",
+      "dialogue": [
+        {
+          "type": "dialogue",
+          "character": "Shadis",
+          "line": "Eren Jaeger, are you ready?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Yes! (Thoughts) I’ll do this…  I can do this! I may not have talent, but I have more guts than anyone."
+        },
+        {
+          "type": "dialogue",
+          "character": "Shadis",
+          "line": "Begin!"
+        },
+        {
+          "type": "action",
+          "description": "Eren begins to be raised in the setup."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "(Thoughts) I don’t know the theory… I don’t have any evidence… But this is all I’ve got! This is… this is my weapon!"
+        },
+        {
+          "type": "action",
+          "description": "Eren successfully stays balanced in the setup."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "(Thoughts) I did it!"
+        },
+        {
+          "type": "action",
+          "description": "Eren begins to waver in the setup."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "(Thoughts) N-not yet… I’m not giving up yet!"
+        },
+        {
+          "type": "action",
+          "description": "Eren falls flat on his face."
+        },
+        {
+          "type": "dialogue",
+          "character": "Shadis",
+          "line": "Put him down."
+        },
+        {
+          "type": "action",
+          "description": "Eren is put down on the ground."
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "I… I…!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Shadis",
+          "line": "Wagner, change belts with Jaeger."
+        },
+        {
+          "type": "dialogue",
+          "character": "Thomas",
+          "line": "Y-yes, sir!"
+        },
+        {
+          "type": "action",
+          "description": "Thomas and Eren switch belts. Eren is raised in the setup again and is in balance."
+        },
+        {
+          "type": "dialogue",
+          "character": "Shadis",
+          "line": "Your equipment was defective. The fitting on your belt was damaged. I’ve never heard of this part getting damaged. I’ll have to add it to the maintenance checklist."
+        },
+        {
+          "type": "dialogue",
+          "character": "Samuel",
+          "line": "So, he managed to stay upright for a bit, even with a broken belt?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Franz",
+          "line": "Wow…!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "Th-then… did I pass?"
+        },
+        {
+          "type": "dialogue",
+          "character": "Shadis",
+          "line": "You’re fine. Commence training!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Eren",
+          "line": "(Thoughts) I did it! I really did it! Did you see that, Mikasa?! I can do this! I can fight the Titans! I don’t need you taking care of me anymore!"
+        },
+        {
+          "type": "dialogue",
+          "character": "Reiner",
+          "line": "I guess it all worked out."
+        },
+        {
+          "type": "dialogue",
+          "character": "Mikasa",
+          "line": "No… He’s relieved because he thinks we won’t have to be separated now."
+        },
+        {
+          "type": "action",
+          "description": "Reiner and Armin look at Mikasa in disbelief."
+        },
+        {
+          "type": "dialogue",
+          "character": "Shadis",
+          "line": "Grisha… today, your son… became a soldier."
+        }
+      ]
+    }
+  ]
+}

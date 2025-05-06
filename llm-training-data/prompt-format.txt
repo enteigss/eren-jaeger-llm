@@ -1,0 +1,24 @@
+Context for the task: 
+
+Here is the memory that is in Eren Jaeger's head: 
+N/A
+
+Past Context: 
+N/A
+
+Current Location: [Location]
+
+Current Context: 
+[Context]
+
+[Character1] and [Character2] and [Any other characters] are chatting. Here is their conversation so far: 
+[Current conversation]
+
+---
+Task: Given the above, what should Eren Jaeger say next in the conversation? And did it end the conversation?
+
+Output format: Output a json of the following format: 
+{
+"Eren Jaeger's utterance": "<Eren Jaeger's utterance>",
+"Did the conversation end with Eren Jaeger's utterance?": "<json Boolean>"
+}
