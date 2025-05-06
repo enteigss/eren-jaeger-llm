@@ -297,7 +297,7 @@ def process_episode(json_file):
         print(f"Could not extract episode number from {episode['title']}")
         return
     
-    skip_episode_nums = ['01', '02', '03', '04', '05', '06', '07', '09', '10', '11']
+    skip_episode_nums = ['12', '13', '14', '15', '16', '17', '18', '19', '20', '21', '22', '23', '24', '25']
     if episode_num in skip_episode_nums:
         return
     
@@ -306,7 +306,7 @@ def process_episode(json_file):
         # Find Eren's lines in this scene
         eren_lines = []
         current_line_start = 0
-        scene_info = get_scene_context_llm(scene, episode_num)
+        # scene_info = get_scene_context_llm(scene, episode_num)
         
         # Go through dialogue to find Eren's lines
         for i, entry in enumerate(scene["dialogue"]):
@@ -318,15 +318,25 @@ def process_episode(json_file):
         
         # Generate prompt files for each of Eren's unique dialogue segments
         for line_num, (i, line) in enumerate(eren_lines, 1):
-            generate_prompt_file_v2(
-                episode_num,
-                scene_num,
-                line_num,
-                scene["description"],
-                scene["dialogue"][:i],  # Only include dialogue up to this line not including it
-                line,
-                scene_info
-            )
+            # generate_prompt_file_v2(
+            #     episode_num,
+            #     scene_num,
+            #     line_num,
+            #     scene["description"],
+            #     scene["dialogue"][:i],  # Only include dialogue up to this line not including it
+            #     line,
+            #    scene_info
+            # )
+            # generate completion file
+            base_dir = "completions"
+            episode_dir = os.path.join(base_dir, f"episode_{episode_num}")
+            scene_dir = os.path.join(episode_dir, f"scene_{scene_num:02d}")  # Zero-pad scene number
+            os.makedirs(scene_dir, exist_ok=True)
+    
+            # Write prompt file
+            completion_file = os.path.join(scene_dir, f"line_{line_num:02d}.txt")  # Zero-pad line number
+            with open(completion_file, 'w', encoding='utf-8') as f:
+                f.write(line["line"])
 
 
 def main():
