@@ -1,0 +1,13 @@
+pipeline:
+  input:
+    raw_dir: "data/raw"
+    file_pattern: "*.txt"
+  
+  processing:
+    output_dir: "data/processed"
+    json_format: "pretty"  # or "compact"
+  
+  training_data:
+    output_dir: "data/final"
+    prompt_template: "templates/prompt.txt"
+    completion_template: "templates/completion.txt"
